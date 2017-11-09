@@ -2,6 +2,6 @@
 
 - [x] Conversão emi > edi
  
-- [] Estimativa da impedância via wiglink
+- [ ] Estimativa da impedância via wiglink
  
-- [] Estimativa da impedancia via egbert (Cluster)
+- [ ] Estimativa da impedancia via egbert (Cluster)
