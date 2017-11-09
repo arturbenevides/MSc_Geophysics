@@ -1,7 +1,7 @@
-Passo
+## Etapas do precessamento
 
- [x] Conversão emi > edi
+- [x] Conversão emi > edi
  
- [] Estimativa da impedância via wiglink
+- [] Estimativa da impedância via wiglink
  
- [] Estimativa da impedancia via egbert (Cluster)
+- [] Estimativa da impedancia via egbert (Cluster)
