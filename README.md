@@ -2,7 +2,7 @@
 `Título do projeto de pesquisa:` 
 # Imageamento Magnetotelúrico 3D da bacia do Iguatu: implicações hidrogeológicas. 
 
-Repository, MSC ON (1) Artur Benevides, Sergio Fontes
+Repository, MSC ON (1) Artur Benevides & Sergio Fontes
 
 Neste repositório constam textos, códigos e qualquer material desenvolvidos durante o Mestrado em Geofísica no Observatório Nacional para a área eletromagnetismo, em especial o método magnetotelúrico.
 
@@ -11,4 +11,45 @@ O objetivo deste projeto de pesquisa é fornecer um modelo geoelétrico de subsu
 
 
 
-*O diretório Iguatu contém informações sobre a área de estudo onde é empregado o método MT.
+### Cronograma
+N° |Atividade
+ ------------------------------|------------------------------------                   
+1|mprimento de disciplinas 
+2|visão bibliográfica      
+3|Processamento dos dados MT 
+4|Análise dimensional 
+5|Modelagem e Inversão
+6|Integração de dados geofísicos
+7|Interpretação dos resultados
+8|Redação da dissertação e do artigo  
+9|Submissão do artigo e defesa da dissertação	
+  
+  
+Ano 2017
+
+Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
+---------|-----|----|----|----|----|----|---|----|----|----|----|----
+1| | |[|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[x]|-[ ]|-[ ]|-[ ]
+2| | | | | | | | | |-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
+3| | | | | | | | | | | |x|x| x
+
+
+Ano 2018
+
+Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
+---------|-----|----|----|----|----|----|---|----|----|----|----|----
+2| | |[]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
+3| | | | | | | | | |-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
+4| | | | | | | | | | | |x|x| x
+5| | |[]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
+6| | | | | | | | | |-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
+7| | | | | | | | | | | |x|x| x
+8 | | | | | | | | | | |x|x| x
+
+
+Ano 2019
+
+Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
+---------|-----|----|----|----|----|----|---|----|----|----|----|----
+8| | |[]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
+9| | | | | | | | | |-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
