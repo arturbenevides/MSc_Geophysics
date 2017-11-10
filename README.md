@@ -2,7 +2,7 @@
 `Título do projeto de pesquisa:` 
 # Imageamento Magnetotelúrico 3D da bacia do Iguatu: implicações hidrogeológicas. 
 
-Repository, MSC ON (1) Artur Benevides & Sergio Fontes
+Repository, MSC Geofísica ON (1) Artur Benevides & Sergio Fontes
 
 Neste repositório constam textos, códigos e qualquer material desenvolvidos durante o Mestrado em Geofísica no Observatório Nacional para a área eletromagnetismo, em especial o método magnetotelúrico.
 
