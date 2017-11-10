@@ -14,15 +14,15 @@ O objetivo deste projeto de pesquisa é fornecer um modelo geoelétrico de subsu
 ### Cronograma
 N° |Atividade
  ------------------------------|------------------------------------                   
-1|Cumprimento dos créditos  
-2|Revisão bibliográfica      
-3|[Processamento dos dados MT](/Processamento/)  
-4|Análise dimensional 
-5|Modelagem e Inversão
-6|Integração de dados geofísicos
-7|Interpretação dos resultados
-8|Redação da dissertação e do artigo  
-9|Submissão de artigo e defesa da dissertação	
+1|: Cumprimento dos créditos  :
+2|: Revisão bibliográfica      :
+3|: [Processamento dos dados MT](/Processamento/) :  
+4|: Análise dimensional  :
+5|: Modelagem e Inversão :
+6|: Integração de dados geofísicos :
+7|: Interpretação dos resultados :
+8|: Redação da dissertação e do artigo  :
+9|: Submissão de artigo e defesa da dissertação	:
   
   
 Ano 2017
