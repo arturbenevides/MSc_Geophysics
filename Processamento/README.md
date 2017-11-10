@@ -6,4 +6,5 @@
  
 - [ ] Estimativa da impedancia via egbert (Cluster)
 
-`49 estações`
+`48 estações`
+
