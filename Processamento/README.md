@@ -1,4 +1,4 @@
-## Etapas do precessamento
+## Etapas propostas
 
 - [x] Conversão e do formato TS > ASCII
  
@@ -6,8 +6,17 @@
  
 - [ ] Estimativa da impedancia via egbert (Cluster)
 
-`48 estações`
 
+
+
+`48 Sítios de aquisição`
+
+Extensão | Bandas de frequência 
+---------|----------------------
+TS4      | 512 Hz
+TS3      |  32 Hz
+TS2      |   5 Hz
+TS1      |   2 Hz
 
 - (1)  MT001
 - (2)  MT002 `it hasn't ts1` 
