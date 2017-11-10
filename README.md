@@ -9,7 +9,7 @@ Neste repositório constam textos, códigos e qualquer material desenvolvidos du
 
 O objetivo deste projeto de pesquisa é fornecer um modelo geoelétrico de subsuperfície para [bacia de Iguatu](https://github.com/arturbenevides/Magnetotelluric/tree/master/Bacia%20do%20Iguatu) utilizando a metodologia de inversão tridimensional com o algorítmo [modeEM](https://sites.google.com/site/modularem/) para dados magnetotelúricos.
 
-- [ ]
+
 
 ### Cronograma
 N° |Atividade
@@ -29,27 +29,27 @@ Ano 2017
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|-----|----|----|----|----|----|---|----|----|----|----|----
-1| | |[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[x]|-[ ]|-[ ]|-[ ]
-2| | | | | | | | | |-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
-3| | | | | | | | | | | |x|x| x
+1| | |* |* |* |* |* |* |* |* |* |*
+2| | | | | | | | | |* |* |* |* |*
+3| | | | | | | | | | | |* |* | *
 
 
 Ano 2018
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|-----|----|----|----|----|----|---|----|----|----|----|----
-2| | |[]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
-3| | | | | | | | | |-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
-4| | | | | | | | | | | |x|x| x
-5| | |[]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
-6| | | | | | | | | |-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
-7| | | | | | | | | | | |x|x| x
-8 | | | | | | | | | | |x|x| x
+2| * |* |* |* |* |* |* |* |* |* |* |*
+3| | | | | | | | | |* |* |* |* |*
+4| | | | | | | | | | | |* |* | *
+5|  | |* |* |* |* |* |* |* |* |* |*
+6| | | | | | | | | |* |* |* |* |*
+7| | | | | | | | | | | |* |* | *
+8 | | | | | | | | | | |* |* | *
 
 
 Ano 2019
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|-----|----|----|----|----|----|---|----|----|----|----|----
-8| | |[]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
-9| | | | | | | | | |-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
+8| |* |* |* |* |* |* |* |* |* |* |*
+9| | | | | | | | | |* |* |* |* |*
