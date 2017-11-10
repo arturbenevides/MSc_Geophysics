@@ -9,7 +9,10 @@
 
 
 
-`48 Sítios de aquisição`
+## Estações
+
+
+Frequências de sondagem
 
 Extensão | Bandas de frequência 
 ---------|----------------------
@@ -17,6 +20,9 @@ TS4      | 512 Hz
 TS3      |  32 Hz
 TS2      |   5 Hz
 TS1      |   2 Hz
+
+
+`48 Sítios de aquisição`
 
 - (1)  MT001
 - (2)  MT002 `it hasn't ts1` 
