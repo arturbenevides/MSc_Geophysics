@@ -55,4 +55,4 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 9| | | | | | | | | |* |* |* |* |*
 
 
-*Para um melhor acompanhamento do progresso visite **[Progress](/projects/1)**
+* Para um melhor acompanhamento do progresso visite **[Progress](https://github.com/arturbenevides/Magnetotelluric/projects/1)**
