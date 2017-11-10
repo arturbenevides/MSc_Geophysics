@@ -9,27 +9,27 @@ Neste repositório constam textos, códigos e qualquer material desenvolvidos du
 
 O objetivo deste projeto de pesquisa é fornecer um modelo geoelétrico de subsuperfície para [bacia de Iguatu](https://github.com/arturbenevides/Magnetotelluric/tree/master/Bacia%20do%20Iguatu) utilizando a metodologia de inversão tridimensional com o algorítmo [modeEM](https://sites.google.com/site/modularem/) para dados magnetotelúricos.
 
-
+- [ ]
 
 ### Cronograma
 N° |Atividade
  ------------------------------|------------------------------------                   
-1|mprimento de disciplinas 
-2|visão bibliográfica      
-3|Processamento dos dados MT 
+1|Cumprimento dos créditos  
+2|Revisão bibliográfica      
+3|[Processamento dos dados MT](/Processamento/)  
 4|Análise dimensional 
 5|Modelagem e Inversão
 6|Integração de dados geofísicos
 7|Interpretação dos resultados
 8|Redação da dissertação e do artigo  
-9|Submissão do artigo e defesa da dissertação	
+9|Submissão de artigo e defesa da dissertação	
   
   
 Ano 2017
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|-----|----|----|----|----|----|---|----|----|----|----|----
-1| | |[|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[x]|-[ ]|-[ ]|-[ ]
+1| | |[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[ ]|-[x]|-[ ]|-[ ]|-[ ]
 2| | | | | | | | | |-[ ]|-[ ]|-[ ]|-[ ]|-[ ]
 3| | | | | | | | | | | |x|x| x
 
