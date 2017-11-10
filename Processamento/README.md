@@ -1,8 +1,10 @@
 ## Etapas propostas
 
+- [x] Checar Séries temporais [TS](https://github.com/arturbenevides/Magnetotelluric/blob/master/TSeries.1.pdf)
+
 - [x] Conversão e do formato TS > ASCII
  
-- [ ] Estimativa da impedância via wiglink
+- [ ] Estimativa do tensor de impedância  e resistividade via wiglink [pho, phase MT002](https://github.com/arturbenevides/Magnetotelluric/blob/master/Soundings.pdf)
  
 - [ ] Estimativa da impedancia via egbert (Cluster)
 
@@ -25,7 +27,7 @@ TS1      |   2 Hz
 `48 Sítios de aquisição`
 
 - (1)  MT001
-- (2)  MT002 `it hasn't ts1` 
+- (2)  MT002 `Sem ts1` 
 - (3)  MT004
 - (4)  MT005
 - (5)  MT008
@@ -41,7 +43,7 @@ TS1      |   2 Hz
 - (15) MT032
 - (16) MT036
 - (17) MT039
-- (18) MT042 `it hasn't ts1` 
+- (18) MT042 `sem ts1` 
 - (19) MT046
 - (20) MT048
 - (21) MT049 
@@ -51,15 +53,15 @@ TS1      |   2 Hz
 - (25) MT056
 - (26) MT057
 - (27) MT058
-- (28) MT059 `it hasn't ts1`
-- (29) MT062 `it hasn't ts1` 
+- (28) MT059 `sem ts1`
+- (29) MT062 `sem ts1` 
 - (30) MT063
 - (31) MT065
 - (32) MT068
 - (33) MT071 
 - (34) MT080
 - (35) MT084
-- (36) MT088 `it hasn't ts1`
+- (36) MT088 `sem ts1`
 - (37) MT093
 - (38) MT097
 - (39) MT101
