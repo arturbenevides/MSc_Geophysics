@@ -1,10 +1,10 @@
 ## Etapas propostas
 
-- [x] Checar Séries temporais [TS](https://github.com/arturbenevides/Magnetotelluric/blob/master/TSeries.1.pdf)
+- [x] Visualização das Séries temporais ([TS](https://github.com/arturbenevides/Magnetotelluric/blob/master/TSeries.1.pdf))
 
 - [x] Conversão e do formato TS > ASCII
  
-- [ ] Estimativa do tensor de impedância  e resistividade via wiglink [pho, phase MT002](https://github.com/arturbenevides/Magnetotelluric/blob/master/Soundings.pdf)
+- [ ] Estimativa do tensor de impedância  e resistividade via wiglink ([pho, phase para estação MT002](https://github.com/arturbenevides/Magnetotelluric/blob/master/Soundings.pdf))
  
 - [ ] Estimativa da impedancia via egbert (Cluster)
 
