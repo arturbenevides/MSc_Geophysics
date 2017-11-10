@@ -1,5 +1,5 @@
 
-`Título do projeto de pesquisa: :sos:` 
+`Título do projeto de pesquisa:`:sos: 
 # Imageamento Magnetotelúrico 3D da bacia do Iguatu: implicações hidrogeológicas. 
 
 Repository, MSC Geofísica ON (1) Artur Benevides & Sergio Fontes :squirrel:
