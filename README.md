@@ -2,7 +2,7 @@
 `Título do projeto de pesquisa:` 
 # Imageamento Magnetotelúrico 3D da bacia do Iguatu: implicações hidrogeológicas. 
 
-Repository, MSC ON (1) Artur Benevides, Sergio Fontes
+Repository, MSC Geofísica ON (1) [Artur Benevides](http://lattes.cnpq.br/7097271152547438) & [Sergio Fontes](http://lattes.cnpq.br/8537150955145617) 
 
 Neste repositório constam textos, códigos e qualquer material desenvolvidos durante o Mestrado em Geofísica no Observatório Nacional para a área eletromagnetismo, em especial o método magnetotelúrico.
 
@@ -11,4 +11,48 @@ O objetivo deste projeto de pesquisa é fornecer um modelo geoelétrico de subsu
 
 
 
-*O diretório Iguatu contém informações sobre a área de estudo onde é empregado o método MT.
+### Cronograma
+N° |Atividade
+ ------------------------------|------------------------------------                   
+1| Cumprimento dos créditos  
+2| Revisão bibliográfica     
+3| [Processamento dos dados MT](/Processamento/)  
+4| Análise dimensional  
+5| Modelagem e Inversão 
+6| Integração de dados geofísicos 
+7| Interpretação dos resultados 
+8| Redação da dissertação e do artigo  
+9| Submissão de artigo e defesa da dissertação	
+  
+  
+Ano 2017
+
+Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
+---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
+1| | |* |* |* |* |* |* |* |* |* |*
+2| | | | | | | | | |* |* |* |* |*
+3| | | | | | | | | | | |* |* | *
+
+
+Ano 2018
+
+Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
+---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
+2| * |* |* |* |* |* |* |* |* |* |* |*
+3| | | | | | | | | |* |* |* |* |*
+4| | | | | | | | | | | |* |* | *
+5|  | |* |* |* |* |* |* |* |* |* |*
+6| | | | | | | | | |* |* |* |* |*
+7| | | | | | | | | | | |* |* | *
+8 | | | | | | | | | | |* |* | *
+
+
+Ano 2019
+
+Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
+---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
+8| |* |* |* |* |* |* |* |* |* |* |*
+9| | | | | | | | | |* |* |* |* |*
+
+
+* Para um melhor acompanhamento do progresso visite **[Progress](https://github.com/arturbenevides/Magnetotelluric/projects/1)** :squirrel:
