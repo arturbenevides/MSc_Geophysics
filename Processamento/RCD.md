@@ -2,9 +2,9 @@
 
 ## Steps:
 
-> File
+1. File
 
-  > Tools
+2. Tools
   
    > cascade decimation, robust processing 
     
