@@ -11,7 +11,7 @@
 4. Select the folder where the files will be save
    * click in `new`
    
- 5. **Parameters file widard**
+5. **Parameters file widard**
    * Parameter file (.rcd): (Name it!)
    * Time series type: depends on the equipament. Emi, Metronix
    * insert the number of sites process.
@@ -25,7 +25,7 @@
    * Maximun % of data to discard: 35.0
    * Robust Maximization type: Local E - Local H if you don't have remote station
    
-7.  **Parameters file widard - Time series 2**
+7. **Parameters file widard - Time series 2**
    * Select the band -> Add file 
    * Add file to set 1.
    
@@ -40,11 +40,10 @@ Band of frequency | time series
   - Sensor path: Choose the folder where are the informations about sensor for calibration.
   
 8. **Parameters file widard - Time series 3**
-  
-  * Name the site and select `Finish`.
+   * Name the site and select `Finish`.
   
 9. **Robust Cascade Decimation** 
-  * Select parameter files (MT000.rcd) to include in Batch run field
-  * Select `run` and it done!
+   * Select parameter files (MT000.rcd) to include in Batch run field
+   * Select `run` and it done!
   
   
