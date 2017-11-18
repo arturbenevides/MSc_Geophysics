@@ -12,7 +12,7 @@
    * click in `new`
    
  5. **Parameters file widard**
-   * Parameter file (*rcd): (Name it!)
+   * Parameter file (.rcd): (Name it!)
    * Time series type: depends on the equipament. Emi, Metronix
    * insert the number of sites process.
    * insert the number of frequency band.
