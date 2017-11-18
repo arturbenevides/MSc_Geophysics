@@ -27,9 +27,23 @@
    
    > **Parameters file widard - Time series 2**
    - Select the band -> Add file 
-   Band | ts
-   -----|---
-   1 | TS4
-   2| TS3
-   3| TS2
-   4| TS1
+   - Add file to set 1.
+   
+
+Band of frequency | time series 
+---------|----------------------
+1      | TS4
+2      |  TS3
+3      |  TS2
+4      |  TS1
+
+  - Sensor path: Choose the folder where are the informations about sensor for calibration.
+  
+  > **Parameters file widard - Time series 3**
+  
+  - Name the site and select `Finish`.
+  > ** Robust Cascade Decimation** 
+  - Select parameter files (MT000.rcd) to include in Batch run field
+  - Select `run` and it done!
+  
+  
