@@ -76,3 +76,12 @@ TS1      |   2 Hz
 - (46) MT123
 - (47) MT128
 - (48) MT195
+
+Adicionais:
+- (49) MTA01
+- (50) TESTE11
+- (51) TESTE12
+- (52) TESTE21
+- (53) TESTE22
+- (54) VARG1 `único que contem ts2`.
+#
