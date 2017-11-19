@@ -4,11 +4,13 @@
 
 - [x] Conversão e do formato TS > ASCII
  
-- [ ] Estimativa do tensor de impedância  e resistividade via wiglink ([pho, phase para estação MT002](https://github.com/arturbenevides/Magnetotelluric/blob/master/Soundings.pdf))
+- [x] Estimativa do tensor de impedância  e resistividade via wiglink ([pho, phase para estação MT002](https://github.com/arturbenevides/Magnetotelluric/blob/master/Soundings.pdf))(18/11/2017)
  
+- [x] Importar as estações processadas (.edi) pelo winglink (18/11/2017)
+
 - [ ] Estimativa da impedancia via egbert (Cluster)
 
-
+- [ ] Converter as coordenadas UTM > Lat Long
 
 
 ## Estações
@@ -74,3 +76,12 @@ TS1      |   2 Hz
 - (46) MT123
 - (47) MT128
 - (48) MT195
+
+Adicionais:
+- (49) MTA01
+- (50) TESTE11
+- (51) TESTE12
+- (52) TESTE21
+- (53) TESTE22
+- (54) VARG1 `único que contem ts2`.
+#
