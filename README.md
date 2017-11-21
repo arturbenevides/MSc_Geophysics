@@ -17,15 +17,16 @@ N° |Atividade
 1| Cumprimento dos créditos  
 2| Revisão bibliográfica     
 3| [Processamento dos dados MT](/Processamento/)  
-4| Análise dimensional  
+4| Análise dimensional [1] 
 5| Modelagem e Inversão 
 6| Integração de dados geofísicos 
 7| Interpretação dos resultados 
 8| Redação da dissertação e do artigo  
 9| Submissão de artigo e defesa da dissertação	
   
-  
-Ano 2017
+ [1] Não será necessário. pois a inversão será 3D.
+ 
+Ano 2017 [ ]
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
@@ -34,7 +35,7 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 3| | | | | | | | | | | |* |* | *
 
 
-Ano 2018
+Ano 2018 [ ]
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
@@ -47,7 +48,7 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 8 | | | | | | | | | | |* |* | *
 
 
-Ano 2019
+Ano 2019 [ ]
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
