@@ -4,14 +4,18 @@
 
 - [x] Conversão e do formato TS > ASCII
  
-- [x] Estimativa do tensor de impedância  e resistividade via wiglink ([pho, phase para estação MT002](https://github.com/arturbenevides/Magnetotelluric/blob/master/Soundings.pdf))(18/11/2017)
- 
+- [x] Estimativa do tensor de impedância  e resistividade via wiglink (pho, phase etc)[:mag_right:](https://github.com/arturbenevides/Magnetotelluric/blob/master/Soundings.pdf))(18/11/2017)
+
+
+- [x] Converter as coordenadas utm > Lat Long (18/11/2017) [:mag_right:](https://github.com/arturbenevides/Magnetotelluric/blob/master/Processamento/convert_utm_lat_long.ipynb)
+
 - [x] Importar as estações processadas (.edi) pelo winglink (18/11/2017)
+
 
 - [ ] Estimativa da impedancia via egbert (Cluster)
 
-- [x] Converter as coordenadas UTM > Lat Long
 
+- [] Modelagem e inversão 2D
 
 ## Estações
 
