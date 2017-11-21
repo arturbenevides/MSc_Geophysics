@@ -24,9 +24,9 @@ N° |Atividade
 8| Redação da dissertação e do artigo  
 9| Submissão de artigo e defesa da dissertação	
   
- [1] Não será necessário. pois a inversão será 3D.
+ [1] Não será necessário, pois a inversão será 3D.
  
-Ano 2017 [ ]
+- [ ] 2017
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
@@ -35,7 +35,7 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 3| | | | | | | | | | | |* |* | *
 
 
-Ano 2018 [ ]
+- [ ] 2018
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
@@ -48,7 +48,7 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 8 | | | | | | | | | | |* |* | *
 
 
-Ano 2019 [ ]
+- [ ] 2019
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
