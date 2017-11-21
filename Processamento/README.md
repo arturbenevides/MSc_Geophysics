@@ -10,7 +10,7 @@
 
 - [ ] Estimativa da impedancia via egbert (Cluster)
 
-- [ ] Converter as coordenadas UTM > Lat Long
+- [x] Converter as coordenadas UTM > Lat Long
 
 
 ## Estações
