@@ -15,7 +15,7 @@
 - [ ] Estimativa da impedancia via egbert (Cluster)
 
 
-- [] Modelagem e inversão 2D
+- [ ] Modelagem e inversão 2D
 
 ## Estações
 
