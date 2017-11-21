@@ -80,9 +80,9 @@ TS1      |   2 Hz
 - (46) MT123
 - (47) MT128
 - (48) MT195
+- (49) MTA01
 
 Adicionais:
-- (49) MTA01
 - (50) TESTE11
 - (51) TESTE12
 - (52) TESTE21
