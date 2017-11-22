@@ -15,7 +15,8 @@
 
 
 - [ ] Estimativa da impedancia via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) (Cluster)
-
+  
+   - [ ] Montar o input para MTphasetensor
 
 - [ ] Modelagem e inversão 2D
 
