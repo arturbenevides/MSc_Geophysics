@@ -48,7 +48,7 @@ Band of frequency | time series
   
   
   
-  Cascade Decimation
+# Cascade Decimation
 
 
 Cascade decimation is a technique for computing power spectra estimates for single or multi-channel time series data. 
