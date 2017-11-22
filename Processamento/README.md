@@ -4,7 +4,7 @@
 
 - [x] Conversão e do formato TS > ASCII
  
-- [x] Estimativa do tensor de impedância  e resistividade via wiglink (pho, phase etc) (18/11/2017) [:mag_right:](https://github.com/arturbenevides/Magnetotelluric/blob/master/Soundings.pdf)
+- [x] Estimativa do tensor de impedância  e resistividade via winglink (pho, phase etc) (18/11/2017) [:mag_right:](https://github.com/arturbenevides/Magnetotelluric/blob/master/Soundings.pdf)
 
 
 - [x] Converter as coordenadas utm > Lat Long (18/11/2017) [:mag_right:](https://github.com/arturbenevides/Magnetotelluric/blob/master/Processamento/convert_utm_lat_long.ipynb)
