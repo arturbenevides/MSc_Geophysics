@@ -11,6 +11,8 @@
 
 - [x] Importar as estações processadas (.edi) pelo winglink (18/11/2017)
 
+- [ ] Filtrar as frequências de ruído das séries temporais e modificar os parâmetros da decimação em casacata;
+
 
 - [ ] Estimativa da impedancia via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) (Cluster)
 
