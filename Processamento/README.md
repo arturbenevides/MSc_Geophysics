@@ -12,7 +12,7 @@
 - [x] Importar as estações processadas (.edi) pelo winglink (18/11/2017)
 
 
-- [ ] Estimativa da impedancia via egbert (Cluster)
+- [ ] Estimativa da impedancia via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) (Cluster)
 
 
 - [ ] Modelagem e inversão 2D
