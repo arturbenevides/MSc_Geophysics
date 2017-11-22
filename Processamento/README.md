@@ -17,6 +17,10 @@
 
 - [ ] Modelagem e inversão 2D
 
+- [ ] Inversão 3D usando o modEM
+
+#
+
 ## Estações
 
 
