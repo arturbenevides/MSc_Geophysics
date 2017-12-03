@@ -67,3 +67,12 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 2017| | |Ínicio |  | | | | |Seminário I | | |Disciplinas (Fim)
 2018| | |Relatório | | | | | | Seminário II| | |Dissertação (Entrega) 
 2019| | | Defesa| | | | | | | | |
+
+
+# Disciplinas cursadas
+
+
+[Física da Terra](http://on.br/dppg/geofisica/ementa/FiSICA_DA_TERRA_rev.pdf)
+[Métodos Matemáticos Aplicados à Geofísica](http://on.br/dppg/geofisica/ementa/METODOS_MATEMATICOS_EM_GEOFISICA_rev.pdf)
+[Introdução à Geofísica de Exploração](http://on.br/dppg/geofisica/ementa/INTRODUCAO_A_GEOFISICA_DE_EXPLORACAO_rev.pdf)
+[Métodos Computacionais Aplicados à Geofísica](http://on.br/dppg/geofisica/ementa/METODOS_COMPUTACIONAIS_APLICADOS_A_GEOFISICA_rev.pdf)
