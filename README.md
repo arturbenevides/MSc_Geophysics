@@ -29,7 +29,7 @@ N° |Atividade
 - [ ] 2017
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
----------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
+---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
 1| | |* |* |* |* |* |* |* |* |* |*
 2| | | | | | | | *|* |* |* |* |
 3| | | | | | | | | |* |* |*
@@ -63,7 +63,7 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 # Calendário ON
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
----------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
-2017| | |Ínicio |  | | | | |Seminário I | | |Fim das disciplinas
-2018| | |Relatório | | | | | | Seminário II| | |
+---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
+2017| | |Ínicio |  | | | | |Seminário I | | |Disciplinas (Fim)
+2018| | |Relatório | | | | | | Seminário II| | |Dissertação (Entrega) 
 2019| | | Defesa| | | | | | | | |
