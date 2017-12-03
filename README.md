@@ -64,6 +64,6 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
-2017| | |ínicio |  | | | | |Seminário 1 | | |
-2018| | |Relatório | | | | | | Seminário 2| | |
+2017| | |Ínicio |  | | | | |Seminário I | | |Fim das disciplinas
+2018| | |Relatório | | | | | | Seminário II| | |
 2019| | | Defesa| | | | | | | | |
