@@ -59,10 +59,11 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 * Para um melhor acompanhamento do progresso visite **[Progress](https://github.com/arturbenevides/Magnetotelluric/projects/1)** :squirrel:
 
 
+#
 # Calendário ON
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
-2017| | |* |* |* |* |* |* |* |* |* |*
-2017| | |* |* |* |* |* |* |* |* |* |*
-2017| | |* |* |* |* |* |* |* |* |* |*
+2017| | |ínicio |  | | | | |Seminário 1 | | |
+2018| | |Relatório | | | | | | Seminário 2| | |
+2019| | | | | | | | | | | |
