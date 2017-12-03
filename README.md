@@ -59,7 +59,7 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 * Para um melhor acompanhamento do progresso visite **[Progress](https://github.com/arturbenevides/Magnetotelluric/projects/1)** :squirrel:
 
 
-#
+
 # Calendário ON
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
@@ -72,7 +72,11 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 # Disciplinas cursadas
 
 
-[Física da Terra](http://on.br/dppg/geofisica/ementa/FiSICA_DA_TERRA_rev.pdf)
-[Métodos Matemáticos Aplicados à Geofísica](http://on.br/dppg/geofisica/ementa/METODOS_MATEMATICOS_EM_GEOFISICA_rev.pdf)
-[Introdução à Geofísica de Exploração](http://on.br/dppg/geofisica/ementa/INTRODUCAO_A_GEOFISICA_DE_EXPLORACAO_rev.pdf)
-[Métodos Computacionais Aplicados à Geofísica](http://on.br/dppg/geofisica/ementa/METODOS_COMPUTACIONAIS_APLICADOS_A_GEOFISICA_rev.pdf)
+> [Física da Terra](http://on.br/dppg/geofisica/ementa/FiSICA_DA_TERRA_rev.pdf)
+> [Métodos Matemáticos Aplicados à Geofísica](http://on.br/dppg/geofisica/ementa/METODOS_MATEMATICOS_EM_GEOFISICA_rev.pdf)
+> [Introdução à Geofísica de Exploração](http://on.br/dppg/geofisica/ementa/INTRODUCAO_A_GEOFISICA_DE_EXPLORACAO_rev.pdf)
+> [Métodos Computacionais Aplicados à Geofísica](http://on.br/dppg/geofisica/ementa/METODOS_COMPUTACIONAIS_APLICADOS_A_GEOFISICA_rev.pdf)
+> [Geomagnetismo](http://on.br/dppg/geofisica/ementa/GEOMAGNETISMO_rev.pdf)
+> [INDUÇÃO ELETROMAGNÉTICA EM MEIOS GEOLÓGICOS](http://on.br/dppg/geofisica/ementa/INDUCAO_ELETROMAGNETICA_EM_MEIOS_GEOLOGICOS_rev.pdf)
+> [Geologia Geral e Aplicada](http://on.br/dppg/geofisica/ementa/GEOLOGIA_GERAL_E_APLICADA_rev.pdf)
+> [Geofísica Aplicada à Exploração de Petróleo e Mineração](http://on.br/dppg/geofisica/ementa/GEOFISICA_APLICADA_A_EXPLORACAO_DE_PETROLEO_ref.pdf)
