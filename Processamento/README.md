@@ -11,6 +11,8 @@
 
 - [x] Importar as estações processadas (.edi) pelo winglink (18/11/2017)
 
+- [ ] Colocar as coordenadas no header
+
 - [ ] Filtrar as frequências de ruído das séries temporais e modificar os parâmetros da decimação em casacata;
 
 
