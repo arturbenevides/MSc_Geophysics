@@ -14,9 +14,12 @@
 - [ ] Filtrar as frequências de ruído das séries temporais e modificar os parâmetros da decimação em casacata;
 
 
-- [ ] Estimativa da impedancia via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) (Cluster)
+- [ ] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) (Cluster)
   
-   - [ ] Montar o input para MTphasetensor
+   - [ ] Converter EMI to ASC
+   - [ ] Montar .clc e .sp
+   
+- [ ] Converter Zss to EDI e selecionar as melhores curvas por janelas de frequência
 
 - [ ] Modelagem e inversão 2D
 
