@@ -3,9 +3,9 @@
 Os programas do Egbert (dnff, tranmt, rfemi rfasc) exigem um arquivo clock. 
 Caso não seja gerado automaticamente, tal arquivo pode ser criado dando as seguintes informações:
 
-**.5              --> taxa de amostragem em segundos [1]**
-** 04 9 7 12 57 56 --> tempo de inicio da contagem    [2] **
-** 04 9 7 12 57 56 --> Tempo de ínicio da medição do primeiro arquivo [3] **
++ **.5              --> taxa de amostragem em segundos [1]**
++ **04 9 7 12 57 56 --> tempo de inicio da contagem    [2] **
++ **04 9 7 12 57 56 --> Tempo de ínicio da medição do primeiro arquivo [3] **
 
 
 Como reitrar essas informações do header:
