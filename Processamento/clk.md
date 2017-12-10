@@ -8,12 +8,12 @@ Caso não seja gerado automaticamente, tal arquivo pode ser criado dando as segu
 + **04 9 7 12 57 56 --> Tempo de ínicio da medição do primeiro arquivo [3]**
 
 
-Como reitrar essas informações do header:
+Como retirar essas informações do header:
 
 ### Exemplo de Header
 
-DATA FILE:04I0051.TS4
-VERSIONID: MTACQ 2.00
+-DATA FILE:04I0051.TS4 
+-VERSIONID: MTACQ 2.00
 DATE TIME:20040907 12:57:56 --> * [2] *
 SURVEY ID:IGUATU                        
 SURVEY CO:ON                            
