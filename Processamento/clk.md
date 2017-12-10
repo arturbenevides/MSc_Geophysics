@@ -14,7 +14,7 @@ Como retirar essas informações do header:
 
 - DATA FILE:04I0051.TS4 
 - VERSIONID: MTACQ 2.00
-- DATE TIME:20040907 12:57:56 --> **[2]**
+- DATE TIME: __20040907 12:57:56__ --> **[2]**
 + SURVEY ID:IGUATU                        
 - SURVEY CO:ON                            
 - CLIENT CO:ON                            
