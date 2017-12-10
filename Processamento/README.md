@@ -18,10 +18,10 @@
 
 - [ ] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) (Cluster)
   
-   - [ ] Montar .clk
-   - [ ] usar o RFEMI
-   - [ ] usar o dnff
-   - [ ] usar o tranmt
+   - [ ] Montar [.clk](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clk.md)
+   - [ ] Usar o RFEMI
+   - [ ] Usar o dnff
+   - [ ] Usar o tranmt
    
 - [ ] Correção de *static shift*   
 - [ ] Modelagem e inversão 2D
