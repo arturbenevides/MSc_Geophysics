@@ -18,11 +18,12 @@
 
 - [ ] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) (Cluster)
   
-   - [ ] Converter EMI to ASC
-   - [ ] Montar .clc e .sp
+   - [ ] Montar .clk
+   - [ ] usar o RFEMI
+   - [ ] usar o dnff
+   - [ ] usar o tranmt
    
-- [ ] Converter Zss to EDI e selecionar as melhores curvas por janelas de frequência
-
+- [ ] Correção de *static shift*   
 - [ ] Modelagem e inversão 2D
 
 - [ ] Inversão 3D usando o modEM
