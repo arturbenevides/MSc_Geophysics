@@ -14,7 +14,7 @@ Como retirar essas informações do header:
 
 - DATA FILE:04I0051.TS4 
 - VERSIONID: MTACQ 2.00
-- DATE TIME: __20040907 12:57:56__ --> **[2]**
+- DATE TIME: _20040907 12:57:56_ --> **[2]**
 + SURVEY ID:IGUATU                        
 - SURVEY CO:ON                            
 - CLIENT CO:ON                            
@@ -37,7 +37,7 @@ Como retirar essas informações do header:
 - CHANEL  4:Hy-1 BF4-9923 90    (0     ,0     ,0     )50dB15
 - CHANEL  5:Hz-1 BF7-9010 0     (0     ,0     ,0     )50dB15
 - DATA TYPE:TSTS (2i10,3f10.5,i10) (i2)
-- PARAMETER:        10        10    1.0000   94.0000  512.0000  **[1]**     512
+- PARAMETER:        10        10    1.0000   94.0000  _512.0000_  **[1]**     512
 - DATA VALUE
 
 A informação **[3]** é referente ao inicio da aquisição (primeira estação e primeiro arquivo).
