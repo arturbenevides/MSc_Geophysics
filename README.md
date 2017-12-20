@@ -17,21 +17,21 @@ N° |Atividade
 1| Cumprimento dos créditos  
 2| Revisão bibliográfica     
 3| [Processamento dos dados MT](/Processamento/)  
-4| Análise dimensional [1] 
+4| Correção de *static shift* [1] 
 5| Modelagem e Inversão 
 6| Integração de dados geofísicos 
 7| Interpretação dos resultados 
 8| Redação da dissertação e do artigo  
 9| Submissão de artigo e defesa da dissertação	
   
- [1] Não será necessário, pois a inversão será 3D.
+ [1] Modificação do conograma, antes na etapa 4 seria realizado a análise dimensional dos dados para verificar se o ambiente era 1D, 2D ou 3D, agora não será necessário, pois a inversão será 3D.
  
 - [x] 2017
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
 1| | |* |* |* |* |* |* |* |* |* |*
-2| | | | | | | | *|* |* |* |* |
+2| | | | | | | | * |* |* |* |* |
 3| | | | | | | | | |* |* |*
 
 
@@ -40,8 +40,8 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
 2| * |* |* |* |* |* |* |* |* |* |* |*
-3| *|* |* |* |* |* |* | *| | | | | |
-4| | | | | *|* | | | | | | | | 
+3| * |* |* |* |* |* |* | * | | | | | |
+4| | | | | * |* | | | | | | | | 
 5|  | | | |* |* |* |* | | | |
 6| | | | | | | | | |* |* | | |
 7| | | | | | | | | | | |* |* | *
