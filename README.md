@@ -26,7 +26,7 @@ N° |Atividade
   
  [1] Não será necessário, pois a inversão será 3D.
  
-- [ ] 2017
+- [x] 2017
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
@@ -53,7 +53,7 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
 8| * |* | | | | | ||  | | ||
-9| | *|* || | | | | | | | 
+9| | * |* || | | | | | | | 
 
 
 * Para um melhor acompanhamento do progresso visite **[Progress](https://github.com/arturbenevides/Magnetotelluric/projects/1)** :squirrel:
