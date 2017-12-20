@@ -14,7 +14,7 @@ O objetivo deste projeto de pesquisa é fornecer um modelo geoelétrico de subsu
 ### Cronograma
 N° |Atividade
  ------------------------------|------------------------------------                   
-1| Cumprimento dos créditos  
+1| Cumprimento dos créditos  - [ ]
 2| Revisão bibliográfica     
 3| [Processamento dos dados MT](/Processamento/)  
 4| Correção de *static shift* [1] 
