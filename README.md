@@ -82,3 +82,16 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
  > * [Geofísica Aplicada à Exploração de Petróleo e Mineração](http://on.br/dppg/geofisica/ementa/GEOFISICA_APLICADA_A_EXPLORACAO_DE_PETROLEO_ref.pdf)
 
 Cada disciplina equivale a 3 créditos formando no total 24 créditos.
+
+
+# Bibliografia
+
+Abaixo estão listada as bibliografias mais importantes/utilizadas na elaboração da dissertação:
+
+## MT
+
+## Bacia do Iguatu
+
+ARIMA, N., 2007, Análise Estatigráfica da Bacia do Iguatu, CE. Ph.D. dissertation, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil.
+
+CASTRO, D., CASTELO BRANCO, R., 1999, Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
