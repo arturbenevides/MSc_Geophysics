@@ -93,12 +93,18 @@ Abaixo estão listada as bibliografias mais importantes/utilizadas na elaboraç�
 
 ### MT
 
-EGBERT, G. D., BOOKER, J. R., 1986, \Robust estimation of geomagnetic transfer functions", Geophysical Journal International, v. 87, n. 1, pp. 173-194.
+- [ ] EGBERT, G. D., BOOKER, J. R., 1986, \Robust estimation of geomagnetic transfer functions", Geophysical Journal International, v. 87, n. 1, pp. 173-194.
 
-KELBERT, A., MEQBEL, N., EGBERT, G. D., et al., 2014, ModEM: A modular system for inversion of electromagnetic geophysical data", Computers & Geosciences, v. 66, pp. 40-53
+- [ ] KELBERT, A., MEQBEL, N., EGBERT, G. D., et al., 2014, ModEM: A modular system for inversion of electromagnetic geophysical data", Computers & Geosciences, v. 66, pp. 40-53
+
+- [ ] FIGUEIREDO, I., 1997, Investigação Magnetotelúrica nas Serras do Sudeste Brasileiro (RJ/MG): uma Proposta de Modelo Crustal. Tese de D.Sc., Observatório Nacional, Rio de Janeiro, RJ, Brasil
+
+- [ ] SIMPSON, F., BAHR, K., 2005, Practical magnetotellurics. Cambridge University Press
 
 ### Bacia do Iguatu
 
-ARIMA, N., 2007, Análise Estatigráfica da Bacia do Iguatu, CE. Ph.D. dissertation, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil.
+- [ ] ARIMA, N., 2007, Análise Estatigráfica da Bacia do Iguatu, CE. Ph.D. dissertation, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil.
 
-CASTRO, D., CASTELO BRANCO, R., 1999, Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
+- [ ] BENDELAK, M., R. Caracterização da Folha Iguatu (Região Centro-Sul do Estado do Ceará) Integrando Dados Aerogeofísicos, Geológicos e de Imagens de Satélite. Tese de Doutorado. Universidade de São Paulo, São Paulo, SP, Brasil.
+
+- [ ] CASTRO, D., CASTELO BRANCO, R., 1999, Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
