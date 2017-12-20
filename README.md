@@ -59,7 +59,8 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 * Para um melhor acompanhamento do progresso visite **[Progress](https://github.com/arturbenevides/Magnetotelluric/projects/1)** :squirrel:
 
 
-
+_
+_
 # Calendário ON
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
@@ -83,6 +84,8 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 
 Cada disciplina equivale a 3 créditos formando no total 24 créditos.
 
+_
+_
 
 # Bibliografia
 
