@@ -28,7 +28,7 @@ N° |Atividade
  
 - [x] 2017
 
-Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
+Atividade| ~~jan~~ | ~~fev~~| mar| abr| mai| jun| jul| ago|set| out| nov| dez~~
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
 1| | |* |* |* |* |* |* |* |* |* |*
 2| | | | | | | | * |* |* |* |* |
