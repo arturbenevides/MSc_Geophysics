@@ -7,7 +7,7 @@ Repository, MSC Geofísica ON (1) [Artur Benevides](http://lattes.cnpq.br/709727
 Neste repositório constam textos, códigos e qualquer material desenvolvidos durante o Mestrado em Geofísica no Observatório Nacional para a área eletromagnetismo, em especial o método magnetotelúrico.
 
 
-O objetivo deste projeto de pesquisa é fornecer um modelo geoelétrico de subsuperfície para [bacia de Iguatu](https://github.com/arturbenevides/Magnetotelluric/tree/master/Bacia%20do%20Iguatu) utilizando a metodologia de inversão tridimensional com o algorítmo [modEM](https://sites.google.com/site/modularem/) para dados magnetotelúricos.
+O objetivo deste projeto de pesquisa é fornecer um modelo geoelétrico de subsuperfície para [bacia de Iguatu](https://github.com/arturbenevides/Magnetotelluric/tree/master/Bacia%20do%20Iguatu) (Ceará) utilizando a metodologia de inversão tridimensional com o algorítmo [modEM](https://sites.google.com/site/modularem/) para dados magnetotelúricos.
 
 
 
