@@ -91,7 +91,7 @@ _
 
 Abaixo estão listada as bibliografias mais importantes/utilizadas na elaboração da dissertação:
 
-### MT
+### Eletromagnetismo
 
 - [ ] EGBERT, G. D., BOOKER, J. R., 1986, \Robust estimation of geomagnetic transfer functions", Geophysical Journal International, v. 87, n. 1, pp. 173-194.
 
