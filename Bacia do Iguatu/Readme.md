@@ -11,3 +11,7 @@ As bacias de Iguatu compreendem um complexo formado pela bacia de Iguatu, Icó, 
 ## Estratigrafia
 
 # Caracterização Geofísica
+
+## Magnetométrica
+
+## Gravimétrica
