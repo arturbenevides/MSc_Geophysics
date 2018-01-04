@@ -8,10 +8,22 @@ As bacias de Iguatu compreendem um complexo formado pela bacia de Iguatu, Icó, 
 
 ## Estrutural e tectcônica 
 
+Arima
+
 ## Estratigrafia
+
+Arima
 
 # Caracterização Geofísica
 
 ## Magnetométrica
 
+Bendelak
+
 ## Gravimétrica
+
+Bedregal e Castro
+
+## Magnetotelúrica
+
+Benevides
