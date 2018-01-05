@@ -65,7 +65,7 @@ _
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
-2017| | |Ínicio |  | | | | |Seminário I | | |Disciplinas (Fim)
+2017| | |Início |  | | | | |Seminário I | | |Disciplinas (Fim)
 2018| | |Relatório | | | | | | Seminário II| | |Dissertação (Entrega) 
 2019| | | Defesa| | | | | | | | |
 
