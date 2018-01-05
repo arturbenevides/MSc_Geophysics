@@ -108,3 +108,5 @@ Abaixo estão listada as bibliografias mais importantes/utilizadas na elaboraç�
 - [ ] BENDELAK, M., R. Caracterização da Folha Iguatu (Região Centro-Sul do Estado do Ceará) Integrando Dados Aerogeofísicos, Geológicos e de Imagens de Satélite. Tese de Doutorado. Universidade de São Paulo, São Paulo, SP, Brasil.
 
 - [ ] CASTRO, D., CASTELO BRANCO, R., 1999, Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
+
+ - [ ] VASCONCELOS A. M. et al., 1998. Programa Levantamentos Geológicos Básicos do Brasil (PLGB) Carta Geológica - Folha de Iguatu SB.24-Y-B. Serviço Geológic do Brasil. Superintendências Regional de Recife; Residência de Fortaleza; Departamento de Geologia.
