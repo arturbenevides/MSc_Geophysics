@@ -97,9 +97,10 @@ Abaixo estão listada as bibliografias mais importantes/utilizadas na elaboraç�
 
 - [ ] KELBERT, A., MEQBEL, N., EGBERT, G. D., et al., 2014, ModEM: A modular system for inversion of electromagnetic geophysical data", Computers & Geosciences, v. 66, pp. 40-53
 
+- [ ] SIMPSON, F., BAHR, K., 2005, Practical magnetotellurics. Cambridge University Press
+
 - [ ] FIGUEIREDO, I., 1997, Investigação Magnetotelúrica nas Serras do Sudeste Brasileiro (RJ/MG): uma Proposta de Modelo Crustal. Tese de D.Sc., Observatório Nacional, Rio de Janeiro, RJ, Brasil
 
-- [ ] SIMPSON, F., BAHR, K., 2005, Practical magnetotellurics. Cambridge University Press
 
 ### Bacia do Iguatu
 
@@ -110,3 +111,5 @@ Abaixo estão listada as bibliografias mais importantes/utilizadas na elaboraç�
 - [ ] CASTRO, D., CASTELO BRANCO, R., 1999, Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
 
  - [ ] VASCONCELOS A. M. et al., 1998. Programa Levantamentos Geológicos Básicos do Brasil (PLGB) Carta Geológica - Folha de Iguatu SB.24-Y-B. Serviço Geológic do Brasil. Superintendências Regional de Recife; Residência de Fortaleza; Departamento de Geologia.
+
+- [ ] FEITOSA F. A. C. et al., 2004. Estudos Hidrogeológicos de Bacias Sedimentares da Região Semi-árida do Nordeste Brasileiro. Serviço Geológico do Brasil. 
