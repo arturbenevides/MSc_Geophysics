@@ -2,7 +2,8 @@
 `Título do projeto de pesquisa:` 
 # Imageamento Magnetotelúrico 3D da bacia do Iguatu: implicações hidrogeológicas. 
 
-Repository, MSC Geofísica ON ([Observatório Nacional](http://on.br)) (1) [Artur Benevides](http://lattes.cnpq.br/7097271152547438)
+Repository, MSC Geofísica ON ([Observatório Nacional](http://on.br))
+## [Artur Benevides](http://lattes.cnpq.br/7097271152547438)
 
 Orientador: [Sergio Fontes](http://lattes.cnpq.br/8537150955145617) 
 
