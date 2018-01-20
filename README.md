@@ -3,7 +3,8 @@
 # Imageamento Magnetotelúrico 3D da bacia do Iguatu: implicações hidrogeológicas. 
 
 Repository, MSC Geofísica ON (1) [Artur Benevides](http://lattes.cnpq.br/7097271152547438)
-Orientador:[Sergio Fontes](http://lattes.cnpq.br/8537150955145617) 
+
+Orientador: [Sergio Fontes](http://lattes.cnpq.br/8537150955145617) 
 
 Neste repositório constam textos, códigos e qualquer material desenvolvidos durante o Mestrado em Geofísica no Observatório Nacional para a área eletromagnetismo, em especial o método magnetotelúrico.
 
