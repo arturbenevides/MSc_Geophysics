@@ -2,7 +2,7 @@
 `Título do projeto de pesquisa:` 
 # Imageamento Magnetotelúrico 3D da bacia do Iguatu: implicações hidrogeológicas. 
 
-Programa de Pós-Graduação em Geofísica - PPGG - ON ([Observatório Nacional](http://on.br))
+Programa de Pós-Graduação em Geofísica - PPGG ON ([Observatório Nacional](http://on.br))
 
 Mestrado em Geofísica Aplicada
 ## [Artur Benevides](http://lattes.cnpq.br/7097271152547438)
