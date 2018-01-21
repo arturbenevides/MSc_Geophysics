@@ -28,11 +28,12 @@ N° |Atividade
 4| Correção de *static shift* [1] 
 5| Modelagem e Inversão 
 6| Integração de dados geofísicos 
-7| Interpretação dos resultados 
+7| Interpretação dos resultados [2]
 8| Redação da dissertação e do artigo  
 9| Submissão de artigo e defesa da dissertação	
   
  [1] Modificação do conograma, antes na etapa 4 seria realizado a análise dimensional dos dados para verificar se o ambiente era 1D, 2D ou 3D, agora não será necessário, pois a inversão será 3D.
+ [2] Condicionado a disponibilidade de dados gefísicos ou geológicos.
  
 - [x] 2017
 
