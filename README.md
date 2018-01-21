@@ -33,6 +33,7 @@ N° |Atividade
 9| Submissão de artigo e defesa da dissertação	
   
  [1] Modificação do conograma, antes na etapa 4 seria realizado a análise dimensional dos dados para verificar se o ambiente era 1D, 2D ou 3D, agora não será necessário, pois a inversão será 3D.
+ 
  [2] Condicionado a disponibilidade de dados gefísicos ou geológicos.
  
 - [x] 2017
