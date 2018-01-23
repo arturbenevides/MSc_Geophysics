@@ -115,6 +115,11 @@ Abaixo estão listada as bibliografias mais importantes/utilizadas na elaboraç�
 
 - [ ] Tikhonov, A. N. (1950). The determination of the eletrical properties of deep layers of the Earth's crust. Dokl. Acad. Nauk. SSR 73: 295-297 (in Russian). (1986). On determining eletrical characteristics of the deep layers of the Earth's crust. In Manetotelluric Methods, ed. K. Vozoff. Tulsa: Society of Exploration Geophysicists, pp. 2-3.
 
+- [ ] Vozoff, K. (1972)  The magnetotelluric method in the exploration of sedimentary basins. Geophysics 37: 98-141.
+
+- [ ] Meju, A. M. (1996). Joint inversion of TEM and distorted MT soundings: some effective pratical considerations. Geophysics 61: 56-65.
+
+
 ### Bacia do Iguatu
 
 - [ ] ARIMA, N., 2007, Análise Estatigráfica da Bacia do Iguatu, CE. Ph.D. dissertation, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil.
