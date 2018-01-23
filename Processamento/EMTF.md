@@ -15,6 +15,7 @@ Esse módulo reformata arquivos em formato EMI (MT1) para o binário padrão do 
 
 >**Input**: arquivos.TS e arquivo.clk ([descrição](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clock.md))
 (é necessário ter os arquivos de calibração do equipamento)
+
 >**Output**: arquivo (binário) e arquivo.sp 
 
 ## 
