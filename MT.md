@@ -34,7 +34,8 @@ O principio teórico é fundamentado na teoria eletromagnética e nas equações
 
 4. Não há acúmulos de cargas livres  em camadas dentro da Terra. Em uma Terra multidimensional as cargas podem ser acumuladas ao longo das continuidades, isto é, a fonte de geração de um fenômeno não indutivo conhecido como \textit{static Shift};
 
-5. A carga é conservativa e se comporta como um condutor ôhmico e obedece a equação $\vec{J}=\sigma\vec{E}$. Onde, $\vec{J}$, $\sigma$ e $*E*$ tem unidade de $Am^{2}$, $Sm^{-1}$ e $Vm^{-1}$, respectivamente;
+5. A carga é conservativa e se comporta como um condutor ôhmico e obedece a equação 
+$$\vec{J}=\sigma\vec{E}$$. Onde, $\vec{J}$, $\sigma$ e $*E*$ tem unidade de $Am^{2}$, $Sm^{-1}$ e $Vm^{-1}$, respectivamente;
 
 6. O deslocamento do campo elétrico é considerado praticamente estático para levantamentos MT. Portanto, o deslocamento de correntes variantes no tempo (originárias nos efeitos de polarização) são desprezíveis comparadas com as variações das correntes de condução variantes no tempo. Isto promove o tratamento da indução eletromagnética, na Terra, puramente como um processos de difusão;
 
