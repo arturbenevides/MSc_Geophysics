@@ -16,6 +16,21 @@ Esse módulo reformata arquivos em formato EMI (MT1) para o binário padrão do 
 >**Input**: arquivos.TS e arquivo.clk ([descrição](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clock.md))
 (é necessário ter os arquivos de calibração do equipamento)
 
->**Output**: arquivo (binário) e arquivo.sp 
+>**Output**: arquivo.bin (binário) e arquivo.sp 
 
-## 
+## dnff
+
+Esse módulo faz os cálculos dos coeficientes de fourier para cada banda de frequência e inclui um esquema de decimação em cascata.
+
+>**Input**: arquivos.bin  e arquivo.sp
+
+>**Output**: CFs (coeficientes de fourier organizados por frequência) 
+
+## tranmt
+
+Esse módulo faz a estimativa robusta do tensor de impedância.
+
+>**Input**: CFs 
+
+>**Output**: TFs (arquivo com as funções transferência) e cov (erro e covariancias)
+
