@@ -103,13 +103,15 @@ Abaixo estão listada as bibliografias mais importantes/utilizadas na elaboraç�
 
 ### Eletromagnetismo
 
-- [ ] EGBERT, G. D., BOOKER, J. R., 1986, \Robust estimation of geomagnetic transfer functions", Geophysical Journal International, v. 87, n. 1, pp. 173-194.
+- [ ] EGBERT, G. D., BOOKER, J. R., 1986, Robust estimation of geomagnetic transfer functions, Geophysical Journal International, v. 87, n. 1, pp. 173-194.
 
 - [ ] KELBERT, A., MEQBEL, N., EGBERT, G. D., et al., 2014, ModEM: A modular system for inversion of electromagnetic geophysical data", Computers & Geosciences, v. 66, pp. 40-53
 
 - [ ] SIMPSON, F., BAHR, K., 2005, Practical magnetotellurics. Cambridge University Press
 
 - [ ] FIGUEIREDO, I., 1997, Investigação Magnetotelúrica nas Serras do Sudeste Brasileiro (RJ/MG): uma Proposta de Modelo Crustal. Tese de D.Sc., Observatório Nacional, Rio de Janeiro, RJ, Brasil
+
+- [ ] Cagniard, L (1953). Basic theory of the magnetotelluric method of geophysical prospecting. Geophysics 18: 605-645.
 
 - [ ] Tikhonov, A. N. (1950). The determination of the eletrical properties of deep layers of the Earth's crust. Dokl. Acad. Nauk. SSR 73: 295-297 (in Russian). (1986). On determining eletrical characteristics of the deep layers of the Earth's crust. In Manetotelluric Methods, ed. K. Vozoff. Tulsa: Society of Exploration Geophysicists, pp. 2-3.
 
