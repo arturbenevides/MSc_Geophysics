@@ -13,6 +13,8 @@ O `dnff`precisa que os dados estejam em um formato binário padrão. Se os dados
 
 Esse módulo reformata arquivos em formato EMI (MT1) para o binário padrão do EMTF.
 
->Input: arquivos.TS e arquivo.clk ([descrição](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clock.md))
+>**Input**: arquivos.TS e arquivo.clk ([descrição](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clock.md))
+(é necessário ter os arquivos de calibração do equipamento)
+>**Output**: arquivo (binário) e arquivo.sp 
 
 ## 
