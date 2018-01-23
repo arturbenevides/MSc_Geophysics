@@ -8,10 +8,10 @@ Os sinais dos campos eletromagnéticos induzidos na terra são oriundas de fenô
 
 >**Frequência > 1Hz:** São fenômenos elétricos que ocorrem entre a superfície da terra e a ionosfera, principalmente devido a descargas elétricas conhecidas como *sferics*.
 Os *sferics* mais significantes para as sondagens MT são produzidos na região equatorial e se propagam pelo mundo dentro de um guia de onda limitado pela ionosfera e a superfície da Terra.
-<img src='http://www.alienscientist.com/pictures/Schumann.gif' width = 300>
+<img src='http://www.alienscientist.com/pictures/Schumann.gif' width = 200>
 
 >**Frequência < 1Hz:** São gerados pela interação do vento solar com a magnetosfera e a ionosfera da terra.
-<img src='http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/12/cluster_and_image_during_aurora_observation/15169959-1-eng-GB/Cluster_and_Image_during_aurora_observation.jpg' width = 300>
+<img src='http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/12/cluster_and_image_during_aurora_observation/15169959-1-eng-GB/Cluster_and_Image_during_aurora_observation.jpg' width = 200>
 
 ## Histórico do método
 
