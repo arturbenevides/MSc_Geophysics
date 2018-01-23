@@ -14,6 +14,13 @@ Os *sferics* mais significantes para as sondagens MT são produzidos na região 
 <img src='http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/12/cluster_and_image_during_aurora_observation/15169959-1-eng-GB/Cluster_and_Image_during_aurora_observation.jpg' width = 200>
 
 ## Histórico do método
+* 1950s: Tikhonov (1950, reimpresso 1986) e Cagniard (1953) Perceberam que se as variações dos campos elétricos e magnéticos são medidas simultaneamente, então o razão complexa (impedâncias) pode ser derivada para descrever a penetração dos campos eletromagnéticos dentro da Terra.
+
+* 1960s 70s: Desenvolvimento do método na academi; aplicação em geotermia.
+
+* 1980s: Sistemas comerciais para hidrocarbonetos
+
+* 1990s 2000s: Melhoria das técnicas de Aquisição, processamento e interpretação.
 
 ## Teoria do método
 
