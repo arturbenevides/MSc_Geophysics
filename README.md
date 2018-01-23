@@ -111,6 +111,7 @@ Abaixo estão listada as bibliografias mais importantes/utilizadas na elaboraç�
 
 - [ ] FIGUEIREDO, I., 1997, Investigação Magnetotelúrica nas Serras do Sudeste Brasileiro (RJ/MG): uma Proposta de Modelo Crustal. Tese de D.Sc., Observatório Nacional, Rio de Janeiro, RJ, Brasil
 
+- [ ] Tikhonov, A. N. (1950). The determination of the eletrical properties of deep layers of the Earth's crust. Dokl. Acad. Nauk. SSR 73: 295-297 (in Russian). (1986). On determining eletrical characteristics of the deep layers of the Earth's crust. In Manetotelluric Methods, ed. K. Vozoff. Tulsa: Society of Exploration Geophysicists, pp. 2-3.
 
 ### Bacia do Iguatu
 
