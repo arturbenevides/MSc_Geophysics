@@ -103,31 +103,39 @@ Abaixo estão listada as bibliografias mais importantes/utilizadas na elaboraç�
 
 ### Eletromagnetismo
 
+
+- [ ] Kelbert, A., Meqbel, N., Egbert, G. D., et al. (2014). ModEM: A modular system for inversion of electromagnetic geophysical data", Computers & Geosciences, v. 66, pp. 40-53
+
+- [ ] Simpson, F., Bahr, K., (2005), Practical magnetotellurics. Cambridge University Press.
+
+- [ ] Figueiredo, I. (1997) , Investigação Magnetotelúrica nas Serras do Sudeste Brasileiro (RJ/MG): uma Proposta de Modelo Crustal. Tese de D.Sc., Observatório Nacional, Rio de Janeiro, RJ, Brasil
+
+- [ ] Meju, A. M. (1996). Joint inversion of TEM and distorted MT soundings: some effective pratical considerations. Geophysics 61: 56-65.
+
 - [ ] EGBERT, G. D., BOOKER, J. R., 1986, Robust estimation of geomagnetic transfer functions, Geophysical Journal International, v. 87, n. 1, pp. 173-194.
 
-- [ ] KELBERT, A., MEQBEL, N., EGBERT, G. D., et al., 2014, ModEM: A modular system for inversion of electromagnetic geophysical data", Computers & Geosciences, v. 66, pp. 40-53
-
-- [ ] SIMPSON, F., BAHR, K., 2005, Practical magnetotellurics. Cambridge University Press
-
-- [ ] FIGUEIREDO, I., 1997, Investigação Magnetotelúrica nas Serras do Sudeste Brasileiro (RJ/MG): uma Proposta de Modelo Crustal. Tese de D.Sc., Observatório Nacional, Rio de Janeiro, RJ, Brasil
+- [ ] Vozoff, K. (1972)  The magnetotelluric method in the exploration of sedimentary basins. Geophysics 37: 98-141.
 
 - [ ] Cagniard, L (1953). Basic theory of the magnetotelluric method of geophysical prospecting. Geophysics 18: 605-645.
 
 - [ ] Tikhonov, A. N. (1950). The determination of the eletrical properties of deep layers of the Earth's crust. Dokl. Acad. Nauk. SSR 73: 295-297 (in Russian). (1986). On determining eletrical characteristics of the deep layers of the Earth's crust. In Manetotelluric Methods, ed. K. Vozoff. Tulsa: Society of Exploration Geophysicists, pp. 2-3.
 
-- [ ] Vozoff, K. (1972)  The magnetotelluric method in the exploration of sedimentary basins. Geophysics 37: 98-141.
 
-- [ ] Meju, A. M. (1996). Joint inversion of TEM and distorted MT soundings: some effective pratical considerations. Geophysics 61: 56-65.
+
+
 
 
 ### Bacia do Iguatu
 
-- [ ] ARIMA, N., 2007, Análise Estatigráfica da Bacia do Iguatu, CE. Ph.D. dissertation, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil.
+- [ ] Arima, N. (2007), Análise Estatigráfica da Bacia do Iguatu, CE. Ph.D. dissertation, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil.
 
-- [ ] BENDELAK, M., R. Caracterização da Folha Iguatu (Região Centro-Sul do Estado do Ceará) Integrando Dados Aerogeofísicos, Geológicos e de Imagens de Satélite. Tese de Doutorado. Universidade de São Paulo, São Paulo, SP, Brasil.
+- [ ] Bendelak, M., R. (2004) Caracterização da Folha Iguatu (Região Centro-Sul do Estado do Ceará) Integrando Dados Aerogeofísicos, Geológicos e de Imagens de Satélite. Tese de Doutorado. Universidade de São Paulo, São Paulo, SP, Brasil.
 
-- [ ] CASTRO, D., CASTELO BRANCO, R., 1999, Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
+- [ ] Feitosa F. A. C. et al., 2004. Estudos Hidrogeológicos de Bacias Sedimentares da Região Semi-árida do Nordeste Brasileiro. Serviço Geológico do Brasil. 
 
- - [ ] VASCONCELOS A. M. et al., 1998. Programa Levantamentos Geológicos Básicos do Brasil (PLGB) Carta Geológica - Folha de Iguatu SB.24-Y-B. Serviço Geológic do Brasil. Superintendências Regional de Recife; Residência de Fortaleza; Departamento de Geologia.
+- [ ] Castro, D., Castelo Branco, R. (1999). Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
 
-- [ ] FEITOSA F. A. C. et al., 2004. Estudos Hidrogeológicos de Bacias Sedimentares da Região Semi-árida do Nordeste Brasileiro. Serviço Geológico do Brasil. 
+ - [ ] Vasconcelos A. M. et al., (1998). Programa Levantamentos Geológicos Básicos do Brasil (PLGB) Carta Geológica - Folha de Iguatu SB.24-Y-B. Serviço Geológic do Brasil. Superintendências Regional de Recife; Residência de Fortaleza; Departamento de Geologia.
+
+- [ ] Bedregal, R. P (1991). 
+- [ ] Darros de Matos (1987, 1992),
