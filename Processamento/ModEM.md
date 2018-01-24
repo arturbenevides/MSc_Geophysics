@@ -23,7 +23,7 @@ chamado de parâmetro de amortecimento.
 Alguns métodos matemáticos têm sido aplicados em diferentes algoritmos de inversão, tais como: Occam clássico, Occam no espaço dos dados, método de GaussNewton (GN), método de Gauss-Newton com gradiente conjugado (GN-CG), quasiNewton (QG), método de gradientes conjugados não lineares (NLCG), entre outros.
 Uma revisão geral desses métodos é apresentada em Siripunvaraporn (2011). A minimização de uma função de penalidade para qualquer dos métodos mencionados é resolvida de modo iterativo. Por exemplo, no método de Gauss-Newton em que a linearização dessa equação nas vizinhanças do modelo **m**k (referente a k-ésima iteração) para uma pequena perturbação do modelo **δ**m leva a um sistema de mxm
 equações definidas por:
-<img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Figs/minimizacao.png' width=600>
+<img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Figs/minimizacao.png' width=400>
 
 onde **r = d − f(m)** k é o resíduo dos dados. Solucionando a equação (2) para **δ**m é possível encontrar um novo modelo dado
 por **m**k+1 = **m**k + **δ**m.
