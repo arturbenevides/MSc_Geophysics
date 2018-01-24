@@ -101,8 +101,10 @@ _
 
 Abaixo estão listada as bibliografias mais importantes/utilizadas na elaboração da dissertação:
 
-### Eletromagnetismo
+### MT
 
+- [ ] Antunes, C. S. (2012). Tomografia de condutividade elétrica sob a bacia do Paraná utilizando dados do campo geomagnético.
+Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [ ] Kelbert, A., Meqbel, N., Egbert, G. D., et al. (2014). ModEM: A modular system for inversion of electromagnetic geophysical data", Computers & Geosciences, v. 66, pp. 40-53
 
