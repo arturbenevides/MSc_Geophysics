@@ -17,12 +17,12 @@ e o modelo deve ser suave com a menor norma possível. Para isso, os programas d
 <img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Figs/funcao_penalty.png' width =600>
 
 onde **m** é o vetor de dimensão *m* de parâmetros do modelo de condutividade da Terra, **d** é o vetor de dados com dimensão n, **C**d ´r a covariância do erro dos dados, **f(m)** é o resultado do cálculo direto de **m**, **m0** é o modelo inicial, **C**m (ou mais
-apropriadamente *ν*−1**C**m) é a covariância do modelo ou termo de regularização e *ν* é um multiplicador Lagrangiano (parâmetro de amortecimento). O primeiro termo da Equção acima representa o ajuste dos dados medidos **d** com a resposta do cálculo direto para o modelo **m**. O segundo termo representa a norma do modelo, que reflete a suavidade do mesmo. Para um valor baixo de *ν* a inversão irá priorizar o ajuste dos dados medidos (**d**) com os modelados (**f(m)**). Para *ν* alto, o desajuste nos dados é menos importante e a suavidade do modelo é priorizada. Logo, o peso entre a suavidade do modelo e o ajuste dos dados é dado por *ν*, que devido a isso pode ser
-chamado de parâmetro de amortecimento.
+apropriadamente *ν*−1**C**m) é a covariância do modelo ou termo de regularização e *ν* é um multiplicador Lagrangiano (parâmetro de amortecimento). O primeiro termo da Equção acima representa o ajuste dos dados medidos **d** com a resposta do cálculo direto para o modelo **m**. O segundo termo representa a norma do modelo, que reflete a suavidade do mesmo. Para um valor baixo de *ν* a inversão irá priorizar o ajuste dos dados medidos (**d**) com os modelados (**f(m)**). Para *ν* alto, o desajuste nos dados é menos importante e a suavidade do modelo é priorizada. Logo, o peso entre a suavidade do modelo e o ajuste dos dados é dado por *ν*, que devido a isso pode ser chamado de parâmetro de amortecimento.
 
 Alguns métodos matemáticos têm sido aplicados em diferentes algoritmos de inversão, tais como: Occam clássico, Occam no espaço dos dados, método de GaussNewton (GN), método de Gauss-Newton com gradiente conjugado (GN-CG), quasiNewton (QG), método de gradientes conjugados não lineares (NLCG), entre outros.
 Uma revisão geral desses métodos é apresentada em Siripunvaraporn (2011). A minimização de uma função de penalidade para qualquer dos métodos mencionados é resolvida de modo iterativo. Por exemplo, no método de Gauss-Newton em que a linearização dessa equação nas vizinhanças do modelo **m**k (referente a k-ésima iteração) para uma pequena perturbação do modelo **δ**m leva a um sistema de mxm
 equações definidas por:
+
 <img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Figs/minimizacao.png' width=300>
 
 onde **r = d − f(m)** k é o resíduo dos dados. Solucionando a equação (2) para **δ**m é possível encontrar um novo modelo dado
