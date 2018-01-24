@@ -53,4 +53,4 @@ porém para obter esse produto não é necessário encontrar a Jacobiana complet
 
 Para minimizar a função de penalidade (1) o algoritmo NLCG roda para diferentes valores de *ν*. Cada série de cálculos termina
 quando o nível de erro é alcançado, então a norma do modelo é definida e os resultados são comparados. O valor de *ν* para o
-qual se obteve a menor norma é tomado como solução para a iterção.
+qual se obteve a menor norma é tomado como solução para a iteração.
