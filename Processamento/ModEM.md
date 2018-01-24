@@ -14,4 +14,4 @@ e que seja aceitável em termos geológicos. Para solucionar o problema, duas co
 o modelo deve gerar dados (através do cálculo direto) que se ajustem aos dados medidos dentro de um nível de erro aceitável; 
 e o modelo deve ser suave com a menor norma possível. Para isso, os programas de inversão buscam minimizar uma função de penalidade
 (também chamada função objetivo ou unconstrained functional). Para o algoritmo usado nesse estudo, a função de penalidade tem a forma:
-
+[](img= src'https://github.com/arturbenevides/Magnetotelurico/blob/master/Figs/funcao_penalty.png', width =200)
