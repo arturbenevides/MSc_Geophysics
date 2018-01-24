@@ -1,4 +1,4 @@
-# ModEM
+# Inversão de dados MT
 
 É evidente que os modelos 3D são os que podem representar mais adequadamente as características do interior da Terra. 
 Idealmente, a inversão 3D seria a opção mais prática de modelagem, pois pode ser aplicada diretamente após o processamento dos dados, 
@@ -32,3 +32,13 @@ Uma peça fundamental dos métodos de inversão é encontrar a matriz Jacobiana,
 n × m. Essa matriz define as derivadas de **f** em relação ao modelo **m**, tal que J = Drond**f**/Dronde**m** e os elementos da matriz são dados por Jij = Drond *f*i/Drond *m*j. Obter **J** é um dos grandes empecilhos dos métodos clássicos de inversão devido a sua grande dimensão e dificuldades para ser calculada e armazenada. No entanto, métodos alternativos como o NLCG podem minimizar a função
 objetivo sem a necessidade de calcular a Jacobiana completa para o modelo de cada iteração.
 
+## Método de Inversão do ModEM
+
+O Modular Eletromagnetic Inversion Software (ModEM) é um programa de modelagem de dados eletromagnéticos escrito em Fortran 95 por Gary Egbert, Anna Kelbert e Naser Meqbel do College of Oceanic and Atmospheric Sciences (COAS), Oregon State University (OSU). O ModEM é descrito em detalhes por Egbert e Kelbert (2012). Seu desenvolvimento foi focado na solução de problemas de complexidade estrutural 
+2D e especialmente 3D a partir de dados magnetotelúricos, mas também permite a entrada de outros dados eletromagnéticos. Além de resolver problemas de cálculo direto, o ponto principal do ModEM é a inversão de dados EM. O programa utiliza o método de
+gradientes conjugados não lineares (*Nonlinear Conjugate Gradient* - NLCG) para a minimização da equação (1).
+
+A função de penalidade (1) pode ser diretamente minimizada através de algoritmos baseados em gradientes como no 
+método NLCG (KELBERT et al., 2008; EGBERT, KELBERT, 2012). Este método requer a avaliação de ambas as função de penalidade (1) e o seu gradiente em relação aos parâmetros do modelo para cada iteração, dado por:
+
+<img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Figs/avaliaca_dos_parametros.png' width=200>
