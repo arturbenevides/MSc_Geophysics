@@ -42,3 +42,15 @@ A função de penalidade (1) pode ser diretamente minimizada através de algorit
 método NLCG (KELBERT et al., 2008; EGBERT, KELBERT, 2012). Este método requer a avaliação de ambas as função de penalidade (1) e o seu gradiente em relação aos parâmetros do modelo para cada iteração, dado por:
 
 <img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Figs/avaliaca_dos_parametros.png' width=200>
+
+O modelo é atualizado através da expressão genérica para o método NLCG
+
+<img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Figs/atualizacao_do_modelo.png' width=200>
+
+em que o gradiente definido por (3) é usado para determinar a nova direção conjugada **u**k no espaço do modelo. Usa-se então 
+uma busca em linha nessa direção para encontrar **α**k tal que P(**m**k + **α**k**u**k, **d**) é minimizada em relação a P(**m**k, **d**). A direção do gradiente conjugado dado por **u**k é atualizada usando o método de Polak-Ribère (POLAK, RIBIÈRE , 1969). A aplicação desse método requer o cálculo do produto de **J**(transposto) com o resíduo dos dados **r** como visto na equação (3), 
+porém para obter esse produto não é necessário encontrar a Jacobiana completa (KELBERT et al., 2008).
+
+Para minimizar a função de penalidade (1) o algoritmo NLCG roda para diferentes valores de *ν*. Cada série de cálculos termina
+quando o nível de erro é alcançado, então a norma do modelo é definida e os resultados são comparados. O valor de *ν* para o
+qual se obteve a menor norma é tomado como solução para a iterção.
