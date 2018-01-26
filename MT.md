@@ -32,7 +32,7 @@ O principio teórico é fundamentado na teoria eletromagnética e nas equações
 
 3. A fonte do campo eletromagnético utilizado no método MT é gerada principalmente por sistemas de correntes localizados na ionosfera, que estão relativamente afastados da superfície da Terra. Esta é tratada como sendo uma onda eletromagnética plano-polarizada e uniforme, que vai de encontro a superfície da Terra verticalmente;
 
-4. Não há acúmulos de cargas livres  em camadas dentro da Terra. Em uma Terra multidimensional as cargas podem ser acumuladas ao longo das continuidades, isto é, a fonte de geração de um fenômeno não indutivo conhecido como \textit{static Shift};
+4. Não há acúmulos de cargas livres  em camadas dentro da Terra. Em uma Terra multidimensional as cargas podem ser acumuladas ao longo das continuidades, isto é, a fonte de geração de um fenômeno não indutivo conhecido como *static Shift*;
 
 5. A carga é conservativa e se comporta como um condutor ôhmico e obedece a equação J=cE, Onde, J, c e E.
 
