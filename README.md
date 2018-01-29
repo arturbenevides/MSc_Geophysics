@@ -15,7 +15,7 @@ Neste repositório constam textos, códigos e qualquer material desenvolvidos du
 ### Objetivos do projeto de pesquisa
 (1) Fornecer um modelo geoelétrico de subsuperfície para [bacia de Iguatu](https://github.com/arturbenevides/Magnetotelluric/tree/master/Bacia%20do%20Iguatu) (Ceará) utilizando a metodologia de inversão tridimensional com o algorítmo [modEM](https://sites.google.com/site/modularem/) para dados magnetotelúricos.
 
-(2) Interpretar os resultados e obter informações hidrogeológica da bacia.
+(2) Interpretar os resultados e obter informações do ponto de vista hidrogeológico da bacia.
 
 
 
