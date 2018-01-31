@@ -103,3 +103,5 @@ Adicionais:
 - (53) TESTE22
 - (54) VARG1 `único que contem ts2`.
 #
+
+A estação MT195 pertencia ao perfil 4. Mas terá de ser removio devido a grande distância em que se encontra do ponto mais próximo. Os resultados podem trazer mais informações, entretanto não iria contribuir com o modelo como todo, pois não se ajustaria a uma boa solução geral. 
