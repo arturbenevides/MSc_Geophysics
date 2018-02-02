@@ -10,4 +10,4 @@ Notebooks
 
 2. [`Serie temporais e Espectros de Potencia MT.ipynb`](https://github.com/arturbenevides/Magnetotelurico/blob/master/Simula%C3%A7%C3%B5es%20Computacionais/Serie%20temporais%20e%20Espectros%20de%20Potencia%20MT.ipynb)
 
-3. [`Modelagem1d.ipynb](`https://github.com/arturbenevides/Magnetotelurico/blob/master/Modelagem1D.ipyn)
+3. [`Modelagem1d.ipynb`](https://github.com/arturbenevides/Magnetotelurico/blob/master/Modelagem1D.ipyn)
