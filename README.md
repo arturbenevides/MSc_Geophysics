@@ -88,7 +88,7 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
  > * [Geologia Geral e Aplicada](http://on.br/dppg/geofisica/ementa/GEOLOGIA_GERAL_E_APLICADA_rev.pdf)
  > * [Geofísica Aplicada à Exploração de Petróleo e Mineração](http://on.br/dppg/geofisica/ementa/GEOFISICA_APLICADA_A_EXPLORACAO_DE_PETROLEO_ref.pdf)
 
-Cada disciplina equivale a 3 créditos formando no total 24 créditos.
+Cada disciplina equivale a 3 créditos, formando no total 24 créditos.
 
 _
 _
