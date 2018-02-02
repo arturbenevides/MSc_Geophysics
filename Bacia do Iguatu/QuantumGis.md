@@ -1,8 +1,5 @@
-Litotipo 1: Classificação litológica bem detalhada das rocahs sedimentares.
+# MAPAS TEMÁTICOS BACIA DO IGUATU UTILIZANDO O QUANTUM GIS
 
+## Limites de bacias
 
-Litotipo 2: Não difere muito da 1. Pesquisar diferenças.
-
-
-Código de unidade estatigráfica: apenas núremos a cada rocha.
-
+<img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/bacia_iguatu_perfis.png' width=600>
