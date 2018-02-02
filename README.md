@@ -47,7 +47,7 @@ Atividade| ~~jan~~ | ~~fev~~| ~~mar~~| ~~abr~~| ~~mai~~| ~~jun~~| ~~jul~~| ~~ago
 
 - [ ] 2018
 
-Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
+Atividade| ~~jan~~ | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
 2| * |* |* |* |* |* |* |* |* |* |* |*
 3| * |* |* |* |* |* |* | * | | | | | |
