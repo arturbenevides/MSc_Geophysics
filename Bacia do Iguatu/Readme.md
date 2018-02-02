@@ -27,3 +27,6 @@ Bedregal e Castro
 ## Magnetotelúrica
 
 Benevides
+
+<img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/bacia_iguatu_perfis.png' width=600>
+Localização dos perfis com os pontos de sondagem MT na bacia de Iguatu. 
