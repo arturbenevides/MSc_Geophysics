@@ -141,6 +141,8 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 ### Extras
 
-Horvath, K. A. (2017). Estruturas geoelétricas da litosfera sob a porção central da bacia do Paraná a partir de um perfil magnetotelúrico. Dissertação de Mestrado. Instituto Nacional de Pesquisas Espaciais, São José dos Campos, sp, Brasil.
+Horvath, K. A. (2017). Estruturas geoelétricas da litosfera sob a porção central da bacia do Paraná a partir de um perfil magnetotelúrico. Dissertação de Mestrado. INPE, São José dos Campos, sp, Brasil.
 
+Antunes, C. S. (2012). Tomografia de condutividade elétrica sob a bacia do Paraná utilizando dados do campo geomagnético.
+INPE, São José dos Campos, sp, Brasil.
 
