@@ -137,3 +137,10 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [ ] Bedregal, R. P (1991). 
 - [ ] Darros de Matos (1987, 1992),
+
+
+### Extras
+
+Horvath, K. A. (2017). Estruturas geoelétricas da litosfera sob a porção central da bacia do Paraná a partir de um perfil magnetotelúrico. Dissertação de Mestrado. Instituto Nacional de Pesquisas Espaciais, São José dos Campos, sp, Brasil.
+
+
