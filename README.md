@@ -110,6 +110,8 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [ ] Meju, A. M. (1996). Joint inversion of TEM and distorted MT soundings: some effective pratical considerations. Geophysics 61: 56-65.
 
+- [ ] CHAVE, A. D., THOMSON, D. J., 1989, “Some comments on magnetotelluric response function estimation”, Journal of Geophysical Research: Solid Earth, v. 94, n. B10, pp. 14215–14225
+
 - [ ] EGBERT, G. D., BOOKER, J. R., 1986, Robust estimation of geomagnetic transfer functions, Geophysical Journal International, v. 87, n. 1, pp. 173-194.
 
 - [ ] Vozoff, K. (1972)  The magnetotelluric method in the exploration of sedimentary basins. Geophysics 37: 98-141.
@@ -134,10 +136,19 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 - [ ] Castro, D., Castelo Branco, R. (1999). Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
 
  - [ ] Vasconcelos A. M. et al., (1998). Programa Levantamentos Geológicos Básicos do Brasil (PLGB) Carta Geológica - Folha de Iguatu SB.24-Y-B. Serviço Geológic do Brasil. Superintendências Regional de Recife; Residência de Fortaleza; Departamento de Geologia.
+ 
+ - [ ] MARC¸AL, A., FONTES, S., FLEXOR, J., et al., 2005, “Estudos Magnetotelúricos na Bacia do Iguatu (CE): Primeiros resultados”. In: 9 th International Congress of the Brazilian Geophysical Society, Salvador.
 
 - [ ] Bedregal, R. P (1991). 
 - [ ] Darros de Matos (1987, 1992),
 
+## Hidrogeologia 
+
+- [ ] Abreu, P. M. (2002). Estudos Geofísicos (Magnetotelúrico e Eletromagnético Transiente) da Porção Leste da Bacia do Parnaíba: Contribuição ao conhecimento Hidrogeológico. Dissertação de Mestrado. Observatório Nacional, Rio de Janeiro, rj, Brasil. (MT e Hidrogeologia).
+
+- [ ] CAVALCANTE, Itabaraci Nazareno. (1998). Fundamentos hidrogeológicos para a gestão integrada de recursos hídricos na Região Metropolitana de Fortaleza, Estado do Ceará. São Paulo: USP. Instituto de Geociências, 164p. Tese (Doutorado) – Universidade de São Paulo
+
+- [ ] RIBEIRO, J., MELO, F., FEITOSA, F., et al., 2000, “Contribuição hidroquímica para o conhecimento das bacias do Iguatu – CE”. In: 1 st Joint World Congress on Groundwater, p. v.1., Fortaleza.
 
 ### Extras
 
@@ -145,5 +156,5 @@ Horvath, K. A. (2017). Estruturas geoelétricas da litosfera sob a porção cent
 
 Antunes, C. S. (2012). Tomografia de condutividade elétrica sob a bacia do Paraná utilizando dados do campo geomagnético. Dissertação de Mestrado. INPE, São José dos Campos, sp, Brasil. (Comentários Inversão).
 
-Abreu, P. M. (2002). Estudos Geofísicos (Magnetotelúrico e Eletromagnético Transiente) da Porção Leste da Bacia do Parnaíba: Contribuição ao conhecimento Hidrogeológico. Dissertação de Mestrado. Observatório Nacional, Rio de Janeiro, rj, Brasil. (MT e Hidrogeologia).
+
 
