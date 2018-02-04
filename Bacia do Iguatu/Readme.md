@@ -6,17 +6,12 @@ O complexo sedimentar das bacias do Iguatu compreende um conjunto de quatro sub-
 ### Localização
 Estão localizadas no sudeste do Ceará, entre as coordendas: Lat (6° 00' - 6° 30') Long (38° 30" - 39° 30").
 
-### Área Compreendida
+**Área Compreendida**
 O conjunto de sub-bacias constitui uma área de cerca de 1318 Km2
-
-A bacia possui poucos estudos e tem sua história ainda ser descoberta.
-Origem da bacia
-Origem da primeira sedimentação
-Fim d ultima sedimentação
- Cretáceo - abertura do atlântico sul e das bacias interiores do nordeste.
 
 ### Tipo
  Bacia Intracratônica
+
 ### Origem // evolução:esforços que ocorreram durante um período.
 A gênese e evolução da bacia do Iguatu, assim como das outras bacias interiores do Nordeste estão relacionadas à fase inicial de abertura do Proto-oceano Atlântico (Evento Sul Atlantiano 160-115 Ma) durante o final do Jurássico e início do Cretáceo.
 
@@ -28,25 +23,21 @@ A sub-bacia do Iguatu é a maior entre as quatro, está situada na porção ocid
 ### Estrutura // Direções preferenciais
 todas com eixo principal na direção NE-SW. 
 
-### Limites da Bacia
-### Tendências estruturais Direções?
 ### Formação sedimentar importante // Sucessão estratigráfica // Estratígrafia // Formação sedimentar é dividida por e por. * Tem sido desenvolvido diversos estudos geológicos desde .. e ainda não ha uma definição 
 (Discutir a divisão, escolher um dos modelos) 
 
-### Sequência sedimentar (Tipos de rochas: siliciclásticas, carbonática tempo de formação de cada).
+### Sequência sedimentar (Tipos de rochas: siliciclásticas, carbonática tempo de formação de cada). 
+
+### Embasamento // formação // Limites da Bacia // Tendências estruturais //  Direções
+O embasamento cristalino é formado por diferentes domínios estruturais pertencentes à Província Borborema, esses dom´ınios encontram-se intensamente deformados e dominados por zonas de cisalhamento de idades neoproterozóicas. A reativação Eocretácica destas zonas durante o processo de rifteamento intracontinental mesozóico, associado à abertura e formação do Atlântico Sul, condicionou a estruturação interna das bacias intracratônicas.
+
+
 ### Objetivo (História tectônica ou sedimentar pode não estar completa e se torna uma lacuna para o MT). Apesar de pesquisas.. a arquitetura e compartimentação e estrutura geoloógica da bacia pode ser melhor revelada com contribuições do MT.
 
- 
-
-### Embasamento // formação.
-O embasamento cristalino ´e formado por diferentes dom´ınios estruturais pertencentes `a Prov´ıncia Borborema Figura 2.2, esses dom´ınios encontram-se intensamente
-deformados e dominados por zonas de cisalhamento de idades neoproteroz´oicas. A
-reativa¸c~ao Eocret´acica destas zonas durante o processo de rifteamento intracontinental mesoz´oico, associado `a abertura e forma¸c~ao do Atl^antico Sul, condicionou a
-estrutura¸c~ao interna das bacias intracrat^onicas (CASTRO e CASTELO BRANCO,
-1999)
-
-
-As bacias de Iguatu compreendem um complexo formado pela bacia de Iguatu, Icó, Malhada Vermelha e Lucas Campos (Figura abaixo) e 
+A bacia possui poucos estudos e tem sua história ainda ser descoberta.
+Origem da bacia
+Origem da primeira sedimentação
+Fim d ultima sedimentação
 
 <img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/baciasdo_iguatu.png' width = 600>
 IBGE
