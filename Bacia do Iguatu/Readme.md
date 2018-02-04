@@ -99,10 +99,16 @@ As sub-bacias que compõem a Bacia do Iguatu estão implantadas sobre o Terreno 
 
 A Província Borborema é constituída por diversos domínios orogênicos divididos por extensas zonas de cisalhamento de caráter transcorrente em sua essência. A sua gênese está relacionada à aglutinação de inúmeros micro-continentes (terrenos alóctones), cada um com uma característica e evolução geológica específica (Jardim de Sá,1994) **Encontrar outra definição para borborema**
 
-O terreno Ceará Central (FIGURA 9 - TCC), que compõe o embasamento da sub-bacia do Iguatu, é constituído pelo complexo Tonalítico granodiorítico (Arqueano), Complexo Acopiara, granitóides sintectônicos (ambos de idade Paleoproterozóicos) e pelo Grupo Ceará (Mesoproterozóico), que por sua vez são cortados por um extenso plutonismo essencialmente granítico calcialcalino (FIGURA 10)
+O terreno Ceará Central (FIGURA 2 - TCC), que compõe o embasamento da sub-bacia do Iguatu, é constituído pelo complexo Tonalítico granodiorítico (Arqueano), Complexo Acopiara, granitóides sintectônicos (ambos de idade Paleoproterozóicos) e pelo Grupo Ceará (Mesoproterozóico), que por sua vez são cortados por um extenso plutonismo essencialmente granítico calcialcalino (FIGURA 3)
 
 
 Mapa geológico da área destacando a geologia do embasamento. A implantação e presevação da sub-bacia do Iguatu se deu nos limites do Terreno Ceará Central e foi controlada pela zona se sutura entre este terreno e o terreno Orós-Jaguaribe.
+
+
+
+<img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/borboreema.png' width=600>
+
+<img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/terrenos_tcc_toj.png' width=600>
 
 >**Consultar bibliografia embasamento: Jardim de Sá, 1994, Santos et al. 1997, Gomes et al.
 2000.
