@@ -131,7 +131,27 @@ Na porção SW da bacia, a gravimetria indicou uma espécie de “plataforma” 
 Entre os basculamentos internos mais proeminentes, destaca-se a falha segundo a direção NE situada no flanco oeste, ao norte de Quixelô, observável tanto nas imagens de satélite quanto em afloramento (FIGURA 21). Essa falha é interpretada como sendo uma falha normal sintética à falha principal (Bedregal, 1991; Gomes et al. 1997; Campos et al. 1979).
 
 
+# José Alberto Ribeiro
 
+Fisiograficamente, são pequenas bacias encravadas em blocos estruturais deprimidos do embasamento precambriano formando cavidades de relevo plano a suavemente ondulado. As áreas mais elevadas dentre os limites da bacia correspondem às chapadas desenvolvidas sobre os clásticos terciários da Formação Moura. Fazem parte de um conjunto mais amplo de bacias mesozóicas do Nordeste brasileiro,
+regionalmente implantadas num contexto de rochas precambrianas da província da Borborema (VASCONCELOS et al., 1998), cuja formação acha-se relacionada à reativação mesozóica da Plataforma Sul-Americana, através da retomada de movimentos ao longo de zonas de cisalhamento proterozóicas.
+
+# Estatígrafia
+A coluna estratigráfica das bacias do Iguatu congrega sedimentos predominantemente de origem continental, do Cretáceo Inferior. Compreende sedimentos terrígenos do Grupo Iguatu, que engloba da base para o topo as seguintes unidades litoestratigráficas: Formação Icó, Formação Malhada Vermelha e Formação Lima Campos. Ocorrem ainda na área depósitos siliciclásticos terciários da Formação Moura,
+coberturas tércio-quartenárias e aluviões. O assoalho das bacias do Iguatu é formado de rochas metamórficas précambrianas que formam o embasamento cristalino, constituídas de associações graníticas e granodioríticas, além de gnaisses variados, quartzitos, calcários cristalinos e migmatitos (CAMPOS et al., 1979)
+
+A Formação Icó integra a unidade basal do Grupo Iguatu e repousa discordantemente sobre o embasamento cristalino. Aflora de forma descontínua nas bordas de todas as bacias, destacando-se mais na bacia de Lima Campos. Essa unidade compreende arenitos de granulometria grossa a arenitos conglomeráticos, com estratificações cruzadas planares e acanaladas; conglomerados polimíticos com seixos e matacões, e brechas com fragmentos angulosos; intercalações de arenitos finos, argilosos e níveis de argilitos verdes e avermelhados. Essa unidade representa a fácies proximal de um sistema deposicional alúvio-flúvio-lacustrino.
+
+A Formação Malhada Vermelha é a unidade predominante nas bacias do Iguatu. Consiste de intercalações rítmicas de arenitos finos, argilosos e micáceos; siltitos e folhelhos, vermelhos e esverdeados, calcíferos, e delgadas lentes de calcários e margas cinza, estratificados. A natureza de contato com a Formação Icó, que lhe sotopõe, é normal e gradacional; com a unidade superior, é marcado por mudança litológica entre os folhelhos e siltitos da Formção Malhada Vermelha e os arenitos grossos da Formação Lima Campos. Representa a fácies distal de um sistema deposicional alúvio-fluvial associado a lagos efêmeros e permanentes. As intercalações rítmicas de arenitos e folhelhos resultaram de variações sazonais com alternância de períodos de inundações e estiagens á época da deposição.
+
+A Formação Lima Campos ocorre em todas as bacias do Iguatu, principalmente no topo das elevações na cidade de iguatu, nas proximidades de Quixelô e na localidade de Canto, na bacia de Lima Campos. Na porção inferior consiste de arenitos finos a conglomeráticos e conglomerados, com estratificações cruzadas e acanaladas. Na porção superior ocorrem intercalações de arenitos finos, argilitos, folhelhos avermelhados e margas acinzentadas. As associações litológicas dessa unidade se assemelham às das formações Icó e Malhada Vermelha, podendo se dizer que se trata de um segundo pulso deposicional. Formam uma seqüência alúvio-fluvial, predominando na porção basal a fácies proximal e na porção superior a fácies distal, de cursos fluviais anostomosados e meandrantes, com lagos e pântanos subordinados. Encontra-se em discordância angular com a Formação Moura, que lhe sobrepõe
+
+A Formação Moura constitui-se de conglomerados de calhaus e seixos, bem arredondados, de quartzo, matriz areno-argilosa, de coloração vermelha, com granodecrescência e apresenta um sistema de depósitos flúvio-aluviais. Encontra-se melhor preservada na chapada do Moura. 
+
+As Coberturas tércio-quaternárias são constituídas por sedimentos arenosos representados por terraços fluviais e sedimentos silto-argilosos das planícies de inundação dos canais e principais cursos fluviais. Essa subunidade tem expressiva distribuição na porção centro-oeste da bacia de Iguatu, aflorando de forma irregular na bacia de Icó. 
+
+Os aluviões constituem clásticos arenosos do leito ativo dos canais fluviais. Ocorrem nas margens dos principais cursos de água e lagoas destacando-se os rios Jaguaribe, Truçu e Salgado, os riachos Tatujuba, Antonico, Faé e Umari e as lagoas do Iguatu, Saco
+e Barro Alto.
 
 # Caracterização Geofísica
 
@@ -149,3 +169,29 @@ Benevides
 
 <img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/bacia_iguatu_perfis.png' width=600>
 Localização dos perfis com os pontos de sondagem MT na bacia de Iguatu. 
+
+
+
+# ANÁLISE ESTRATIGRÁFICA DAS BACIAS SEDIMENTARES DO IGUATU, CEARÁ
+## André Renan Costa Silva
+
+O Nordeste Brasileiro apresenta extensa história geológica relacionada à tectonismo divergente e estabelecimento
+de sequências rifte responsáveis pela separação dos continentes Sulamericano e Africano durante o Cretáceo. Tais
+eventos levaram à formação de uma série de bacias sedimentares denominadas Bacias Interiores do Nordeste,
+dentre as quais, as Bacias Sedimentares do Iguatu. O Grupo Iguatu, por sua vez, é constituído por quatro pequenas
+bacias localizadas no centro-leste do Estado, são elas: Icó, Iguatu, Malhada Vermelha e Lima Campos.O grupo
+abrange uma área sedimentar rasa de aproximadamente 550 km2, caracterizada por sedimentação clástica e
+evidente controle estrutural causado pela Faixa Cariri-Potiguar e suas zonas de cisalhamento proterozóicas NESW. A influência estrutural da área também é evidenciada na configuração de meio-graben com mergulhos suaves
+na direção NW e fortes na direção SE. Litologicamente, as bacias representam coberturas sedimentares de pequeno
+a médio porte compostas por arenitos, por vezes conglomeráticos, intercalados à calcários e folhelhos, podendo
+apresentar estratificação cruzada evidente e presença de sedimentos clásticos de idade terciária englobados e em
+discordância. Sua gênese é amplamente discutida acerca de associações à resquícios de uma única bacia mesozóica
+pretérita que teria sofrido intensa ação erosiva, elevações no embasamento e alta frequência de falhamentos
+transcorrentes. A divisão dos sedimentos do Grupo Iguatu se dá através de uma bacia homônima, juntamente com
+as Formações Malhada Vermelha, Lima Campos e Icó, adjacentes a faixa orogênica Orós-Jaguaribe, contudo a
+evolução dos sedimentos pode se associar ao Lineamento de Patos. A estratigrafia do pacote sedimentar é
+complexa devido ao cenário geológico e estrutural da região, com alternâncias de seus litotipos sedimentares. Este
+projeto busca esclarecimentos acerca da evolução sedimentar dentro do contexto tectônico da região através do
+mapeamento geológico estrutural, da análise estratigráfica e dos ambientes sedimentares das Bacias do Iguatu,
+com foco na possibilidade da aplicação de métodos de datação paleomagnética para os sedimentos que a
+preenchem
