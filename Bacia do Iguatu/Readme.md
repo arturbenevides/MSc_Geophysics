@@ -17,11 +17,9 @@ IBGE
 
 A gênese e evolução da bacia do Iguatu, assim como das outras bacias interiores do Nordeste brasileiro estão relacionadas à fase inicial de abertura do Proto-oceano Atlântico (Evento Sul Atlantiano 160-115 Ma) durante o final do Jurássico e início do Cretáceo.
 
-**Estrutura // Direções preferenciais**
+### Formação sedimentar importante // Sucessão estratigráfica // Estratígrafia // 
 
-todas com eixo principal na direção NE-SW. 
-
-**Formação sedimentar importante // Sucessão estratigráfica // Estratígrafia // Formação sedimentar é dividida por e por. * Tem sido desenvolvido diversos estudos geológicos desde .. e ainda não ha uma definição //(Discutir a divisão, escolher um dos modelos)** 
+Formação sedimentar é dividida por e por. * Tem sido desenvolvido diversos estudos geológicos desde .. e ainda não ha uma definição //(Discutir a divisão, escolher um dos modelos)** 
 
 **Sequência sedimentar (Tipos de rochas: siliciclásticas, carbonática tempo de formação de cada)**
 
