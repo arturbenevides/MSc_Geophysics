@@ -4,7 +4,7 @@
 
 **Aspectos Gerais**
 
-O complexo sedimentar das bacias do Iguatu compreende um conjunto de quatro sub-bacias: Iguatu, Icó, Lima Campos e Malhada Vermelha.
+O complexo sedimentar das bacias do Iguatu compreende um conjunto de quatro sub-bacias intracratônica: Iguatu, Icó, Lima Campos e Malhada Vermelha.
 
 **Localização**
 
@@ -14,13 +14,13 @@ Estão localizadas no sudeste do Ceará, entre as coordendas: Lat (6° 00' - 6°
 
 O conjunto de sub-bacias constitui uma área de cerca de 1318 Km2 (Colocar uma citação.. CPRM, IBGE..)
 
-**Tipo***
+<img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/baciasdo_iguatu.png' width = 600>
+IBGE
 
- Bacia Intracratônica
 
 **Origem // evolução:esforços que ocorreram durante um período**
 
-A gênese e evolução da bacia do Iguatu, assim como das outras bacias interiores do Nordeste estão relacionadas à fase inicial de abertura do Proto-oceano Atlântico (Evento Sul Atlantiano 160-115 Ma) durante o final do Jurássico e início do Cretáceo.
+A gênese e evolução da bacia do Iguatu, assim como das outras bacias interiores do Nordeste brasileiro estão relacionadas à fase inicial de abertura do Proto-oceano Atlântico (Evento Sul Atlantiano 160-115 Ma) durante o final do Jurássico e início do Cretáceo.
 
 **Características peculiares // Formato**
 
@@ -47,8 +47,7 @@ Origem da bacia
 Origem da primeira sedimentação
 Fim d ultima sedimentação
 
-<img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/baciasdo_iguatu.png' width = 600>
-IBGE
+
 
 
 Bibliografia:
@@ -114,7 +113,33 @@ Mapa geológico da área destacando a geologia do embasamento. A implantação e
 2000.
 
 
+#### Contexto tectônico
 
+A gênese e a evolução da Bacia do Iguatu, assim como das outras bacias interiores do Nordeste (eg. Rio do Peixe, Lavras da Mangabeira, Nazaré, Gangorra, Araripe), estão relacionadas à fase inicial de abertura do Proto-oceano Atlântico (Evento Sul Atlantiano – 160-115 Ma) durante o final do Jurássico e início do Cretáceo.
+
+Evolução 
+
+Durante a Seqüência Delta, a sedimentação foi fortemente controlada pelos eventos tectônicos responsáveis pela formação do Oceano Atlântico. Pela sua importância estratégica sob o ponto de vista exploratório de hidrocarbonetos, esse evento, também denominados de Evento Sul Atlantiano, é alvo de intensos estudos sob todos os aspectos
+
+o Evento Sul-Atlantiano é dividido em três estágios: Sin-rift I, II e III (Matos, 1999)
+1. O estágio Sin-rift I (Pré-rift – Ponte, 1980) registra o inicio dos processos de abertura do Oceano Atlântico. Forças tensionais resultam em um processo de estiramento e adelgaçamento crustal, dando início a um processo de subsidência lenta e gradual em toda a região. Como produto desses esforços, formou-se uma vasta e rasa depressão, alongada no sentido norte-sul, estendendo-se desde o
+sul da Bahia até o sul do Ceará.
+
+2. O estagio Sin-rift II ou rift (Ponte, 1980), marca o fim da capacidade de deformação da crosta litosférica e o inicio da fase de ruptura crustal. É caracterizado por uma intensa atividade tectônica, responsável pela formação de sistemas de rift valleys
+
+Conforme Matos (1999), a fase rift (Sin-rift II) é subdivida em duas fases (Sin-rift IIa e IIb), de acordo com o contexto geotectônico vigente sobre a reologia herdada do embasamento Brasiliano. 
+
+3. Na fase Sin-rift IIa (Berriasiano) deu-se o desenvolvimento dos sistemas rifts Recôncavo-Tucano-Jatoba em resposta aos esforços extensionais segundo a direção leste-oeste. 
+
+4. Durante o Neocomiano (Sin-rift IIb), o principal vetor de extensão sofreu uma rotação horária, alterando de E-W para NW-SE. A propagação dos esforços extensionais para o norte deu inicio à formação do sistema rift Cariri-Potiguar1 no interior do continente
+(Matos, 1999)
+
+5. No Neo-terciário ou início do Pleistoceno, parte da Bacia do Iguatu foi assoreada por delgada cobertura de estratos fluviais, que constituem a Formação Moura, depositados pelo paleo-rio Jaguaribe e por seus principais afluentes. Esses depósitos correspondem à Seqüência Zeta de Soares et al. (1978) e estão relacionados ao evento de basculamento da placa Sul-americana, associados ao soerguimento da Cordilheira dos Andes, deste o final do Mioceno (Ponte et al. 1990).
+ 
+
+
+
+Matos 1999
 # Caracterização Geofísica
 
 ## Magnetométrica
