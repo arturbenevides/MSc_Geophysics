@@ -7,13 +7,13 @@
 O complexo sedimentar das bacias do Iguatu compreende um conjunto de quatro bacias intracratônica: Iguatu, Icó, Lima Campos e Malhada Vermelha.
 As bacias estão localizadas no sudeste do Ceará, entre as coordendas: Latitude (6° 00' - 6° 30') Longitude (38° 30" - 39° 30").
 O conjunto de sub-bacias constitui uma área de cerca de 1318 Km2 (Colocar uma citação.. CPRM, IBGE..)
-A bacia do Iguatu é a maior entre as quatro, está situada na porção ocidental em relação às demais, ocupa uma àrea de aproximadamente 820 km2, e corresponde cerca de 70% da areat total do complexo sedimentar, tem um formato aproximadamente elíptico apresentando cerca de 57 Km de comprimento no eixo maior e direção NE-SW e 23 Km no eixo menor com direção NW-SE
+A bacia do Iguatu é a maior entre as quatro, está situada na porção ocidental em relação às demais, ocupa uma àrea de aproximadamente 820 km2, e corresponde cerca de 70% da areat total do complexo sedimentar, tem um formato aproximadamente elíptico apresentando cerca de 57 Km de comprimento no eixo maior e direção NE-SW e 23 Km no eixo menor com direção NW-SE.
 
 <img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/baciasdo_iguatu.png' width = 600>
 IBGE
 
 
-**Origem // evolução:esforços que ocorreram durante um período**
+### Contexto tectônico: origem, evolução e principais eventos que ocorreram na formação
 
 A gênese e evolução da bacia do Iguatu, assim como das outras bacias interiores do Nordeste brasileiro estão relacionadas à fase inicial de abertura do Proto-oceano Atlântico (Evento Sul Atlantiano 160-115 Ma) durante o final do Jurássico e início do Cretáceo.
 
