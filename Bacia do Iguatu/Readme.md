@@ -1,8 +1,13 @@
 # Bacia do Iguatu, CE
 
 ## Aspectos Gerais
+O complexo sedimentar das bacias do Iguatu compreende um conjunto de quatro sub-bacias: Iguatu, Icó, Lima Campos e Malhada Vermelha.
 
-> Bacia Intracratônica
+### Localização
+Estão localizadas no sudeste do Ceará, entre as coordendas: Lat (6° 00' - 6° 30') Long (38° 30" - 39° 30").
+
+### Área Compreendida
+O conjunto de sub-bacias constitui uma área de cerca de 1318 Km2
 
 A bacia possui poucos estudos e tem sua história ainda ser descoberta.
 Origem da bacia
@@ -11,12 +16,17 @@ Fim d ultima sedimentação
  Cretáceo - abertura do atlântico sul e das bacias interiores do nordeste.
 
 ### Tipo
-### Localização
-### Área Compreendida
+> Bacia Intracratônica
+
+
 ### Características peculiares
+A Bacia do Iguatu tem um formato aproximadamente elíptico apresentando cerca de 57 Km de comprimento no eixo maior e direção NE-SW e 23 Km no eixo menor com direção NW-SE
+
+A sub-bacia do Iguatu é a maior entre as quatro, está situada na porção ocidental em relação às demais, ocupa uma àrea de aproximadamente 820 km2, e corresponde cerca de 70% da areat total do complexo sedimentar.
 
 ### Estrutura 
 ### Direções preferenciais
+todas com eixo principal na direção NE-SW. 
 ### Formação sedimentar importante
 
 ### Formato
@@ -31,7 +41,7 @@ Fim d ultima sedimentação
 
 ### Origem e evolução:esforços que ocorreram durante um período. 
 
-As bacias de Iguatu compreendem um complexo formado pela bacia de Iguatu, Icó, Malhada Vermelha e Lucas Campos (Figura abaixo) e estão localizadas no sudeste do Ceará, entre as coordenas: Lat (6° 00' - 6° 30') Long (38° 30" - 39° 30").
+As bacias de Iguatu compreendem um complexo formado pela bacia de Iguatu, Icó, Malhada Vermelha e Lucas Campos (Figura abaixo) e 
 
 <img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/baciasdo_iguatu.png' width = 600>
 IBGE
