@@ -1,4 +1,35 @@
-# Localização da bacia do Iguatu, CE.
+# Bacia do Iguatu, CE
+
+## Aspectos Gerais
+
+> Bacia Intracratônica
+
+A bacia possui poucos estudos e tem sua história ainda ser descoberta.
+Origem da bacia
+Origem da primeira sedimentação
+Fim d ultima sedimentação
+ Cretáceo - abertura do atlântico sul e das bacias interiores do nordeste.
+
+### Tipo
+### Localização
+### Área Compreendida
+### Características peculiares
+
+### Estrutura 
+### Direções preferenciais
+### Formação sedimentar importante
+
+### Formato
+### Limites da Bacia
+### Tendências estruturais Direções?
+### Sucessão estratigráfica ### Estratígrafia ### Formação sedimentar é dividida por e por. * Tem sido desenvolvido diversos estudos geológicos desde .. e ainda não ha uma definição 
+(Discutir a divisão, escolher um dos modelos) 
+
+### Sequência sedimentar (Tipos de rochas: siliciclásticas, carbonática tempo de formação de cada).
+### Embasamento: formação.
+### Objetivo (História tectônica ou sedimentar pode não estar completa e se torna uma lacuna para o MT). Apesar de pesquisas.. a arquitetura e compartimentação e estrutura geoloógica da bacia pode ser melhor revelada com contribuições do MT.
+
+### Origem e evolução:esforços que ocorreram durante um período. 
 
 As bacias de Iguatu compreendem um complexo formado pela bacia de Iguatu, Icó, Malhada Vermelha e Lucas Campos (Figura abaixo) e estão localizadas no sudeste do Ceará, entre as coordenas: Lat (6° 00' - 6° 30') Long (38° 30" - 39° 30").
 
