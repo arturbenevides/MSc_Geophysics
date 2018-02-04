@@ -12,7 +12,7 @@ Estão localizadas no sudeste do Ceará, entre as coordendas: Lat (6° 00' - 6°
 
 **Área Compreendida**
 
-O conjunto de sub-bacias constitui uma área de cerca de 1318 Km2
+O conjunto de sub-bacias constitui uma área de cerca de 1318 Km2 (Colocar uma citação.. CPRM, IBGE..)
 
 **Tipo***
 
@@ -59,6 +59,32 @@ Arima
 ## Estratigrafia
 
 Arima
+Todo o conhecimento científico sobre a Bacia do Iguatu está baseado em trabalhos litoestratigráficos, paleontológicos e geofísicos.
+
+O trabalho é baseado essecialmente em mapeamento geológico de superfície, tem com objetivo principal compreender a estratigrafia, a reconstituição da arquitetura fluvial e o estabelecimento de um modelo tectono-estratigráfico da Bacia do Iguatu.
+
+Com base nas assinaturas estratigráficas de cada sub-bacia, modelos teóricos de evolução e preenchimento em bacias do tipo rift e dados de história térmica das bacias adjacentes foi possível concluir que cada sub-bacia representa parte da história evolutiva de toda a região. Desta forma, a sub-bacia de Icó corresponde à fase incial do rift, as sub-bacias de Malhada Vermelha e Lima Campos a fase incial do clímax do rift e a sub-bacia Iguatu a fase clímax do rift.
+
+* Definição do problema
+
+Em relação às bacias marginais com alto potencial exploratório para hidrocarbonetos (e.g., Recôncavo, Potiguar), as bacias interiores são pouco conhecidas e estudadas pela comunidade científica. As pesquisas de cunho litoestratigráfico, petrológico, paleontológico e geofísico desenvolvidas até o presente momento vêm, de forma integrada, trazendo aos poucos uma melhor compreensão sobre a gênese e
+evolução da região durante a fragmentação do Gondwana. E é sob essa óptica que esse trabalho visa agregar novos conhecimentos fundamentados numa nova roupagem, moderna e dinâmica, baseada nos preceitos da estratigrafia genética aplicada a bacias rifts.
+
+A sub-bacia do Iguatu, situada na porção ocidental em relação às demais, ocupa uma área de aproximadamente 820km² e tem a forma de um elipsóide orientado segundo a direção NE-SW. A grande totalidade da bacia encontra-se encoberto por sedimentos Terciários (Formação Moura), Quaternários e pelo açude de Orós, restringindo a área de exposição às bordas da bacia. As principais cidades e localidade
+situadas sobre a sub-bacia são Iguatu, Quixelô e José de Alencar.
+
+A bacia data do fim do Jurássico e início do Cretáceo, todas as tentativas de posicionamento cronológico da Bacia do Iguatu foram baseadas exclusivamente em dados bioestratigráficos (datação relativa). A única datação absoluta foi realizada por Priem et al. (1978) na Bacia de Lavras da Mangabeira, uma bacia remanescente situada ao sul da Bacia de Iguatu. Esses autores dataram seis amostras de rocha vulcânica, intercalada na base da seqüência e obtiveram pelo método K-Ar uma idade de 175 ± 4 M.a.
+
+* Possível definição do meu problema
+Dentre os trabalhos geofísicos realizados na bacia, Bedregal (1991) e Bedregal & Chemale Jr. (1992) realizaram um levantamento gravimétrico sistemático na sub-bacia do Iguatu e observou uma geometria de meio-graben mergulhando para sudeste junto à falha de Morais com um único depocentro de aproximadamente 1800m .
+
+Castro et al. (1999) realizaram uma caracterização da arquitetura interna das bacias do Vale do Cariri com base em modelagem gravimétrica 3D e obtiveram valores próximos de Bedregal (1991) para a sub-bacia de Iguatu.
+
+
+
+Consultar bibliografias em ARIMA: 
+(Ponte et al. 1990) 
+(Mabesoone e Campanha 1973/74)
 
 # Caracterização Geofísica
 
