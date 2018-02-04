@@ -150,6 +150,7 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [ ] RIBEIRO, J., MELO, F., FEITOSA, F., et al., 2000, “Contribuição hidroquímica para o conhecimento das bacias do Iguatu – CE”. In: 1 st Joint World Congress on Groundwater, p. v.1., Fortaleza.
 
+- [ ] Estudos Hidrogeológicos CPRM.
 ### Extras
 
 Horvath, K. A. (2017). Estruturas geoelétricas da litosfera sob a porção central da bacia do Paraná a partir de um perfil magnetotelúrico. Dissertação de Mestrado. INPE, São José dos Campos, sp, Brasil. (Geologia e Organização)
