@@ -1,15 +1,19 @@
 # Bacia do Iguatu, CE
 
 **Aspectos Gerais**
+
 O complexo sedimentar das bacias do Iguatu compreende um conjunto de quatro sub-bacias: Iguatu, Icó, Lima Campos e Malhada Vermelha.
 
 **Localização**
+
 Estão localizadas no sudeste do Ceará, entre as coordendas: Lat (6° 00' - 6° 30') Long (38° 30" - 39° 30").
 
 **Área Compreendida**
+
 O conjunto de sub-bacias constitui uma área de cerca de 1318 Km2
 
 **Tipo***
+
  Bacia Intracratônica
 
 ### Origem // evolução:esforços que ocorreram durante um período.
