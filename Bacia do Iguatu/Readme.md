@@ -117,11 +117,22 @@ Conforme Matos (1999), a fase rift (Sin-rift II) é subdivida em duas fases (Sin
 (Matos, 1999)
 
 5. No Neo-terciário ou início do Pleistoceno, parte da Bacia do Iguatu foi assoreada por delgada cobertura de estratos fluviais, que constituem a Formação Moura, depositados pelo paleo-rio Jaguaribe e por seus principais afluentes. Esses depósitos correspondem à Seqüência Zeta de Soares et al. (1978) e estão relacionados ao evento de basculamento da placa Sul-americana, associados ao soerguimento da Cordilheira dos Andes, deste o final do Mioceno (Ponte et al. 1990).
+
+(Matos 1999)
+
+
+### Arcabouço estrutural
+ A modelagem gravimétrica, define para a Sub-bacia do Iguatu uma geometria em forma de um elipsóide com caimento para SW, junto à Serra do Torto e um depocentro único alongado segundo NE45º com profundidade máxima de aproximadamente 1,75-1,79km (FIGURA 19 e FIGURA 20) (Bedregal (1991) e Castro et al. (1999)).
  
+ A borda NE da bacia é caracterizada por um alto gradiente. Essa anomalia, associada às evidências de falhas observadas em campo, é interpretada como um contato tectônico.
+ 
+Na porção SW da bacia, a gravimetria indicou uma espécie de “plataforma” junto à borda da bacia (Bedregal, 1991). Essa feição é interpretada como um alto interno controlado por falhas NW-SE
+
+Entre os basculamentos internos mais proeminentes, destaca-se a falha segundo a direção NE situada no flanco oeste, ao norte de Quixelô, observável tanto nas imagens de satélite quanto em afloramento (FIGURA 21). Essa falha é interpretada como sendo uma falha normal sintética à falha principal (Bedregal, 1991; Gomes et al. 1997; Campos et al. 1979).
 
 
 
-Matos 1999
+
 # Caracterização Geofísica
 
 ## Magnetométrica
