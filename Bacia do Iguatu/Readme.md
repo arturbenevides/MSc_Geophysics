@@ -1,4 +1,4 @@
-# Bacia do Iguatu, CE
+# Bacia do Iguatu, CE.
 
 ## Caracterização Geológica
 
