@@ -130,11 +130,18 @@ Na porção SW da bacia, a gravimetria indicou uma espécie de “plataforma” 
 
 Entre os basculamentos internos mais proeminentes, destaca-se a falha segundo a direção NE situada no flanco oeste, ao norte de Quixelô, observável tanto nas imagens de satélite quanto em afloramento (FIGURA 21). Essa falha é interpretada como sendo uma falha normal sintética à falha principal (Bedregal, 1991; Gomes et al. 1997; Campos et al. 1979).
 
+# Fisiografia
 
-# José Alberto Ribeiro
+### José Alberto Ribeiro
 
 Fisiograficamente, são pequenas bacias encravadas em blocos estruturais deprimidos do embasamento precambriano formando cavidades de relevo plano a suavemente ondulado. As áreas mais elevadas dentre os limites da bacia correspondem às chapadas desenvolvidas sobre os clásticos terciários da Formação Moura. Fazem parte de um conjunto mais amplo de bacias mesozóicas do Nordeste brasileiro,
 regionalmente implantadas num contexto de rochas precambrianas da província da Borborema (VASCONCELOS et al., 1998), cuja formação acha-se relacionada à reativação mesozóica da Plataforma Sul-Americana, através da retomada de movimentos ao longo de zonas de cisalhamento proterozóicas.
+
+### Benedelak
+
+### Ponte 1990
+
+### Vasconcelos
 
 # Estatígrafia
 A coluna estratigráfica das bacias do Iguatu congrega sedimentos predominantemente de origem continental, do Cretáceo Inferior. Compreende sedimentos terrígenos do Grupo Iguatu, que engloba da base para o topo as seguintes unidades litoestratigráficas: Formação Icó, Formação Malhada Vermelha e Formação Lima Campos. Ocorrem ainda na área depósitos siliciclásticos terciários da Formação Moura,
