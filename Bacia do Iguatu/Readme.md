@@ -4,10 +4,10 @@
 
 ### Aspectos Gerais
 
-O complexo sedimentar das bacias do Iguatu compreende um conjunto de quatro bacias intracratônica: Iguatu, Icó, Lima Campos e Malhada Vermelha.
-As bacias estão localizadas no sudeste do Ceará, entre as coordendas: Latitude (6° 00' - 6° 30') Longitude (38° 30" - 39° 30").
-O conjunto de sub-bacias constitui uma área de cerca de 1318 Km2 (Colocar uma citação.. CPRM, IBGE..)
-A bacia do Iguatu é a maior entre as quatro, está situada na porção ocidental em relação às demais, ocupa uma àrea de aproximadamente 820 km2, e corresponde cerca de 70% da areat total do complexo sedimentar, tem um formato aproximadamente elíptico apresentando cerca de 57 Km de comprimento no eixo maior e direção NE-SW e 23 Km no eixo menor com direção NW-SE.
+O complexo sedimentar das bacias do Iguatu compreende um conjunto de quatro bacias: Iguatu, Icó, Lima Campos e Malhada Vermelha que estão inseridas no conjunto das bacias interiores cretaceas do nordeste do Brasil. As bacias estão localizadas no sudeste do estado do Ceará, entre as coordenadas: latitude 6◦ 000 − 6◦ 300 S e de longitude 38◦ 300 - 39◦ 300 W Figura 2.1 e constitui uma área de cerca de
+1318 km2.
+A bacia de Iguatu é a maior entre as quatro, está situada na porção ocidental em relação as demais, ocupa uma area de aproximadamente 820 km2, e corresponde cerca de 70% do total do complexo sedimentar, tem um formato aproximadamente elíptico apresentando cerca de 57 km de comprimento no eixo maior com direção NE-SW e 23 km no eixo menor com direção NW-SE. A grande totalidade da bacia encontra-se encoberto por sedimentos Terciários (Formação Moura), Quaternários e pelo a¸cude de Orós, restringindo a área de exposição as bordas da bacia. As principais cidades e localidade situadas sobre a bacia são Iguatu e Quixelô. Diversos trabalhos tem sido realizados na bacia do Iguatu, estudos tais como de FORTIER (2008), PONTE et al. (1990) (paleontol´ogicos), ARIMA (2007), FEITOSA et al. (2004), VASCONCELOS et al. (1998), novamente PONTE (1991a), PONTE (1991b) (geológicos), BENDELAK (2004), CASTRO e CASTELO BRANCO
+(1999), BEDEGRAL et al. (1992) e BEDREGAL (1991) (geofísicos) são referencias na área de estudo e serviram de base para entendimento do contexto geológico dessa bacia
 
 <img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/baciasdo_iguatu.png' width = 600>
 IBGE
