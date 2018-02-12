@@ -51,8 +51,4 @@ O principio teórico é fundamentado na teoria eletromagnética e nas equações
 
 
 
-## Valores típicos de resistividades
 
-10
-100
-1000
