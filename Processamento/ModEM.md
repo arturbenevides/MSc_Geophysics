@@ -34,7 +34,7 @@ objetivo sem a necessidade de calcular a Jacobiana completa para o modelo de cad
 
 ## Método de Inversão do ModEM
 
-O Modular Eletromagnetic Inversion Software (ModEM) é um programa de modelagem de dados eletromagnéticos escrito em Fortran 95 por Gary Egbert, Anna Kelbert e Naser Meqbel do College of Oceanic and Atmospheric Sciences (COAS), Oregon State University (OSU). O ModEM é descrito em detalhes por Egbert e Kelbert (2012). Seu desenvolvimento foi focado na solução de problemas de complexidade estrutural 
+O Modular Eletromagnetic Inversion Software **(ModEM)** é um programa de modelagem de dados eletromagnéticos escrito em Fortran 95 por Gary Egbert, Anna Kelbert e Naser Meqbel do College of Oceanic and Atmospheric Sciences (COAS), Oregon State University (OSU). O ModEM é descrito em detalhes por Egbert e Kelbert (2012). Seu desenvolvimento foi focado na solução de problemas de complexidade estrutural 
 2D e especialmente 3D a partir de dados magnetotelúricos, mas também permite a entrada de outros dados eletromagnéticos. Além de resolver problemas de cálculo direto, o ponto principal do ModEM é a inversão de dados EM. O programa utiliza o método de
 gradientes conjugados não lineares (*Nonlinear Conjugate Gradient* - NLCG) para a minimização da equação (1).
 
