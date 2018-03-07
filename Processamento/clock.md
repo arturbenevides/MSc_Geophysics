@@ -43,4 +43,4 @@ Como retirar essas informações do header:
 A informação **[3]** é referente ao inicio da aquisição (primeira estação e primeiro arquivo).
 
 
-Importante para a reformatação
+Importante para a reformatação usando o rfemi.
