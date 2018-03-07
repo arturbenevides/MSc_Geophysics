@@ -148,7 +148,7 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [ ] CAVALCANTE, Itabaraci Nazareno. (1998). Fundamentos hidrogeológicos para a gestão integrada de recursos hídricos na Região Metropolitana de Fortaleza, Estado do Ceará. São Paulo: USP. Instituto de Geociências, 164p. Tese (Doutorado) – Universidade de São Paulo
 
-- [ ] RIBEIRO, J., MELO, F., FEITOSA, F., et al., 2000, “Contribuição hidroquímica para o conhecimento das bacias do Iguatu – CE”. In: 1 st Joint World Congress on Groundwater, p. v.1., Fortaleza.
+- [x] RIBEIRO, J., MELO, F., FEITOSA, F., et al., 2000, “Contribuição hidroquímica para o conhecimento das bacias do Iguatu – CE”. In: 1 st Joint World Congress on Groundwater, p. v.1., Fortaleza.
 
 - [x] Estudos Hidrogeológicos CPRM.
 ### Extras
