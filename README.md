@@ -127,17 +127,17 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 ### Bacia do Iguatu
 
-- [ ] Arima, N. (2007), Análise Estatigráfica da Bacia do Iguatu, CE. Ph.D. dissertation, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil.
+- [x] Arima, N. (2007), Análise Estatigráfica da Bacia do Iguatu, CE. Ph.D. dissertation, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil.
 
-- [ ] Bendelak, M., R. (2004) Caracterização da Folha Iguatu (Região Centro-Sul do Estado do Ceará) Integrando Dados Aerogeofísicos, Geológicos e de Imagens de Satélite. Tese de Doutorado. Universidade de São Paulo, São Paulo, SP, Brasil.
+- [x] Bendelak, M., R. (2004) Caracterização da Folha Iguatu (Região Centro-Sul do Estado do Ceará) Integrando Dados Aerogeofísicos, Geológicos e de Imagens de Satélite. Tese de Doutorado. Universidade de São Paulo, São Paulo, SP, Brasil.
 
-- [ ] Feitosa F. A. C. et al., 2004. Estudos Hidrogeológicos de Bacias Sedimentares da Região Semi-árida do Nordeste Brasileiro. Serviço Geológico do Brasil. 
+- [x] Feitosa F. A. C. et al., 2004. Estudos Hidrogeológicos de Bacias Sedimentares da Região Semi-árida do Nordeste Brasileiro. Serviço Geológico do Brasil. 
 
-- [ ] Castro, D., Castelo Branco, R. (1999). Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
+- [x] Castro, D., Castelo Branco, R. (1999). Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
 
- - [ ] Vasconcelos A. M. et al., (1998). Programa Levantamentos Geológicos Básicos do Brasil (PLGB) Carta Geológica - Folha de Iguatu SB.24-Y-B. Serviço Geológic do Brasil. Superintendências Regional de Recife; Residência de Fortaleza; Departamento de Geologia.
+ - [x] Vasconcelos A. M. et al., (1998). Programa Levantamentos Geológicos Básicos do Brasil (PLGB) Carta Geológica - Folha de Iguatu SB.24-Y-B. Serviço Geológic do Brasil. Superintendências Regional de Recife; Residência de Fortaleza; Departamento de Geologia.
  
- - [ ] MARC¸AL, A., FONTES, S., FLEXOR, J., et al., 2005, “Estudos Magnetotelúricos na Bacia do Iguatu (CE): Primeiros resultados”. In: 9 th International Congress of the Brazilian Geophysical Society, Salvador.
+ - [ ] MARÇAL, A., FONTES, S., FLEXOR, J., et al., 2005, “Estudos Magnetotelúricos na Bacia do Iguatu (CE): Primeiros resultados”. In: 9 th International Congress of the Brazilian Geophysical Society, Salvador.
 
 - [ ] Bedregal, R. P (1991). 
 - [ ] Darros de Matos (1987, 1992),
