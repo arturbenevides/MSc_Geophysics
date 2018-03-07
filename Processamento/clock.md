@@ -41,3 +41,6 @@ Como retirar essas informações do header:
 - DATA VALUE
 
 A informação **[3]** é referente ao inicio da aquisição (primeira estação e primeiro arquivo).
+
+
+Importante para a reformatação
