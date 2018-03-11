@@ -146,7 +146,7 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [ ] Abreu, P. M. (2002). Estudos Geofísicos (Magnetotelúrico e Eletromagnético Transiente) da Porção Leste da Bacia do Parnaíba: Contribuição ao conhecimento Hidrogeológico. Dissertação de Mestrado. Observatório Nacional, Rio de Janeiro, rj, Brasil. (MT e Hidrogeologia).
 
-- [ ] CAVALCANTE, Itabaraci Nazareno. (1998). Fundamentos hidrogeológicos para a gestão integrada de recursos hídricos na Região Metropolitana de Fortaleza, Estado do Ceará. São Paulo: USP. Instituto de Geociências, 164p. Tese (Doutorado) – Universidade de São Paulo
+- [x] CAVALCANTE, Itabaraci Nazareno. (1998). Fundamentos hidrogeológicos para a gestão integrada de recursos hídricos na Região Metropolitana de Fortaleza, Estado do Ceará. São Paulo: USP. Instituto de Geociências, 164p. Tese (Doutorado) – Universidade de São Paulo
 
 - [x] RIBEIRO, J., MELO, F., FEITOSA, F., et al., 2000, “Contribuição hidroquímica para o conhecimento das bacias do Iguatu – CE”. In: 1 st Joint World Congress on Groundwater, p. v.1., Fortaleza.
 
