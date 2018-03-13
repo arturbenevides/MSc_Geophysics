@@ -23,7 +23,7 @@
    - [ ] Usar o dnff
    - [ ] Usar o tranmt
    
-- [ ] Correção de *static shift*   
+- [ ] Análise de dimensionalidade  
 - [ ] Modelagem e inversão 2D
 
 - [ ] Inversão 3D usando o modEM
