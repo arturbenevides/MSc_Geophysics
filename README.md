@@ -87,9 +87,10 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
  > * [Indução Eetromagnética em Meios Geológicos](http://on.br/dppg/geofisica/ementa/INDUCAO_ELETROMAGNETICA_EM_MEIOS_GEOLOGICOS_rev.pdf)
  > * [Geologia Geral e Aplicada](http://on.br/dppg/geofisica/ementa/GEOLOGIA_GERAL_E_APLICADA_rev.pdf)
  > * [Geofísica Aplicada à Exploração de Petróleo e Mineração](http://on.br/dppg/geofisica/ementa/GEOFISICA_APLICADA_A_EXPLORACAO_DE_PETROLEO_ref.pdf)
-
+ 
 Cada disciplina equivale a 3 créditos, formando no total 24 créditos.
 
+> * Mini Curso: 3D Magnetotelluric Inversion (1 Crédito)
 _
 _
 
