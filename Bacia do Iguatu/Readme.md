@@ -178,27 +178,3 @@ Benevides
 Localização dos perfis com os pontos de sondagem MT na bacia de Iguatu. 
 
 
-
-# ANÁLISE ESTRATIGRÁFICA DAS BACIAS SEDIMENTARES DO IGUATU, CEARÁ
-## André Renan Costa Silva
-
-O Nordeste Brasileiro apresenta extensa história geológica relacionada à tectonismo divergente e estabelecimento
-de sequências rifte responsáveis pela separação dos continentes Sulamericano e Africano durante o Cretáceo. Tais
-eventos levaram à formação de uma série de bacias sedimentares denominadas Bacias Interiores do Nordeste,
-dentre as quais, as Bacias Sedimentares do Iguatu. O Grupo Iguatu, por sua vez, é constituído por quatro pequenas
-bacias localizadas no centro-leste do Estado, são elas: Icó, Iguatu, Malhada Vermelha e Lima Campos.O grupo
-abrange uma área sedimentar rasa de aproximadamente 550 km2, caracterizada por sedimentação clástica e
-evidente controle estrutural causado pela Faixa Cariri-Potiguar e suas zonas de cisalhamento proterozóicas NESW. A influência estrutural da área também é evidenciada na configuração de meio-graben com mergulhos suaves
-na direção NW e fortes na direção SE. Litologicamente, as bacias representam coberturas sedimentares de pequeno
-a médio porte compostas por arenitos, por vezes conglomeráticos, intercalados à calcários e folhelhos, podendo
-apresentar estratificação cruzada evidente e presença de sedimentos clásticos de idade terciária englobados e em
-discordância. Sua gênese é amplamente discutida acerca de associações à resquícios de uma única bacia mesozóica
-pretérita que teria sofrido intensa ação erosiva, elevações no embasamento e alta frequência de falhamentos
-transcorrentes. A divisão dos sedimentos do Grupo Iguatu se dá através de uma bacia homônima, juntamente com
-as Formações Malhada Vermelha, Lima Campos e Icó, adjacentes a faixa orogênica Orós-Jaguaribe, contudo a
-evolução dos sedimentos pode se associar ao Lineamento de Patos. A estratigrafia do pacote sedimentar é
-complexa devido ao cenário geológico e estrutural da região, com alternâncias de seus litotipos sedimentares. Este
-projeto busca esclarecimentos acerca da evolução sedimentar dentro do contexto tectônico da região através do
-mapeamento geológico estrutural, da análise estratigráfica e dos ambientes sedimentares das Bacias do Iguatu,
-com foco na possibilidade da aplicação de métodos de datação paleomagnética para os sedimentos que a
-preenchem
