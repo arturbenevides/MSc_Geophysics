@@ -92,7 +92,7 @@ Mapa geológico da área destacando a geologia do embasamento. A implantação e
 <img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/terrenos_tcc_toj.png' width=600>
 
 >**Consultar bibliografia embasamento: Jardim de Sá, 1994, Santos et al. 1997, Gomes et al.
-2000.
+2000
 
 
 #### Contexto tectônico
