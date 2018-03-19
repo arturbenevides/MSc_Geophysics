@@ -161,5 +161,5 @@ Antunes, C. S. (2012). Tomografia de condutividade elétrica sob a bacia do Para
 
 ### Periódicos para publicação
 
-(Revista de Águas Subterrâneas)[https://aguassubterraneas.abas.org/asubterraneas]
+[Revista de Águas Subterrâneas](https://aguassubterraneas.abas.org/asubterraneas)
 
