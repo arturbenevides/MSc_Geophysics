@@ -13,9 +13,6 @@
 
 - [ ] Colocar as coordenadas no header
 
-- [ ] Filtrar as frequências de ruído das séries temporais e modificar os parâmetros da decimação em casacata;
-
-
 - [ ] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) (Cluster)
   
    - [x] Montar [.clk](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clk.md) (Elaborar programa)
