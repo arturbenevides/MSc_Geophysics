@@ -9,5 +9,6 @@
 
 Baseado em unidades de formações
 
+<img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/Iguatu_litologia.png' width=600>
 
 ..
