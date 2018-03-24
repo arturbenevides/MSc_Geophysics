@@ -48,6 +48,7 @@ O principio teórico é fundamentado na teoria eletromagnética e nas equações
 
 ## Indução em 2D
 <img src='https://github.com/arturbenevides/MsC_Geophysics/blob/master/Figs/mod2D.png' width = 400>
+
 ## Indução em 3D
 <img src='https://github.com/arturbenevides/MsC_Geophysics/blob/master/Figs/mod3D.png' width = 400>
 
