@@ -44,10 +44,7 @@ O principio teórico é fundamentado na teoria eletromagnética e nas equações
 ### Equações de Maxwell e Relações constitutivas
 
 ## Indução em 1D
-
-## Indução em 2D
-
-## Indução em 3D
+<img src='https://github.com/arturbenevides/MsC_Geophysics/tree/master/Figs/mod1D.png' width = 300>
 
 
 
