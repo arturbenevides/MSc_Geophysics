@@ -23,8 +23,9 @@
    - [ ] Usar o dnff
    - [ ] Usar o tranmt
    
-- [ ] Análise de dimensionalidade  
-- [ ] Modelagem e inversão 2D
+- [ ] Análise de dimensionalidade WALDIM 
+
+- [ ] Modelagem e inversão 2D (Usando o perfil 1)
 
 - [ ] Inversão 3D usando o modEM
 
