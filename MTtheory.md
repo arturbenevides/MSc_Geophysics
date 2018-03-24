@@ -59,3 +59,6 @@ rho = rho(x,y,z)
 <img src='https://github.com/arturbenevides/MsC_Geophysics/blob/master/Figs/mod3D.png' width = 400>
 
 
+## Aquisição
+
+<img src='https://github.com/arturbenevides/MsC_Geophysics/blob/master/Figs/arranjo_L.png' width = 400>
