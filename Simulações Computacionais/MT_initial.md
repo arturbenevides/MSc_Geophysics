@@ -4,6 +4,7 @@ Da série temporal até o modelo invertido
 
 
 TS (*time series*) é um arquivo onde são armazenados os registros temporais dos campos elétricos e magnéticos adquiridos em campo. 
+Os arquivos de TS na maioria das vezes estão em formato binário.
 
 O processamento para estimativa do tensor de impedância é feito no domínio da frequência, por isso é necessário aplicar a Transformada de Fourier aos dados contidos na série tempora.
 
