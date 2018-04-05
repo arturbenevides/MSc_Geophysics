@@ -20,11 +20,9 @@ Esse módulo reformata arquivos em formato EMI (MT1) para o binário padrão do 
 (O exevutável geralmente está na pasta bin) 
 O comando é o **`rfemi`**. 
 O executável irá solicitar:
-Código com 3 caracteres para estação. 
-Nome do arquivo TS
-Nome do arquivo de saida BIN
-Nome do arquivo CLK
+Código com 3 caracteres para estação (Id da estação); Nome do arquivo TS; Nome do arquivo de saida BIN; Nome do arquivo CLK
 E um pequeno header
+>*Caso ainda não esteja instalado, tente: `make rfemi` -> `make install`--> `make clean`
 
 >**Output**: arquivo.bin (binário) e arquivo.sp 
 
