@@ -15,6 +15,7 @@ Esse módulo reformata arquivos em formato EMI (MT1) para o binário padrão do 
 
 >**Input**: arquivos.TS e arquivo.clk ([descrição](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clock.md))
 (é necessário ter os arquivos de calibração do equipamento)
+>**Output**: arquivo.bin (binário) e arquivo.sp 
 
 ### Comandos
 (O exevutável geralmente está na pasta bin) 
@@ -22,10 +23,11 @@ O comando é o **`rfemi`**.
 O executável irá solicitar:
 Código com 3 caracteres para estação (Id da estação); Nome do arquivo TS; Nome do arquivo de saida BIN; Nome do arquivo CLK
 E um pequeno header
+
 >*Caso ainda não esteja instalado, tente: `make rfemi` -> `make install`--> `make clean`
 
->**Output**: arquivo.bin (binário) e arquivo.sp 
 
+#
 ## dnff
 
 Esse módulo faz os cálculos dos coeficientes de fourier para cada banda de frequência e inclui um esquema de decimação em cascata.
@@ -34,6 +36,12 @@ Esse módulo faz os cálculos dos coeficientes de fourier para cada banda de fre
 
 >**Output**: CFs (coeficientes de fourier organizados por frequência) 
 
+### Comandos
+O comando é o **`dnff`**
+
+>*Caso ainda não esteja instalado, tente: `make dnff`-> `make install` -> `make clean` 
+
+#
 ## tranmt
 
 Esse módulo faz a estimativa robusta do tensor de impedância.
@@ -41,6 +49,7 @@ Esse módulo faz a estimativa robusta do tensor de impedância.
 >**Input**: CFs 
 
 >**Output**: TFs (arquivo com as funções transferência) e cov (erro e covariancias)
+
 
 As rotinas dos códigos utilizados são descritas em detalhes em Egbert e Booker (1986), Egbert
 e Livelybrooks (1996) e Egbert (1997).
