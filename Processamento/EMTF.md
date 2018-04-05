@@ -15,6 +15,7 @@ Esse módulo reformata arquivos em formato EMI (MT1) para o binário padrão do 
 
 >**Input**: arquivos.TS e arquivo.clk ([descrição](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clock.md))
 (é necessário ter os arquivos de calibração do equipamento)
+
 >**Output**: arquivo.bin (binário) e arquivo.sp 
 
 ### Comandos
@@ -50,13 +51,18 @@ Esse módulo faz a estimativa robusta do tensor de impedância.
 
 >**Output**: TFs (arquivo com as funções transferência) e cov (erro e covariancias)
 
+### Comandos
+O comando é **`tranmt`**
 
+>*Caso ainda não esteja instalado, tente: `make tranmt` -> `make install` -> `make clean`
+
+#
 As rotinas dos códigos utilizados são descritas em detalhes em Egbert e Booker (1986), Egbert
 e Livelybrooks (1996) e Egbert (1997).
 
 ### Transformada de Fourier
 
-Inicialmente, as séries temporais passaram por um processo de janelamento, em que os dados s~ao divididos em pacotes com número definido de amostras. A transformada de Fourier é feita individualmente para cada um desses pacotes, ou janelas, de dados.
+Inicialmente, as séries temporais passarão porum processo de janelamento, em que os dados s~ao divididos em pacotes com número definido de amostras. A transformada de Fourier é feita individualmente para cada um desses pacotes, ou janelas, de dados.
 Alguns arquivos de entrada com parâmetros dos sensores e arquivos de controle do programa são necessários. Ao final dessa etapa são gerados os coeficientes de Fourier (FC - Fourier coefficients) ordenados por frequência para cada uma das i janelas de dados
 das j estações. Todo este processo é realizado utilizando o programa `dnff`.
 
