@@ -16,6 +16,16 @@ Esse módulo reformata arquivos em formato EMI (MT1) para o binário padrão do 
 >**Input**: arquivos.TS e arquivo.clk ([descrição](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clock.md))
 (é necessário ter os arquivos de calibração do equipamento)
 
+### Comandos
+(O exevutável geralmente está na pasta bin) 
+O comando é o **`rfemi`**. 
+O executável irá solicitar:
+Código com 3 caracteres para estação. 
+Nome do arquivo TS
+Nome do arquivo de saida BIN
+Nome do arquivo CLK
+E um pequeno header
+
 >**Output**: arquivo.bin (binário) e arquivo.sp 
 
 ## dnff
