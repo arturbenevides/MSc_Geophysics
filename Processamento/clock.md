@@ -15,20 +15,20 @@ Como retirar essas informações do header:
 - DATA FILE:04I0051.TS4 
 - VERSIONID: MTACQ 2.00
 - DATE TIME: _*20040907*_ _*12:57:56*_ --> **[2]**
-+ SURVEY ID:IGUATU                        
-- SURVEY CO:ON                            
-- CLIENT CO:ON                            
-- OPERATOR :Roberto/Germano               
-- AREA     :Sitio Jurema                  
++ SURVEY ID:BRAZIL                        
+- SURVEY CO:OSS                            
+- CLIENT CO:OSS                            
+- OPERATOR :ARTUR             
+- AREA     :BAHIA                  
 - REMOTE   :NAO                           
-- WEATHER  :BOM                           
-- COMMENT 1:SOLO ARENO ARGILOSO 
+- WEATHER  :GOOD                           
+- COMMENT 1: ALUVIUM 
 - COMMENT 2:                    
 - NO OF SI : 1 
 - NO OF CH : 5 
-- EXT CLOCK:OFF
+- EXT CLOCK:OFF (HERE IS THE PROBLEM, WE NEED THIS INFORMATION, EXT CLOCK SHOULD BE **ON**)
 - POWERLINE: 60
-- SITE    1:Sitio Jurema                  
+- SITE    1:SITE 1                 
 - CHANEL  1:Ex-1 EF-9010X 0     (928823,453092,260   )60dB23
 - CHAEXT  1: 99     30dB LF OUT 190R -9.8 
 - CHANEL  2:Ey-1 EF-9010Y 90    (0     ,0     ,0     )60dB23
@@ -40,7 +40,7 @@ Como retirar essas informações do header:
 - PARAMETER:        10        10    1.0000   94.0000  _512.0000_  **[1]**     512
 - DATA VALUE
 
-A informação **[3]** é referente ao inicio da aquisição (primeira estação e primeiro arquivo).
+A informação **[3]** é referente ao inicio da aquisição, deve ser levado em consderação o inicio da aquisição, ou seja, **[3]** é a data e o horário da primeira sondagem.
 
 
 Importante para a reformatação usando o rfemi.
