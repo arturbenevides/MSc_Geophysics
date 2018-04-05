@@ -5,7 +5,7 @@ O módulo utilizado para fazer a estimativa do tensor é o `tranmt`(para levanta
 
 Os módulos de estimativa do tensor pedem como parâmetros de entrada os coeficientes de Fourier (cf) que são os parâmetros de saída do programa `dnff`, responsável por cálcular os coeficientes para determinado janelamento de amostras. 
 
-O `dnff`precisa que os dados estejam em um formato binário padrão. Se os dados estiverem em outro formato é necessário que seja feita uma conversão. O EMTF disponibiliza dois módulos de conversão: `rfemi` (para o sistema EMI-MT1) e `rfasc` (para arquivo ascii simples) e `ats2asc`(para arquivos ats) $$^[2]$$.
+O `dnff`precisa que os dados estejam em um formato binário padrão. Se os dados estiverem em outro formato é necessário que seja feita uma conversão. O EMTF disponibiliza dois módulos de conversão: `rfemi` (para o sistema EMI-MT1) e `rfasc` (para arquivo ascii simples) e `ats2asc`(para arquivos ats).
 
 
 
@@ -57,8 +57,24 @@ O comando é **`tranmt`**
 >*Caso ainda não esteja instalado, tente: `make tranmt` -> `make install` -> `make clean`
 
 #
-As rotinas dos códigos utilizados são descritas em detalhes em Egbert e Booker (1986), Egbert
-e Livelybrooks (1996) e Egbert (1997).
+## ats2asc
+
+Uma das vias mais comuns de processamento de daos magnetotelúrico utilizando o EMTF  é utilizando dados armazenados em arquivos em formato ats.
+Apenas com o comando **`ats2asc`** podemos converter os dados para o formato asc e proceder diretamente para o dnff e tranmt.
+
+Rotina de Marcelo Banik (INPE):
+
+arquivos necessários: .asc, .clk, .sp, .txt
+
+o arquivo .txt contém: ESTAÇÃO / JANELA-FREQUENCIA / Tipo de processamento (ss ou rr).
+
+o comando para obter os tensores : **`processamentoZ *.txt`**
+
+
+
+
+
+
 
 ### Transformada de Fourier
 
@@ -67,3 +83,9 @@ Alguns arquivos de entrada com parâmetros dos sensores e arquivos de controle d
 
 Para calcular os coeficientes de Fourier utiliza-se uma mistura de decimação em cascata e transformada rápida de Fourier descrita em Egbert e Booker (1986). Inicialmente, usam-se janelas pequenas de dados para calcular os coeficientes de Fourier
 da maior frequência desejada (decimação de nível 1). Para obter os coeficientes de Fourier para frequências mais baixas, de modo mais eficiente, os dados são submetidos à um filtro digital passa-baixa. Os dados filtrados são então divididos em novas janelas e a transformada de Fourier é novamente aplicada. Essa etapa é a decimação de nível 2. Esse processo de filtragem e janelamento pode ser repetido quantas vezes for desejado. No entanto, o tamanho da janela escolhida deve conter o mínimo de amostras necessárias para obter a resolução desejada no domínio da frequência, isto é, deve-se respeitar a frequência de Nyquist para amostragem do sinal.
+
+
+
+#
+As rotinas dos códigos utilizados são descritas em detalhes em Egbert e Booker (1986), Egbert
+e Livelybrooks (1996) e Egbert (1997).
