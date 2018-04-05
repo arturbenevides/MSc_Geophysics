@@ -1,6 +1,6 @@
 # EMTF
 
-O objetivo do EMTF é fazer a estimativa robusta de funções transeferência, neste caso os tensores de impedância.
+O objetivo do EMTF é fazer a estimativa robusta de funções transferência, neste caso os tensores de impedância.
 O módulo utilizado para fazer a estimativa do tensor é o `tranmt`(para levantamento com estações simples) e `multmtrn` (para levantamentos multiplas estações).
 
 Os módulos de estimativa do tensor pedem como parâmetros de entrada os coeficientes de Fourier (cf) que são os parâmetros de saída do programa `dnff`, responsável por cálcular os coeficientes para determinado janelamento de amostras. 
