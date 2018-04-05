@@ -62,9 +62,8 @@ e Livelybrooks (1996) e Egbert (1997).
 
 ### Transformada de Fourier
 
-Inicialmente, as séries temporais passarão porum processo de janelamento, em que os dados s~ao divididos em pacotes com número definido de amostras. A transformada de Fourier é feita individualmente para cada um desses pacotes, ou janelas, de dados.
-Alguns arquivos de entrada com parâmetros dos sensores e arquivos de controle do programa são necessários. Ao final dessa etapa são gerados os coeficientes de Fourier (FC - Fourier coefficients) ordenados por frequência para cada uma das i janelas de dados
-das j estações. Todo este processo é realizado utilizando o programa `dnff`.
+Inicialmente, as séries temporais passarão por um processo de janelamento, em que os dados são divididos em pacotes com número definido de amostras. A transformada de Fourier é feita individualmente para cada um desses pacotes, ou janelas, de dados.
+Alguns arquivos de entrada com parâmetros dos sensores e arquivos de controle do programa são necessários. Ao final dessa etapa são gerados os coeficientes de Fourier (FC - Fourier coefficients) ordenados por frequência para cada uma das *i* janelas de dado das *j* estações. Todo este processo é realizado utilizando o programa `dnff`.
 
 Para calcular os coeficientes de Fourier utiliza-se uma mistura de decimação em cascata e transformada rápida de Fourier descrita em Egbert e Booker (1986). Inicialmente, usam-se janelas pequenas de dados para calcular os coeficientes de Fourier
 da maior frequência desejada (decimação de nível 1). Para obter os coeficientes de Fourier para frequências mais baixas, de modo mais eficiente, os dados são submetidos à um filtro digital passa-baixa. Os dados filtrados são então divididos em novas janelas e a transformada de Fourier é novamente aplicada. Essa etapa é a decimação de nível 2. Esse processo de filtragem e janelamento pode ser repetido quantas vezes for desejado. No entanto, o tamanho da janela escolhida deve conter o mínimo de amostras necessárias para obter a resolução desejada no domínio da frequência, isto é, deve-se respeitar a frequência de Nyquist para amostragem do sinal.
