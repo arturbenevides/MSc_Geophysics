@@ -95,7 +95,7 @@ As rotinas dos códigos utilizados são descritas em detalhes em Egbert e Booker
 e Livelybrooks (1996) e Egbert (1997).
 
 
-# SEQUÊNCIA ATS2ASC
+# ProcessamentoZ - ats files
 Pasta Modelo 
 * Descompactar 
 1. tar xf ~/google Drive/modelo.tar.xz
@@ -121,8 +121,34 @@ Cria um arquivo para receber o nome das estações,  janela e se é ss ou rr
 
 > processamentoZ tmp.tmp
 
+5. Egbert para TS (verificar as séries temporais e cortar trechos ruidosos)
 
-5. TOJONES (Permite selecionar melhores resultados entre diferentes run)
+> egb2tss file.asc
+
+gera um --> file.sec no dietório DATA
+
+> plotTS file.sec
+
+Para eliminar trechos ruidosos deve se selecionar o trecho:
+
+> cat file.sec 2004-04-10T09 2004-04010T09:30:00
+
+Se quiser eliminar toda série a partir de um ponto:
+
+> cat file.sec 2004-04-10T09 end
+
+formato das horas:
+yyyy-mm-dd-Thh:mm:ss
+
+> sec2bad file.sec file.sel > file.bad
+
+* Tem que criar a pasta BAD e guardar o file.bad
+
+Na hora do processamento Z 
+
+> echo 'file.asc; bd 128 ss' (no caso do EMI, tem que trocar a extensão asc por bin).
+
+6. TOJONES (Permite selecionar melhores resultados entre diferentes run)
 Um arquivo txt deve ser criado para infrormar os trechos que devem ser selecionado.
 
 EX:
@@ -141,22 +167,64 @@ O restante dos pontos da curva [1-8] ele irá utilizar todas as curvas do file2.
 dado_selecionado.dat -> aqruivo zss no formato jones
 
 
-6. RHOPLUS
+7. RHOPLUS
+
+> Z2rhoplus file.dat cmp=xy ef=5 > PASTA/file.comp
+
+* *obs: o file.dat vem do tojones, cmp é referente as componentes, o rhoplus só sabe lidar com XY e YX, e não com XX ou YY. talvez funcione com file.edi, não foi testado.
 
 > rhoplus < arquivo
 
 > plot-rhoplus arquivo.fsp
 
+# ProcessamentoZbin - emi files
 
+Pasta Modelo 
 
+* Descompactar 
 
-#  Processamento sem o ProcZ automático
+1. tar xf ~/google Drive/modelo.tar.xz
 
+> emi2egb local\file.TS id time
+
+ex:
+
+> emi2egb MT001\04i001.TS 001 2004-09-06T10:56:24
+
+Automaticamente cria um file.bin na pasta DATA, além de file.err e file.log
+E cria um file.sp na pasta SP.
+
+2. Processamento Z EMI
+
+> echo 'file.bin 128 ss' > tmp.tmp
+
+> processamentoZbin tmp.tmp
+
+Se tiver problema de segmentação (core Dumped)
+
+> echo 'file.bin 128 ss;bs4' > tmp.tmp
+
+O sinal (;) permite usar o arquivo options00128bs4.cfg que é uma variação do options00128.cfg que contém até a quinta decimação, ou seja bs5.
+
+3. Visualizar
+
+> plot-cmp-tf file.zss
+
+> plot-cmp-tf shift=180,0 file.zss  (para inverter a fase no gráfico).
+
+#  Processamento EMTF padrão
+
+> echo "file.asc 128 ss" > tmp.tmp
+
+> proxessamentoZ tmp.tmp
 
 1. transformação mais decimação 
 
-> dnff00256  (gerar o processamentoZ primeiro paa gerar o path.cfg e outras arquivos de opções)
+> dnff00256  (gerar o processamentoZ primeiro para gerar o path.cfg abrir e alterar de asc para bin)
+
 ! Um problema pode acontecer devido a decimação, por exemplo - paa decimação 5 os dados estão falhando. Em options dentro de CF00128 ou outro CF00 qualquer tem escrito no arquivo a opção: bs5bla.cfg (referente a 5 decimações. Cada decimação é referente 4 períodos, bs4 = 16 períodos)
+
+O output estará guardado em FC00256 OU FC00128 ou em outra, depende da janela (128, 256.. )
 
 2. Transferfunction
 
@@ -164,12 +232,18 @@ dado_selecionado.dat -> aqruivo zss no formato jones
 
 pede o arquivo tranmt.bat
 
-> tranmt.bat: 
+> tranmt.bat:
+
 > arquivo.bin
+
 > options.cfg
+
 > 1
+
 > 1  5
+
 > file.f5
+
 > n
 
 # Comandos extras:
@@ -199,9 +273,19 @@ pede o arquivo tranmt.bat
 
 > ctrl+shft+v (copiar)
 
->
+> diff file1 file2 (diferencia informações e dois arquivos)
 
+> cd (volta a pasta raíz)
 
+> ls -1 PASTA/file (lista o arquivo nesta pasta, se ele estiver)
+
+> ls -1 Pasta\*/\*TS4   (listar todos os arquivos que tenham terminação TS4 e estejam nas pasta que começam com MT)
+
+> rm  (exclui arquivo)
+
+> rm -r (exclui pasta)
+
+> history | grep info (para buscar no histórico algo que tenha digitado e  que contenha a palavra );
 
 
 
@@ -228,3 +312,29 @@ Pode ser utilizada para alcancar períodos maiores no dado. (Observando sempre a
 * O rhoplus é bom para recuperar ponots na resistividade se esses pontos na fase estiver de boa qualidade.
 
 * O clock, sp e bin deve ter o mesmo nome para facilita o processamento
+
+* Arquivo proc_sjk001a.log é uma colinha para o processamento com um passo a passo.
+
+* Cada número de decimação são referentes a 4 períodods, 4 decimações é igual a 16 pontos de períodos na curva, por exemplo.
+
+* Devido ao problema na inversão da fase. foi necessário editar os arquivos de parâmetros (file.sp) para que a impedância esteja correta. Para os eletrodos foi trocado o sinal nos ganhos. (primeira coluna do EX e do EY).
+
+* É necessário inverter os eletrodos ou bobinas caso os valores de impedancia em Zyx não sejam negativos e os de Zxy não sejam positivos.
+
+* O tipper não tem muita relação com a polaridade das bobinas e dos eletrodos. para verificar se tudo está em é aconselhado olhar as estações vizinhas, se tiver o mesmo comportamento, então está correto.
+
+
+
+# Técnica do Rhoplus
+
+ordem no aqrquivo:
+
+periodo  resistividade  erro  fase  erro  0 1
+periodo  resistividade  erro  fase  erro  0 1
+periodo  resistividade  erro  fase  erro  0 1
+periodo  resistividade  erro  fase  erro  0 1
+
+0 significa que esse ponto não esta selecionado
+1 significa que esse ponto está selecionado
+
+O que ser faz é colocar 0 e pontos ruidosos para o rhoplus fazer a estimativa da curva sem esse ponto, se baseando nas infomações da fase.
