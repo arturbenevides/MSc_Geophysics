@@ -89,3 +89,26 @@ da maior frequência desejada (decimação de nível 1). Para obter os coeficien
 #
 As rotinas dos códigos utilizados são descritas em detalhes em Egbert e Booker (1986), Egbert
 e Livelybrooks (1996) e Egbert (1997).
+
+
+# SEQUÊNCIA ATS2ASC
+Pasta Modelo 
+* Descompactar 
+1. tar xf ~/google Drive/modelo.tar.xz
+
+* Mover o conteúdo da pasta modelo para pasta teste (Se preciso testar algo)
+> mv -i modelo teste
+
+*obs: não sei ainda o que significa o (i)*
+
+2. Colocar os sensores na pasta SENSORS
+
+3. Conversão de formato
+
+> ats2asc --site-name \local\arquivo.ats
+
+
+
+
+
+
