@@ -127,6 +127,21 @@ Um arquivo txt deve ser criado para infrormar os trechos que devem ser seleciona
 
 EX:
 file1 [1 - 6] file2 [1 - 6] file3 [1 - 6]
+file2 [1 - 8] file3
+
+Nesse txt acima o tojones entenderá que você quer dos 6 primeiros pontos ([1 -6]) pegar informações das curvas (Zxx, Zxy e Tzx, Tzy) do arquivo file1 e informações das curvas (Zyx, Zyy) do file2.
+O restante dos pontos da curva [1-8] ele irá utilizar todas as curvas do file2. 
+
+*dica: digite >tojone para mais informações*
+
+> echo "file1 [1 - 6] file2 [1 - 6] file3 [1 - 6]\nfile2 [1 - 8] file3" > selecao.txt
+
+> tojone \local\selecao.txt > dado_selecionado.dat
+
+dado_selecionado.dat -> aqruivo zss no formato jones
+
+
+
 
 
 
@@ -151,7 +166,15 @@ file1 [1 - 6] file2 [1 - 6] file3 [1 - 6]
 
 > echo " nova frase para o aqruivo tmp" >> tmp.tmp (o sinal do >> permite adicionar informações no arquivo tmp.tmp sem sobreescrever)
 
+> which transferfuncion  ( which busca, no caso, vai buscar transferfuncions)
+
+> grep rsp SP/* ( grep busca string em arquivos, nesse caso, o grep vai buscar o string rsp nos arquivos na pasta SP)
+
+> man make ( pode visualizar informações do manual sobre o make, pode-se tentar ls ou outros.)
+
 > 
+
+
 
 
 
@@ -167,3 +190,10 @@ Pode ser utilizada para alcancar períodos maiores no dado. (Observando sempre a
 * chopper on e off - opções utilizadas para aumento de ganho em baixas frequencias (abaixo de 512);
 
 * Os dados zss deve ficar na pasta final
+
+* O rhoplus serve para caso 2D
+
+* é melhor deixar as barras de erros grandes, pois isso é melhor para inversão não prestar nesses pontos.
+
+* O rhoplus é bom para recuperar ponots na resistividade se esses pontos na fase estiver de boa qualidade.
+
