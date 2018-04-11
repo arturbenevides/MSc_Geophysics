@@ -164,18 +164,13 @@ dado_selecionado.dat -> aqruivo zss no formato jones
 
 pede o arquivo tranmt.bat
 
-tranmt.bat: 
-
-arquivo.bin
-
-options.cfg
-
-1
-
-1  5
-
-file.f5
-n
+> tranmt.bat: 
+> arquivo.bin
+> options.cfg
+> 1
+> 1  5
+> file.f5
+> n
 
 # Comandos extras:
 
