@@ -1,6 +1,7 @@
 # EMTF / ProcessamentoZ
 
 Gary Egbert
+
 Marcelo Banik
 
 O objetivo do EMTF é fazer a estimativa robusta de funções transferência, neste caso os tensores de impedância.
@@ -121,6 +122,12 @@ Cria um arquivo para receber o nome das estações,  janela e se é ss ou rr
 > processamentoZ tmp.tmp
 
 
+5. TOJONES (Permite selecionar melhores resultados entre diferentes run)
+Um arquivo txt deve ser criado para infrormar os trechos que devem ser selecionado.
+
+EX:
+file1 [1 - 6] file2 [1 - 6] file3 [1 - 6]
+
 
 
 
@@ -145,3 +152,18 @@ Cria um arquivo para receber o nome das estações,  janela e se é ss ou rr
 > echo " nova frase para o aqruivo tmp" >> tmp.tmp (o sinal do >> permite adicionar informações no arquivo tmp.tmp sem sobreescrever)
 
 > 
+
+
+
+# INFOS
+
+* Decimação: é uma reamostragem
+Pode ser utilizada para alcancar períodos maiores no dado. (Observando sempre a minima frequência de amostragem, nyquist)
+
+* Quanto maior a janela [128], [256], [1024] .. maior ou melhor é a resolução.
+
+* trnmt00256 ou tranmt00128 etc.. são os comandos utilizados no processamentoZ, pois já estão configuradaos para os tamanhos das janelas. Se usar tranmt00256 é obrigatório usar também o dnff00256. Se não tiver utilizando o processamentoZ, ou seja, apenas o EMTF, pode ser utilizado o comando tranmt, mas deve se configurar as opções de janelamento.
+
+* chopper on e off - opções utilizadas para aumento de ganho em baixas frequencias (abaixo de 512);
+
+* Os dados zss deve ficar na pasta final
