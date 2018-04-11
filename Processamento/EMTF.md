@@ -1,4 +1,7 @@
-# EMTF
+# EMTF / ProcessamentoZ
+
+Gary Egbert
+Marcelo Banik
 
 O objetivo do EMTF é fazer a estimativa robusta de funções transferência, neste caso os tensores de impedância.
 O módulo utilizado para fazer a estimativa do tensor é o `tranmt`(para levantamento com estações simples) e `multmtrn` (para levantamentos multiplas estações).
@@ -107,8 +110,38 @@ Pasta Modelo
 
 > ats2asc --site-name \local\arquivo.ats
 
+ou 
+
+4. Processamento Z
+
+Cria um arquivo para receber o nome das estações,  janela e se é ss ou rr
+
+> echo '\*.512H.asc 1024 ss' > tmp.tmp  (arquivo temporário para ser usado no processamentoZ, entregrará todas os aquivos com final 512H)
+
+> processamentoZ tmp.tmp
 
 
 
 
 
+
+# Comandos extras:
+
+> cat file.txt (visulizar no terminal)
+
+> mv -i file (transferir arquivo)
+> mv -i pasta1 pasta2 (cópia conteudo de uma pasta para outra)
+
+> cmp file1 file2 (Compara arquivos)
+
+> plot-cmp-tf file1 file2 (plotar zss no gráfico, quantos arquivos quiser.
+
+> less file (visualiza arquivo no terminal)
+
+> emacs file (visualiza arquivo e permite edição)
+
+> echo " frase a ser inserida no arquivo, (\n) serve para quebrar linhas" > tmp.tmp (cria um txt com nome tmp e com extensão qulquer para armazenar a frase enre aspas.
+
+> echo " nova frase para o aqruivo tmp" >> tmp.tmp (o sinal do >> permite adicionar informações no arquivo tmp.tmp sem sobreescrever)
+
+> 
