@@ -141,11 +141,41 @@ O restante dos pontos da curva [1-8] ele irá utilizar todas as curvas do file2.
 dado_selecionado.dat -> aqruivo zss no formato jones
 
 
+6. RHOPLUS
+
+> rhoplus < arquivo
+
+> plot-rhoplus arquivo.fsp
 
 
 
 
+#  Processamento sem o ProcZ automático
 
+
+1. transformação mais decimação 
+
+> dnff00256  (gerar o processamentoZ primeiro paa gerar o path.cfg e outras arquivos de opções)
+! Um problema pode acontecer devido a decimação, por exemplo - paa decimação 5 os dados estão falhando. Em options dentro de CF00128 ou outro CF00 qualquer tem escrito no arquivo a opção: bs5bla.cfg (referente a 5 decimações. Cada decimação é referente 4 períodos, bs4 = 16 períodos)
+
+2. Transferfunction
+
+> tranmt00256
+
+pede o arquivo tranmt.bat
+
+tranmt.bat: 
+
+arquivo.bin
+
+options.cfg
+
+1
+
+1  5
+
+file.f5
+n
 
 # Comandos extras:
 
@@ -162,7 +192,7 @@ dado_selecionado.dat -> aqruivo zss no formato jones
 
 > emacs file (visualiza arquivo e permite edição)
 
-> echo " frase a ser inserida no arquivo, (\n) serve para quebrar linhas" > tmp.tmp (cria um txt com nome tmp e com extensão qulquer para armazenar a frase enre aspas.
+> echo " frase a ser inserida no arquivo, (\n) serve para quebrar linhas" > tmp.tmp (cria um txt com nome tmp e com extensão qulquer para armazenar a frase enre aspas) - ( aspas simples o echo faz exatamente o que ta escrito, aspas duplas pode ser utilizada como o programa quiser).
 
 > echo " nova frase para o aqruivo tmp" >> tmp.tmp (o sinal do >> permite adicionar informações no arquivo tmp.tmp sem sobreescrever)
 
@@ -172,7 +202,9 @@ dado_selecionado.dat -> aqruivo zss no formato jones
 
 > man make ( pode visualizar informações do manual sobre o make, pode-se tentar ls ou outros.)
 
-> 
+> ctrl+shft+v (copiar)
+
+>
 
 
 
@@ -184,6 +216,9 @@ dado_selecionado.dat -> aqruivo zss no formato jones
 Pode ser utilizada para alcancar períodos maiores no dado. (Observando sempre a minima frequência de amostragem, nyquist)
 
 * Quanto maior a janela [128], [256], [1024] .. maior ou melhor é a resolução.
+
+* Para frequencia de amostragem igual a 32 usou-se uma janela de 128
+* Para frequência de amostragem igual a 512 usou-se uma janela de 1024
 
 * trnmt00256 ou tranmt00128 etc.. são os comandos utilizados no processamentoZ, pois já estão configuradaos para os tamanhos das janelas. Se usar tranmt00256 é obrigatório usar também o dnff00256. Se não tiver utilizando o processamentoZ, ou seja, apenas o EMTF, pode ser utilizado o comando tranmt, mas deve se configurar as opções de janelamento.
 
@@ -197,3 +232,4 @@ Pode ser utilizada para alcancar períodos maiores no dado. (Observando sempre a
 
 * O rhoplus é bom para recuperar ponots na resistividade se esses pontos na fase estiver de boa qualidade.
 
+* O clock, sp e bin deve ter o mesmo nome para facilita o processamento
