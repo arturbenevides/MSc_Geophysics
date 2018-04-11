@@ -323,6 +323,10 @@ Pode ser utilizada para alcancar períodos maiores no dado. (Observando sempre a
 
 * O tipper não tem muita relação com a polaridade das bobinas e dos eletrodos. para verificar se tudo está em é aconselhado olhar as estações vizinhas, se tiver o mesmo comportamento, então está correto.
 
+* Se o Zxx for o espelho Zyy , ou seja, se for o inverso a região é 2D.
+
+* Soma dos traços da matriz XX com YY é constante. No 2D a componente xx=0 e como XX= - YY, XX+YY=0.
+
 
 
 # Técnica do Rhoplus
