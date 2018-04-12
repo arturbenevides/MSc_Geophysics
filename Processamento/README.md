@@ -19,8 +19,12 @@
    - [ ] Usar o RFEMI
    - [ ] Usar o dnff
    - [ ] Usar o tranmt
+   - [ ] emi2egb
+   - [ ] processamentoZbin
    
 - [ ] Análise de dimensionalidade WALDIM 
+
+- [ ] Correção de deriva estática (*static shift).
 
 - [ ] Modelagem e inversão 2D (Usando o perfil 1)
 
