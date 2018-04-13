@@ -287,6 +287,8 @@ pede o arquivo tranmt.bat
 
 > history | grep info (para buscar no histórico algo que tenha digitado e  que contenha a palavra );
 
+> ls | w -lc (conta a quantidade de arquivos na pasta)
+
 
 
 # INFOS
