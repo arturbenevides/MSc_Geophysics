@@ -32,3 +32,10 @@ Após o processamento Z, se checado e sendo positivo a mudança de polaridade, m
 
 Para inversão de polaridade referente ao eletrodos (checar as curvas), em relação as bobinas (checar o tipper).
 
+Após acertada a polaridade, procederíamos a análise das séries temporais, mas comando egb2tss só aceita arquivo.asc .
+Por isso passamos para avaliação das melhores curvas selecionando os pontos por periodo.
+
+O tojone permite selecionar melhores resultados entre diferentes run (banda TS3, TS4...). Um arquivo txt deve ser criado para informar os trechos que devem ser selecionado.
+
+> tojones
+
