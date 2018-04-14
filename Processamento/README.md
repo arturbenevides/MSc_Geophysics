@@ -16,11 +16,8 @@
 - [ ] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) (Cluster)
   
    - [x] Montar [.clk](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clk.md) (Elaborar programa)
-   - [ ] Usar o RFEMI
-   - [ ] Usar o dnff
-   - [ ] Usar o tranmt
-   - [ ] emi2egb
-   - [ ] processamentoZbin
+   - [x] Usar o RFEMI / emi2egb
+   - [ ] processamentoZbin   (dnff e tranmt)
    
 - [ ] Análise de dimensionalidade WALDIM 
 
