@@ -39,3 +39,27 @@ O tojone permite selecionar melhores resultados entre diferentes run (banda TS3,
 
 > tojones
 
+
+# Relatório do processamento
+
+14/04/2018
+
+As primeiras 5 estações apresentaram problemas na conversão da banda ts1 e uma estação apresentou problema com a banda ts3 (Estação MT004).
+
+Aparentemente todas as bandas ts1 não estão rodando. virificar o erro.
+
+- [x] Rfemi todos TS3 e TS4
+
+- [ ] Rfemi todos TS1 e TS3 estação 004
+
+#
+
+### Estação 001
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [x] processamentoZ ts3
+  - [n] polaridade invertida 
+
+
