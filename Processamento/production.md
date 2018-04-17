@@ -103,19 +103,24 @@ Corrigido (basear outras por essa).
 
 ### Estação 005
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
+A caderneat apontava inversão de direção do eletrodo Ey; tentei inverter somente o Ey no sp, mas não resultou no resultado correto. Apenas invertendo o sinal dos dois.
 
+**Refazaer... o sp foi modificado erradamente, durante o processamento do 008**
+- [x] processamentoZ ts3
+  - [s] polaridade invertida 
+Corrigida baseado na correção do ts4
 - [ ] tojones
 
-### Estação 
+### Estação 008
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
   
+Corrigido.
+Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido ao static shift.
+
 - [ ] processamentoZ ts3
   - [ ] polaridade invertida 
 
