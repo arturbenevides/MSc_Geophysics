@@ -68,7 +68,7 @@ Aparentemente todas as bandas ts1 não estão rodando. virificar o erro.
 10 períodos TS3
 
 
-### Estação 
+### Estação 002
 
 - [x] processamentoZ ts4
   - [s] polaridade invertida 
@@ -86,17 +86,22 @@ Aparentemente todas as bandas ts1 não estão rodando. virificar o erro.
  
 - [ ] tojones
 
-### Estação 
+### Estação 004
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
+ 
+A plaridade estava invertida nos dois pontos do EX ( ambos estavam negativos nos campos elétricos). Na caderneta havia um apontamento para essa situação.
+Corrigido (basear outras por essa).
+ 
+**TS3 não passou no emi2egb**
+
 - [ ] processamentoZ ts3
   - [ ] polaridade invertida 
 
 - [ ] tojones
 
-### Estação 
+### Estação 005
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
