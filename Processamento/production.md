@@ -81,6 +81,9 @@ Aparentemente todas as bandas ts1 não estão rodando. virificar o erro.
  Melhor resultado é com os dois positivos.
  A caderneta aponta que Ex é -Ex.
  
+ Escolhi manter o resultado com os dois positivos para continuar. MElhor checar estaçes próximas para ver o comportamento do tipper e avaliar as polaridades das bobinas. Nas cadernetas nada  dito em relação as bobinas.
+ 
+ 
 - [ ] tojones
 
 ### Estação 
