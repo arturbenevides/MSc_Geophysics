@@ -70,12 +70,17 @@ Aparentemente todas as bandas ts1 não estão rodando. virificar o erro.
 
 ### Estação 
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
   
-- [ ] processamentoZ ts3
+- [x] processamentoZ ts3
   - [ ] polaridade invertida 
 
+ A polaridade estava com uma inversão atípica
+ Inicialmente. Ex + Ey -
+ Melhor resultado é com os dois positivos.
+ A caderneta aponta que Ex é -Ex.
+ 
 - [ ] tojones
 
 ### Estação 
