@@ -62,7 +62,10 @@ Aparentemente todas as bandas ts1 não estão rodando. virificar o erro.
 - [x] processamentoZ ts3
   - [s] polaridade invertida (eletrodo)
 
-- [ ] tojones
+- [x] tojones
+
+8 períodos TS4
+10 períodos TS3
 
 
 ### Estação 
