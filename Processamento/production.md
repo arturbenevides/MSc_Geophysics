@@ -56,10 +56,342 @@ Aparentemente todas as bandas ts1 não estão rodando. virificar o erro.
 
 ### Estação 001
 
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
+  
+- [x] processamentoZ ts3
+  - [s] polaridade invertida (eletrodo)
+
+- [ ] tojones
+
+
+### Estação 
+
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
   
-- [x] processamentoZ ts3
-  - [n] polaridade invertida 
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+
+
+
+
 
 
