@@ -107,7 +107,6 @@ Corrigido (basear outras por essa).
   - [s] polaridade invertida 
 A caderneat apontava inversão de direção do eletrodo Ey; tentei inverter somente o Ey no sp, mas não resultou no resultado correto. Apenas invertendo o sinal dos dois.
 
-**Refazaer... o sp foi modificado erradamente, durante o processamento do 008**
 - [x] processamentoZ ts3
   - [s] polaridade invertida 
 Corrigida baseado na correção do ts4
