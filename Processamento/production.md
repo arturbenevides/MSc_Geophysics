@@ -197,25 +197,26 @@ Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fa
 
 ### Estação 24
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
   
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts3
+  - [s] polaridade invertida 
 
 - [ ] tojones
 
 ### Estação 27
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
   
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts3
+  - [s] polaridade invertida 
 
 - [ ] tojones
 
 ### Estação 30
+**Processamento feito, entretanto o dado ta muito ruidoso; checar a cardenetas que aponta um problema com a bobina e refeazer o processamento, checar vizinhas**
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
