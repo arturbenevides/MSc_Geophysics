@@ -192,6 +192,7 @@ Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fa
 - [ ] processamentoZ ts3
   - [ ] polaridade invertida 
 **Problema na decimação. só vai até o terceiro nível** 
+ * Banik encaminhou o arquivo para melhorar a decimação, mas o dado est com algum problema. verificar.
 
 - [ ] tojones
 
@@ -218,11 +219,9 @@ Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fa
 ### Estação 30
 **Processamento feito, entretanto o dado ta muito ruidoso; checar a cardenetas que aponta um problema com a bobina e refeazer o processamento, checar vizinhas**
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
 
 - [ ] tojones
 
@@ -257,29 +256,26 @@ Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fa
 
 ### Estação 42
 **Não tem TS4**  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
 
 - [ ] tojones
 
 ### Estação 46
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+- [x] polaridade invertida 
 
 - [ ] tojones
 
 ### Estação 48
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+- [x] polaridade invertida 
 
+* Mudar range
 - [ ] tojones
 
 ### Estação 49
