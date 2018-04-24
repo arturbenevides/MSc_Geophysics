@@ -287,67 +287,54 @@ Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fa
 
 ### Estação 50
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+* Comporatmento do tipper muito estranho. Observar com outras estações.
+* RUidoso
+* Nenhum comentário na caderneta.
 
 - [ ] tojones
 
 ### Estação 51
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+  - [s] polaridade invertida 
 
 - [ ] tojones
 
 ### Estação 54
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+* Dado ruidoso, tipper estranho
 - [ ] tojones
+
+#
 ### Estação 56
-
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
-
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
 - [ ] tojones
-
+#
 ### Estação 57
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
 
 - [ ] tojones
-### Estação 58
+### Estação 58 
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
 - [ ] tojones
-### Estação 59
 
+### Estação 59 
 - [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
 - [ ] processamentoZ ts3
   - [ ] polaridade invertida 
 
