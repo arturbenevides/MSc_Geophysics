@@ -256,10 +256,7 @@ Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fa
 - [ ] tojones
 
 ### Estação 42
-
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
+**Não tem TS4**  
 - [ ] processamentoZ ts3
   - [ ] polaridade invertida 
 
