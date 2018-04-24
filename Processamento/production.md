@@ -185,11 +185,13 @@ Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fa
 
 ### Estação 21
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
+ 
+ 
 - [ ] processamentoZ ts3
   - [ ] polaridade invertida 
+**Problema na decimação. só vai até o terceiro nível** 
 
 - [ ] tojones
 
