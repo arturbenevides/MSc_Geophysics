@@ -228,20 +228,20 @@ Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fa
 
 ### Estação 32
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
   
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts3
+  - [s] polaridade invertida 
 
 - [ ] tojones
 ### Estação 36
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
   
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts3
+  - [s] polaridade invertida 
 
 - [ ] tojones
 
