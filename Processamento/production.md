@@ -280,12 +280,9 @@ Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fa
 
 ### Estação 49
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+  - [s] polaridade invertida 
 - [ ] tojones
 
 ### Estação 50
