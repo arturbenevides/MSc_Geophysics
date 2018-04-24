@@ -74,7 +74,7 @@ Aparentemente todas as bandas ts1 não estão rodando. virificar o erro.
   - [s] polaridade invertida 
   
 - [x] processamentoZ ts3
-  - [ ] polaridade invertida 
+  - [s] polaridade invertida 
 
  A polaridade estava com uma inversão atípica
  Inicialmente. Ex + Ey -
@@ -105,7 +105,7 @@ Corrigido (basear outras por essa).
 
 - [x] processamentoZ ts4
   - [s] polaridade invertida 
-A caderneat apontava inversão de direção do eletrodo Ey; tentei inverter somente o Ey no sp, mas não resultou no resultado correto. Apenas invertendo o sinal dos dois.
+A caderneat aponta inversão de direção do eletrodo Ey; tentei inverter somente o Ey no sp, mas não resultou no resultado correto. Apenas invertendo o sinal dos dois.
 
 - [x] processamentoZ ts3
   - [s] polaridade invertida 
@@ -120,8 +120,8 @@ Corrigida baseado na correção do ts4
 Corrigido.
 Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido ao static shift.
 
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts3
+  - [s] polaridade invertida 
 
 - [ ] tojones
 
