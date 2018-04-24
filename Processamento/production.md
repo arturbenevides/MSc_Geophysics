@@ -125,7 +125,32 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
+### Estação 9
+
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
+  
+- [x] processamentoZ ts3
+  - [s] polaridade invertida 
+
+- [ ] tojones
+
+### Estação 12
+
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
+  
+- [x] processamentoZ ts3
+  - [s] polaridade invertida 
+
+Não tem diferença entre os sinais dos campos elétricos e magnéticos no sp do TS4 e do TS3. A caderneta informa que os resultados estavam saindo ruim, pois não estavam conseguindo dar ganhos nos eletrodos que ja estavam saturados.
+As ultimas medidas não tem anotaçes, talvez o erro não tenha pesistido, mas qualquer um que existir poderá ser explicado pela saturação. 
+
+
+
+- [ ] tojones
+
+### Estação 14
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -135,7 +160,16 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
+### Estação 15
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 18
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -145,7 +179,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
+### Estação 21
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -155,16 +189,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
-
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
-- [ ] tojones
-### Estação 
+### Estação 24
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -174,7 +199,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
+### Estação 27
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -184,7 +209,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
+### Estação 30
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -194,7 +219,16 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
+### Estação 32
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+- [ ] tojones
+### Estação 36
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -204,7 +238,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
+### Estação 39
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -214,25 +248,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
-
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
-- [ ] tojones
-### Estação 
-
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
-- [ ] tojones
-### Estação 
+### Estação 42
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -242,16 +258,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
-
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
-- [ ] tojones
-### Estação 
+### Estação 46
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -261,7 +268,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
+### Estação 48
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -271,7 +278,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
+### Estação 49
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -281,7 +288,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
+### Estação 50
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -291,7 +298,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
+### Estação 51
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -301,7 +308,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
 
 - [ ] tojones
 
-### Estação 
+### Estação 54
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -310,7 +317,18 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
   - [ ] polaridade invertida 
 
 - [ ] tojones
-### Estação 
+### Estação 56
+
+- [ ] processamentoZ ts4
+  - [ ] polaridade invertida 
+  
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+
+
+- [ ] tojones
+
+### Estação 57
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -319,7 +337,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
   - [ ] polaridade invertida 
 
 - [ ] tojones
-### Estação 
+### Estação 58
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -328,7 +346,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
   - [ ] polaridade invertida 
 
 - [ ] tojones
-### Estação 
+### Estação 59
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -337,7 +355,8 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
   - [ ] polaridade invertida 
 
 - [ ] tojones
-### Estação 
+
+### Estação 62
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -346,7 +365,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
   - [ ] polaridade invertida 
 
 - [ ] tojones
-### Estação 
+### Estação 63
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -355,7 +374,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
   - [ ] polaridade invertida 
 
 - [ ] tojones
-### Estação 
+### Estação 65
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -364,7 +383,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
   - [ ] polaridade invertida 
 
 - [ ] tojones
-### Estação 
+### Estação 68
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -373,7 +392,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
   - [ ] polaridade invertida 
 
 - [ ] tojones
-### Estação 
+### Estação 71
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -382,7 +401,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
   - [ ] polaridade invertida 
 
 - [ ] tojones
-### Estação 
+### Estação 80
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
@@ -391,16 +410,7 @@ Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido 
   - [ ] polaridade invertida 
 
 - [ ] tojones
-### Estação 
-
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
-- [ ] tojones
-### Estação 
+### Estação 84
 
 - [ ] processamentoZ ts4
   - [ ] polaridade invertida 
