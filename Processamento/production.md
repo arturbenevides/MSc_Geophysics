@@ -334,78 +334,148 @@ Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fa
 - [ ] tojones
 
 ### Estação 59 
-- [ ] processamentoZ ts4
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+* Verificar o TS3. muito ruidoso.
 - [ ] tojones
-
+#
 ### Estação 62
-
-- [ ] processamentoZ ts4
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
   - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
+* Verificar se a polaridade de TS3 realmente estava ionvertida, os resultados estam estranhos.
 - [ ] tojones
+#
 ### Estação 63
-
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
 - [ ] tojones
+boa estação;
+#
 ### Estação 65
-
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
 - [ ] tojones
+#
 ### Estação 68
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+* Tipper estático, instabilidade nos ultimos períodos de TS3, chega at inverter a polaridade.
 - [ ] tojones
+#
 ### Estação 71
-
 - [ ] processamentoZ ts4
+- [x] processamentoZ ts3
   - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
+* **TS4 só roda com dois níveis de decimação.**
+* Tiper estático.
 - [ ] tojones
+#
 ### Estação 80
-
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-
+- [x] processamentoZ ts4
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+* Tipper do TS4 muito ruim.
+* ultimos periodos do TS4 ruim
 - [ ] tojones
+#
 ### Estação 84
-
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
-  
+- [ ] processamentoZ ts4 
 - [ ] processamentoZ ts3
   - [ ] polaridade invertida 
-
+* As Curvas não estão casando.  
 - [ ] tojones
-
-
-
-
-
-
+#
+### Estação 88
+- [ ] processamentoZ ts4 
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+* As curvas não casam em Zxy E Zxx e na fase. 
+- [ ] tojones
+#
+### Estação 93
+- [x] processamentoZ ts4 
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+  * as curvas estão ruidosa nos ultimos períodos;
+- [ ] tojones
+#
+### Estação 97
+- [x] processamentoZ ts4 
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+* infomações boas nos gráficos dos tensores e ruim no grafico da resistividade. (Modificar apenas o TS3 para checar mudancas).
+- [ ] tojones
+#
+### Estação 101
+_ Resultado muito ruim, semelhante ao problema da estação 97.
+- [x] processamentoZ ts4 
+- [x] processamentoZ ts3
+  - [ ] polaridade invertida 
+- [ ] tojones
+#
+### Estação 103
+* problema de range
+* curvas não batem em Zyx E Zyy 
+* REFAZERC
+- [ ] processamentoZ ts4 
+- [ ] processamentoZ ts3
+  - [ ] polaridade invertida 
+- [ ] tojones
+#
+### Estação 107
+* Problemas semelhantes as estaçes acima.
+- [x] processamentoZ ts4 
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+- [ ] tojones
+#
+### Estação 109
+- [x] processamentoZ ts4 
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+- [ ] tojones
+#
+### Estação 115
+* As curvas estão ocm um aparente deslocamento entre elas, mas seuem a mesma tendencia. 
+* Reprocessar
+- [x] processamentoZ ts4 
+- [x] processamentoZ ts3
+  - [ ] polaridade invertida 
+- [ ] tojones
+#
+### Estação 116
+* Ruim.. não estão cansando.
+- [x] processamentoZ ts4 
+- [x] processamentoZ ts3
+  - [ ] polaridade invertida 
+- [ ] tojones
+#
+### Estação 119
+- [x] processamentoZ ts4 
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+- [ ] tojones
+#
+### Estação 123
+- [x] processamentoZ ts4 
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+- [ ] tojones
+#
+### Estação 128
+- [x] processamentoZ ts4 
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+- [ ] tojones
+#
+### Estação A01
+- [x] processamentoZ ts4 
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+- [ ] tojones
