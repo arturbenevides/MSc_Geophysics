@@ -152,32 +152,36 @@ As ultimas medidas não tem anotaçes, talvez o erro não tenha pesistido, mas q
 
 ### Estação 14
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
   
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts3
+  - [s] polaridade invertida 
 
 - [ ] tojones
 
 ### Estação 15
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
   
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts3
+  - [n] polaridade invertida 
+
+A banda TS4 estava com inversão de polaridade, enquanto a banda ts3 não. Na caderneta nada estava falando sobre isso.
 
 - [ ] tojones
 ### Estação 18
 
-- [ ] processamentoZ ts4
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts4
+  - [s] polaridade invertida 
   
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
+- [x] processamentoZ ts3
+  - [s] polaridade invertida 
 
 - [ ] tojones
+
+Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fazer sentido. Quando mudamos uma que não faz sentido, a outra passa a não fazer sentido também.
 
 ### Estação 21
 
