@@ -12,18 +12,16 @@
 **Passos**
 
 **`emi2egb rawdata/MTXXX/04I0XX.TSX 0XX 2004-06-04T09:20:00`**
+* *O comando permite que os dados vão para pasta DATA, mesmo os dados estando em uma subpasta em raw data.*
 
-*O comando permite que os dados vão para pasta DATA, mesmo os dados estando em uma subpasta em raw data.*
-
-> `echo "04I0XX_TSX.bin janela ss" > tmp.tmp`  
+**`echo "04I0XX_TSX.bin janela ss" > tmp.tmp`**  
 ou
-> `echo "04I0XX_TSX.bin janela ss;bsX" >tmp.tmp`
-esse comando tem que ser utilizado a cada banda de processamento, pois o nome do arquivo modifica.
+**`echo "04I0XX_TSX.bin janela ss;bsX" > tmp.tmp`**
+* *esse comando tem que ser utilizado a cada banda de processamento, pois o nome do arquivo modifica.*
 
-> `processamentoZbin tmp.tmp`
-O processamento recebe o arquivo temp contendo o nome do arquivo e a janela
-
-
+**`processamentoZbin tmp.tmp`**
+* *O processamento recebe o arquivo temp contendo o nome do arquivo e a janela*
+#
 
 
 # Planejamento
