@@ -1,7 +1,5 @@
 # Campanha de Iguatu
 
-### Relatório do processamento Robusto
-
 **Diretórios:**
 >* /raw_data : MTxxx         *(pastas contendo os dados brutos e os cloks)*
 >* /DATA :  04I0xx_tsx.bin ; .err ; .log *(contém o binário reformatado e os arquivos com erro e o log)*
@@ -10,7 +8,7 @@
 >* /MT0128 : 04I0XX_TSX.zss   *(resultados)*
 
 #
-**Passos**
+### Passos
 
 **`emi2egb rawdata/MTXXX/04I0XX.TSX 0XX 2004-06-04T09:20:00`**
 * *O comando permite que os dados vão para pasta DATA, mesmo os dados estando em uma subpasta em raw data.*
@@ -25,7 +23,7 @@ ou
 **`processamentoZbin tmp.tmp`**
 * *O processamento recebe o arquivo temp contendo o nome do arquivo e a janela*
 #
-# Planejamento
+### Planejamento
 
 * Como alguns dados estão com inversão de polaridade, recomenda-se realizar o processamento Z para checar o comportamento da curva dos tensores Zxy e Zyx, que em teoria deve ser majoritariamente positivo e negativo, repectivamente.
 
