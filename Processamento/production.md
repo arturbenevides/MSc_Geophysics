@@ -40,9 +40,9 @@ Por isso passamos para avaliação das melhores curvas selecionando os pontos po
 #
 ### Relatório do processamento
 
-* 14/04/2018 ínicio (processamento das 5 primeiras estações)
+> 14/04/2018 ínicio (processamento das 5 primeiras estações)
 
-* 24/04/2018 update1 (processamento das demais estações)
+> 24/04/2018 update1 (processamento das demais estações)
 
 * 25/04/2018 update2 (Reescrita do relatório)
 
