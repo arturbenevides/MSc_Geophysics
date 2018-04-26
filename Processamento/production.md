@@ -40,8 +40,11 @@ Por isso passamos para avaliação das melhores curvas selecionando os pontos po
 #
 ### Relatório do processamento
 
-14/04/2018 ínicio
-25/04/2018 atualização 1
+* 14/04/2018 ínicio (processamento das 5 primeiras estações)
+
+* 24/04/2018 update1 (processamento das demais estações)
+
+* 25/04/2018 update2 (Reescrita do relatório)
 
 * As primeiras 5 estações apresentaram problemas na conversão da banda ts1 e uma estação apresentou problema com a banda ts3 (Estação MT004).
 
