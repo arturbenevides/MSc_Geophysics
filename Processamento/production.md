@@ -15,15 +15,15 @@
 * *O comando permite que os dados vão para pasta DATA, mesmo os dados estando em uma subpasta em raw data.*
 
 **`echo "04I0XX_TSX.bin janela ss" > tmp.tmp`**  
+* *o comando echo cria um arquivo temporário que será usado pelo próximo comando.*
 ou
+
 **`echo "04I0XX_TSX.bin janela ss;bsX" > tmp.tmp`**
-* *esse comando tem que ser utilizado a cada banda de processamento, pois o nome do arquivo modifica.*
+* *bsX permite usar outras níveis de decimação, quando chama outras arquivos options.cfg.*
 
 **`processamentoZbin tmp.tmp`**
 * *O processamento recebe o arquivo temp contendo o nome do arquivo e a janela*
 #
-
-
 # Planejamento
 
 Como alguns dados estão com inversão de polaridade, recomenda-se processar para checar o comportamento da curva dos tensores xy (deve ser majoritariamente positivo) e yx (deve ser majoritariamente negativo).
