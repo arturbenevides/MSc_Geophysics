@@ -10,8 +10,9 @@
 
 #
 **Passos**
-`emi2egb local\04I0XX.TSX 0XX 2004-06-04T09:20:00`
-O comando permite que os dados vão para pasta DATA, mesmo os dados estando em uma subpasta em raw data.
+
+`emi2egb rawdata/MTXXX/04I0XX.TSX 0XX 2004-06-04T09:20:00`
+*O comando permite que os dados vão para pasta DATA, mesmo os dados estando em uma subpasta em raw data.*
 
 > `echo "04I0XX_TSX.bin janela ss" > tmp.tmp`  
 ou
