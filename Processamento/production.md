@@ -77,29 +77,18 @@ A plaridade estava invertida nos dois pontos do EX ( ambos estavam negativos nos
 - [ ] tojones
 #
 ### Estação 005
-
 - [x] processamentoZ ts4
-  - [s] polaridade invertida 
-A caderneat aponta inversão de direção do eletrodo Ey; tentei inverter somente o Ey no sp, mas não resultou no resultado correto. Apenas invertendo o sinal dos dois.
-
 - [x] processamentoZ ts3
-  - [s] polaridade invertida 
-Corrigida baseado na correção do ts4
+  - [x] polaridade invertida (A caderneta aponta inversão de direção do eletrodo Ey; tentei inverter somente o Ey no sp, mas não resultou no resultado correto. Apenas invertendo o sinal dos dois. (ii) Polaridade do TS3 corrigido baseado na correção do ts4
 - [ ] tojones
-
+#
 ### Estação 008
-
 - [x] processamentoZ ts4
-  - [s] polaridade invertida 
-  
-Corrigido.
-Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido ao static shift.
-
 - [x] processamentoZ ts3
   - [s] polaridade invertida 
-
+> Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido ao static shift.
 - [ ] tojones
-
+#
 ### Estação 9
 
 - [x] processamentoZ ts4
