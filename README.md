@@ -17,7 +17,7 @@ Neste repositório constam textos, códigos e qualquer material desenvolvidos du
 
 (2) Interpretar os resultados visando contribuir para o entendimento da evolução tectono-sedimentar da bacia.
 
-(3) Contribuir para o mapeamento de estruturas com potencial hidrogeológico para produção de aguífera.
+(3) Contribuir para o mapeamento de estruturas com potencial hidrogeológico.
 
 
 
