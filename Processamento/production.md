@@ -1,7 +1,7 @@
 # Campanha iguatu
-### Relatório do processamento Robusto
+**Relatório do processamento Robusto**
 
-Conteúdo do diretório:
+* Conteúdo do diretório:
 >* raw_data > MT001         (pastas contendo os dados brutos e os cloks)
 >* DATA > 04i0xx_tsx.bin, .err e .log (conté o binário reformatado e os arquivos com erro e o log)
 >* SP > 04I0XX_TSX.sp       (arquivos de parâmetros do sistema, referente ao equipamento de aquisição)
