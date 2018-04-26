@@ -9,13 +9,15 @@ Mestrado em Geofísica Aplicada
 
 Orientador: [Sergio Fontes](http://lattes.cnpq.br/8537150955145617) 
 
-Neste repositório constam textos, códigos e qualquer material desenvolvidos durante o Mestrado em Geofísica no Observatório Nacional para a área eletromagnetismo, em especial o método magnetotelúrico.
+Neste repositório constam textos, códigos e qualquer material desenvolvidos durante o Mestrado em Geofísica no Observatório Nacional para a área de eletromagnetismo, em especial o método magnetotelúrico (MT).
 
 
 ### Objetivos do projeto de pesquisa
-(1) Fornecer um modelo geoelétrico de subsuperfície para [bacia de Iguatu](https://github.com/arturbenevides/Magnetotelluric/tree/master/Bacia%20do%20Iguatu) (Ceará) utilizando a metodologia de inversão tridimensional com o algorítmo [ModEM](https://sites.google.com/site/modularem/) para dados magnetotelúricos.
+(1) Fornecer um modelo geoelétrico de subsuperfície para [bacia de Iguatu](https://github.com/arturbenevides/Magnetotelluric/tree/master/Bacia%20do%20Iguatu), (NE brasil) utilizando a metodologia de inversão tridimensional do tensor de impedância usando o algorítmo [ModEM](https://sites.google.com/site/modularem/) para dados magnetotelúricos.
 
-(2) Interpretar os resultados e obter informações do ponto de vista hidrogeológico da bacia.
+(2) Interpretar os resultados visando contribuir para o entendimento da evolução tectono-sedimentar da bacia.
+
+(3) Contribuir para o mapeamento de estruturas com potencial hidrogeológico.
 
 
 
