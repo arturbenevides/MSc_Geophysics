@@ -26,20 +26,19 @@ ou
 #
 # Planejamento
 
-Como alguns dados estão com inversão de polaridade, recomenda-se processar para checar o comportamento da curva dos tensores xy (deve ser majoritariamente positivo) e yx (deve ser majoritariamente negativo).
+* Como alguns dados estão com inversão de polaridade, recomenda-se realizar o processamento Z para checar o comportamento da curva dos tensores Zxy e Zyx, que em teoria deve ser majoritariamente positivo e negativo, repectivamente.
 
-Após o processamento Z, se checado e sendo positivo a mudança de polaridade, modificar os fatores de ganho nos arquivos .sp referente a banda. 
+* Após o processamento, se checado que o comportamento das curvas não estão consonantes com a teoria, deve-se verificar na caderneta se existe algum comentário referente aquela aquisição.
 
-Para inversão de polaridade referente ao eletrodos (checar as curvas), em relação as bobinas (checar o tipper).
+* Havendo ou não comentários no relatório de campo, proceda a mudança de polaridade nos **eletrodos**, modificando os sinais nos fatores de ganho do Ex e Ey nos arquivos .sp referente a banda. 
 
-Após acertada a polaridade, procederíamos a análise das séries temporais, mas comando egb2tss só aceita arquivo.asc .
+* Após avaliação das polaridade via modificação do sinal do eletrodo, é necessário veificar se o tipper tem o mesmo comportamento em estações vizinhas. A mudança de polaridade pode estar associada a problemas na bobina também.
+
+* Após acertada a polaridade, procederíamos a análise das séries temporais, mas comando egb2tss só aceita arquivo.asc .
 Por isso passamos para avaliação das melhores curvas selecionando os pontos por periodo.
 
-O tojone permite selecionar melhores resultados entre diferentes run (banda TS3, TS4...). Um arquivo txt deve ser criado para informar os trechos que devem ser selecionado.
-
-> tojones
-
-
+* O tojone permite selecionar melhores resultados entre diferentes run (banda TS3, TS4...)
+#
 # Relatório do processamento
 
 14/04/2018
