@@ -34,15 +34,8 @@ Origem da bacia
 Origem da primeira sedimentação
 Fim d ultima sedimentação
 
-
-
-Arima
-
 ## Estratigrafia
-
-**Arima**
-
-
+(Arima, 2007)
 O trabalho é baseado essecialmente em mapeamento geológico de superfície, tem com objetivo principal compreender a estratigrafia, a reconstituição da arquitetura fluvial e o estabelecimento de um modelo tectono-estratigráfico da Bacia do Iguatu.
 
 Com base nas assinaturas estratigráficas de cada sub-bacia, modelos teóricos de evolução e preenchimento em bacias do tipo rift e dados de história térmica das bacias adjacentes foi possível concluir que cada sub-bacia representa parte da história evolutiva de toda a região. Desta forma, a sub-bacia de Icó corresponde à fase incial do rift, as sub-bacias de Malhada Vermelha e Lima Campos a fase incial do clímax do rift e a sub-bacia Iguatu a fase clímax do rift.
@@ -91,8 +84,7 @@ Mapa geológico da área destacando a geologia do embasamento. A implantação e
 
 <img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/terrenos_tcc_toj.png' width=600>
 
->**Consultar bibliografia embasamento: Jardim de Sá, 1994, Santos et al. 1997, Gomes et al.
-2000
+>**Consultar bibliografia embasamento: Jardim de Sá, 1994, Santos et al. 1997, Gomes et al. 2000
 
 
 #### Contexto tectônico
