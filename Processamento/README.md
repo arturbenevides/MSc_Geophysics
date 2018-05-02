@@ -8,7 +8,7 @@
 
 - [x] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) [:mag_right:](https://github.com/arturbenevides/MSc_Geophysics/tree/master/Processamento/curvas%20by%20EMTF) (25/04/2018)
   
-   - [x] Montar [.clk](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clk.md)
+   - [x] Montar [.clk](https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/clock.md)
    - [x] Usar o RFEMI / emi2egb
    - [x] processamentoZbin   (dnff e tranmt)
    - [ ] tojones (Seleção de melhores curvas)
