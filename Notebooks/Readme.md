@@ -6,7 +6,7 @@ Notebooks
 
 1. [`Skin depth.ipynb`](https://github.com/arturbenevides/Magnetotelurico/blob/master/Simula%C3%A7%C3%B5es%20Computacionais/Skin%20Depth.ipynb)
 
-<img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Simula%C3%A7%C3%B5es%20Computacionais/skindepth.png' width=400>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Notebooks/skindepth.png' width=400>
 
 2. [`Serie temporais e Espectros de Potencia MT.ipynb`](https://github.com/arturbenevides/Magnetotelurico/blob/master/Simula%C3%A7%C3%B5es%20Computacionais/Serie%20temporais%20e%20Espectros%20de%20Potencia%20MT.ipynb)
 
@@ -19,4 +19,6 @@ Notebooks
 
 
 6. `Simulações 3D`
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Este obra está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
+
+3
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Este obra está licenciada com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
