@@ -2,28 +2,23 @@
 
 - [x] Séries temporais [:mag_right:](https://github.com/arturbenevides/Magnetotelluric/blob/master/TSeries.1.pdf)
 
-- [x] Conversão e do formato TS > ASCII
- 
 - [x] Estimativa do tensor de impedância  e resistividade via winglink (pho, phase etc) (18/11/2017) [:mag_right:](https://github.com/arturbenevides/Magnetotelluric/tree/master/Processamento/sondagens)
-
 
 - [x] Converter as coordenadas utm > Lat Long (18/11/2017) [:mag_right:](https://github.com/arturbenevides/Magnetotelluric/blob/master/Processamento/convert_utm_lat_long.ipynb)
 
-- [x] Importar as estações processadas (.edi) pelo winglink (18/11/2017)
-
-- [ ] Colocar as coordenadas no header
-
-- [ ] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) (Cluster)
+- [x] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) (Cluster)
   
    - [x] Montar [.clk](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clk.md) (Elaborar programa)
    - [x] Usar o RFEMI / emi2egb
-   - [ ] processamentoZbin   (dnff e tranmt)
-   
-- [ ] Análise de dimensionalidade WALDIM 
+   - [x] processamentoZbin   (dnff e tranmt)
+   - [ ] tojones (Seleção de melhores curvas)
 
-- [ ] Correção de deriva estática (*static shift*).
+- [ ] Colocar as coordenadas no header
 
-- [ ] Modelagem e inversão 2D (Usando o perfil 1)
+- [ ] Análise de dimensionalidade WALDIM
+- [ ] Análise de dimensionalidade phase tensor
+
+- [ ] Correção de *static shift* (usando TEM)
 
 - [ ] Inversão 3D usando o modEM
 
