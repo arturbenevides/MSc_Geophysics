@@ -4,9 +4,9 @@
 
 - [x] Estimativa do tensor de impedância  e resistividade via winglink (pho, phase etc) (18/11/2017) [:mag_right:](https://github.com/arturbenevides/MSc_Geophysics/tree/master/Processamento/curvas%20by%20winglink)
 
-- [x] Converter as coordenadas utm > Lat Long (18/11/2017) [:mag_right:](https://github.com/arturbenevides/Magnetotelluric/blob/master/Processamento/convert_utm_lat_long.ipynb)
+- [x] Conversão das coordenadas utm>LL (18/11/2017) [:mag_right:](https://github.com/arturbenevides/Magnetotelluric/blob/master/Processamento/convert_utm_lat_long.ipynb)
 
-- [x] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) [:mag_right:](https://github.com/arturbenevides/MSc_Geophysics/tree/master/Processamento/curvas%20by%20EMTF)
+- [x] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) [:mag_right:](https://github.com/arturbenevides/MSc_Geophysics/tree/master/Processamento/curvas%20by%20EMTF) (25/04/2018)
   
    - [x] Montar [.clk](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clk.md)
    - [x] Usar o RFEMI / emi2egb
