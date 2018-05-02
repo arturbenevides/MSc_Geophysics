@@ -6,7 +6,7 @@
 
 - [x] Converter as coordenadas utm > Lat Long (18/11/2017) [:mag_right:](https://github.com/arturbenevides/Magnetotelluric/blob/master/Processamento/convert_utm_lat_long.ipynb)
 
-- [x] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) [:mag_right:]()
+- [x] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) [:mag_right:](https://github.com/arturbenevides/MSc_Geophysics/tree/master/Processamento/curvas%20by%20EMTF)
   
    - [x] Montar [.clk](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clk.md)
    - [x] Usar o RFEMI / emi2egb
@@ -19,6 +19,8 @@
 - [ ] Análise de dimensionalidade phase tensor
 
 - [ ] Correção de *static shift* (usando TEM)
+
+- [ ] Modelagem 3Dgrid
 
 - [ ] Inversão 3D usando o modEM
 
