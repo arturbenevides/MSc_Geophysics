@@ -1,6 +1,6 @@
 ## Etapas propostas
 
-- [x] Séries temporais [:mag_right:](https://github.com/arturbenevides/Magnetotelluric/blob/master/TSeries.1.pdf)
+- [x] Séries temporais [:mag_right:](https://github.com/arturbenevides/MSc_Geophysics/blob/master/Figs/time_series001.png)
 
 - [x] Estimativa do tensor de impedância  e resistividade via winglink (pho, phase etc) (18/11/2017) [:mag_right:](https://github.com/arturbenevides/Magnetotelluric/tree/master/Processamento/sondagens)
 
