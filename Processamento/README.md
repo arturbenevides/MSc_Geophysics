@@ -8,7 +8,7 @@
 
 - [x] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) [:mag_right:]()
   
-   - [x] Montar [.clk](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clk.md) (Elaborar programa)
+   - [x] Montar [.clk](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clk.md)
    - [x] Usar o RFEMI / emi2egb
    - [x] processamentoZbin   (dnff e tranmt)
    - [ ] tojones (Seleção de melhores curvas)
