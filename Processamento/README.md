@@ -2,11 +2,11 @@
 
 - [x] Séries temporais [:mag_right:](https://github.com/arturbenevides/MSc_Geophysics/blob/master/Figs/time_series001.png)
 
-- [x] Estimativa do tensor de impedância  e resistividade via winglink (pho, phase etc) (18/11/2017) [:mag_right:](https://github.com/arturbenevides/Magnetotelluric/tree/master/Processamento/sondagens)
+- [x] Estimativa do tensor de impedância  e resistividade via winglink (pho, phase etc) (18/11/2017) [:mag_right:](https://github.com/arturbenevides/MSc_Geophysics/tree/master/Processamento/curvas%20by%20winglink)
 
 - [x] Converter as coordenadas utm > Lat Long (18/11/2017) [:mag_right:](https://github.com/arturbenevides/Magnetotelluric/blob/master/Processamento/convert_utm_lat_long.ipynb)
 
-- [x] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) (Cluster)
+- [x] Estimativa da impedância via [Egbert](http://www.complete-mt-solutions.com/mtnet/main/source.html#dec_codes) [:mag_right:]()
   
    - [x] Montar [.clk](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clk.md) (Elaborar programa)
    - [x] Usar o RFEMI / emi2egb
