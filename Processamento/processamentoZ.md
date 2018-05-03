@@ -46,6 +46,10 @@ Por isso passamos para avaliação das melhores curvas selecionando os pontos po
 
 > 25/04/2018 update2 (melhorias da parte escrita do relatório)
 
+> 02/05/2018 update3 (escolha de peíodos entre as curvas do ts3 e ts4)
+
+> 03/05/2018 update4 (tojones para quase todas estações)
+
 * As primeiras 5 estações apresentaram problemas na conversão da banda ts1 e uma estação apresentou problema com a banda ts3 (Estação MT004).
 
 * Aparentemente todas as bandas ts1 não estão rodando. virificar o erro.
