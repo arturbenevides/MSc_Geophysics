@@ -49,15 +49,17 @@ Por isso passamos para avaliação das melhores curvas selecionando os pontos po
 > 02/05/2018 update3 (escolha de peíodos entre as curvas do ts3 e ts4)
 
 > 03/05/2018 update4 (tojones para quase todas estações)
-
+#
+**Observações**
 * As primeiras 5 estações apresentaram problemas na conversão da banda ts1 e uma estação apresentou problema com a banda ts3 (Estação MT004).
 
 * Aparentemente todas as bandas ts1 não estão rodando. virificar o erro.
 * Todas as estações possuem a parte inicial da curva da banda ts3 melhor do que a banda ts4. Exceto a estação 119.
 * A seleção dos períodos utilizando o tojones seguiu para as estações a seguinte regra:
 
-Todas exceto ig119 - TS4 [1-8] e TS3 [1-16]
-ig119 : TS4 [1-11] e TS3 [1-13]
+> Todas exceto ig119 - TS4 [1-8] e TS3 [1-16]
+
+> ig119 : TS4 [1-11] e TS3 [1-13]
 
 - [x] rfemi todos TS3 e TS4
 - [ ] rfemi todos TS1  
