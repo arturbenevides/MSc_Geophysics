@@ -64,6 +64,7 @@ Por isso passamos para avaliação das melhores curvas selecionando os pontos po
 - [x] rfemi todos TS3 e TS4
 - [ ] rfemi todos TS1  
 - [ ] rfemi TS3 MT004
+- [ ] tojones nas estações.
 - [ ] escolher o range
 
 #
@@ -71,7 +72,7 @@ Por isso passamos para avaliação das melhores curvas selecionando os pontos po
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [x] tojones (8 períodos TS4, 10 períodos TS3)
+- [x] tojones
 #
 ### Estação 002
 - [x] processamentoZ ts4
@@ -79,34 +80,34 @@ Por isso passamos para avaliação das melhores curvas selecionando os pontos po
   - [x] polaridade invertida 
  (i)A polaridade estava com uma inversão atípica, (ii)inicialmente: Ex + Ey -, (iii) Melhor resultado é com os dois positivos. A caderneta aponta que Ex é -Ex. 
  Escolhi manter o resultado com os dois positivos para continuar. MElhor checar estações próximas para ver o comportamento do tipper e avaliar as polaridades das bobinas. Nas cadernetas nada  dito em relação as bobinas.
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 004
 - [x] processamentoZ ts4
-A plaridade estava invertida nos dois pontos do EX ( ambos estavam negativos nos campos elétricos). Na caderneta havia um apontamento para essa situação. **Corrigido (basear outras por essa)**
+A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos campos elétricos). Na caderneta havia um apontamento para essa situação. **Corrigido (basear outras por essa)**
  **TS3 não passou no emi2egb**
 - [ ] processamentoZ ts3
   - [x] polaridade invertida (ts4 por enquanto)
-- [ ] tojones
+- [ ] tojones **(Deu problema, refazer)**
 #
 ### Estação 005
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida (A caderneta aponta inversão de direção do eletrodo Ey; tentei inverter somente o Ey no sp, mas não resultou no resultado correto. Apenas invertendo o sinal dos dois. (ii) Polaridade do TS3 corrigido baseado na correção do ts4
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 008
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 > Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido ao static shift.
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 9
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 12
 - [x] processamentoZ ts4
@@ -120,21 +121,21 @@ A plaridade estava invertida nos dois pontos do EX ( ambos estavam negativos nos
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 15
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [ ] polaridade invertida 
 * A banda TS4 estava com inversão de polaridade, enquanto a banda ts3 não. Na caderneta nada estava falando sobre isso.
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 18
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 * Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fazer sentido. Quando mudamos uma que não faz sentido, a outra passa a não fazer sentido também.
-- [ ] tojones
+- [ ] tojones **TS3 ruim. processar mudando a polaridade**
 #
 ### Estação 21
 - [x] processamentoZ ts4
@@ -143,7 +144,7 @@ A plaridade estava invertida nos dois pontos do EX ( ambos estavam negativos nos
 * **Problema na decimação. só vai até o terceiro nível** 
 * **Banik encaminhou o arquivo para melhorar a decimação**
 * **O dado está com algum problema desconhecido, verificar**
-- [ ] tojones
+- [ ] tojones **erro de plotagem, rodar novamente o programa.**
 #
 ### Estação 24
 - [x] processamentoZ ts4
@@ -162,7 +163,7 @@ A plaridade estava invertida nos dois pontos do EX ( ambos estavam negativos nos
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 * **Processamento feito, entretanto o dado ta muito ruidoso; checar a cardenetas que aponta um problema com a bobina e refeazer o processamento, checar vizinhas**
-- [ ] tojones
+- [ ] tojones **Não feito, ausencia de dado**
 #
 ### Estação 32
 - [x] processamentoZ ts4
@@ -186,7 +187,7 @@ A plaridade estava invertida nos dois pontos do EX ( ambos estavam negativos nos
 - [x] processamentoZ ts3
   - [x] polaridade invertida
 * **Não tem TS4** 
-- [ ] tojones
+- [ ] tojones **n feito**
 #
 ### Estação 46
 
@@ -289,7 +290,7 @@ A plaridade estava invertida nos dois pontos do EX ( ambos estavam negativos nos
 * **TS4 só roda com dois níveis de decimação.**
 * **Pedir a banik ou montar um options01024bs2.cfg, bs2.bla,bs2.bl.**
 * Tiper estático.
-- [ ] tojones
+- [ ] tojones **não feito**
 #
 ### Estação 80
 - [x] processamentoZ ts4
