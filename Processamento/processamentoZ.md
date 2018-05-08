@@ -139,7 +139,7 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
 #
 ### Estação 21
 - [x] processamentoZ ts4
-- [ ] processamentoZ ts3
+- [ ] processamentoZ ts3 **Esta com problemas**
   - [ ] polaridade invertida 
 * **Problema na decimação. só vai até o terceiro nível** 
 * **Banik encaminhou o arquivo para melhorar a decimação**
