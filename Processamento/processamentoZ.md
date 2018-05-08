@@ -33,7 +33,7 @@ ou
 
 * Após avaliação das polaridade via modificação do sinal do eletrodo, é necessário veificar se o tipper tem o mesmo comportamento em estações vizinhas. A mudança de polaridade pode estar associada a problemas na bobina também.
 
-* Após acertada a polaridade, procederíamos a análise das séries temporais, mas comando egb2tss só aceita arquivo.asc .
+* Após acertada a polaridade, procederíamos a análise das séries temporais, mas comando egb2tss só aceita arquivo.asc.
 Por isso passamos para avaliação das melhores curvas selecionando os pontos por periodo.
 
 * O tojone permite selecionar melhores resultados entre diferentes run (banda TS3, TS4...)
