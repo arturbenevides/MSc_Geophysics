@@ -33,7 +33,7 @@ ou
 
 * Após avaliação das polaridade via modificação do sinal do eletrodo, é necessário veificar se o tipper tem o mesmo comportamento em estações vizinhas. A mudança de polaridade pode estar associada a problemas na bobina também.
 
-* Após acertada a polaridade, procederíamos a análise das séries temporais, mas comando egb2tss só aceita arquivo.asc .
+* Após acertada a polaridade, procederíamos a análise das séries temporais, mas comando egb2tss só aceita arquivo.asc.
 Por isso passamos para avaliação das melhores curvas selecionando os pontos por periodo.
 
 * O tojone permite selecionar melhores resultados entre diferentes run (banda TS3, TS4...)
@@ -49,14 +49,22 @@ Por isso passamos para avaliação das melhores curvas selecionando os pontos po
 > 02/05/2018 update3 (escolha de peíodos entre as curvas do ts3 e ts4)
 
 > 03/05/2018 update4 (tojones para quase todas estações)
-
+#
+**Observações**
 * As primeiras 5 estações apresentaram problemas na conversão da banda ts1 e uma estação apresentou problema com a banda ts3 (Estação MT004).
 
 * Aparentemente todas as bandas ts1 não estão rodando. virificar o erro.
+* Todas as estações possuem a parte inicial da curva da banda ts3 melhor do que a banda ts4. Exceto a estação 119.
+* A seleção dos períodos utilizando o tojones seguiu para as estações a seguinte regra:
+
+> Todas exceto ig119 - TS4 [1-8] e TS3 [1-16]
+
+> ig119 : TS4 [1-11] e TS3 [1-13]
 
 - [x] rfemi todos TS3 e TS4
 - [ ] rfemi todos TS1  
 - [ ] rfemi TS3 MT004
+- [ ] tojones nas estações.
 - [ ] escolher o range
 
 #
@@ -64,7 +72,7 @@ Por isso passamos para avaliação das melhores curvas selecionando os pontos po
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [x] tojones (8 períodos TS4, 10 períodos TS3)
+- [x] tojones
 #
 ### Estação 002
 - [x] processamentoZ ts4
@@ -72,34 +80,34 @@ Por isso passamos para avaliação das melhores curvas selecionando os pontos po
   - [x] polaridade invertida 
  (i)A polaridade estava com uma inversão atípica, (ii)inicialmente: Ex + Ey -, (iii) Melhor resultado é com os dois positivos. A caderneta aponta que Ex é -Ex. 
  Escolhi manter o resultado com os dois positivos para continuar. MElhor checar estações próximas para ver o comportamento do tipper e avaliar as polaridades das bobinas. Nas cadernetas nada  dito em relação as bobinas.
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 004
 - [x] processamentoZ ts4
-A plaridade estava invertida nos dois pontos do EX ( ambos estavam negativos nos campos elétricos). Na caderneta havia um apontamento para essa situação. **Corrigido (basear outras por essa)**
+A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos campos elétricos). Na caderneta havia um apontamento para essa situação. **Corrigido (basear outras por essa)**
  **TS3 não passou no emi2egb**
 - [ ] processamentoZ ts3
   - [x] polaridade invertida (ts4 por enquanto)
-- [ ] tojones
+- [ ] tojones **(Deu problema, refazer)**
 #
 ### Estação 005
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida (A caderneta aponta inversão de direção do eletrodo Ey; tentei inverter somente o Ey no sp, mas não resultou no resultado correto. Apenas invertendo o sinal dos dois. (ii) Polaridade do TS3 corrigido baseado na correção do ts4
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 008
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 > Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido ao static shift.
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 9
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 12
 - [x] processamentoZ ts4
@@ -113,30 +121,30 @@ A plaridade estava invertida nos dois pontos do EX ( ambos estavam negativos nos
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 15
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [ ] polaridade invertida 
 * A banda TS4 estava com inversão de polaridade, enquanto a banda ts3 não. Na caderneta nada estava falando sobre isso.
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 18
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 * Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fazer sentido. Quando mudamos uma que não faz sentido, a outra passa a não fazer sentido também.
-- [ ] tojones
+- [ ] tojones **TS3 ruim. processar mudando a polaridade**
 #
 ### Estação 21
 - [x] processamentoZ ts4
-- [ ] processamentoZ ts3
+- [ ] processamentoZ ts3 **Esta com problemas**
   - [ ] polaridade invertida 
 * **Problema na decimação. só vai até o terceiro nível** 
 * **Banik encaminhou o arquivo para melhorar a decimação**
 * **O dado está com algum problema desconhecido, verificar**
-- [ ] tojones
+- [ ] tojones **erro de plotagem, rodar novamente o programa.**
 #
 ### Estação 24
 - [x] processamentoZ ts4
@@ -155,7 +163,7 @@ A plaridade estava invertida nos dois pontos do EX ( ambos estavam negativos nos
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 * **Processamento feito, entretanto o dado ta muito ruidoso; checar a cardenetas que aponta um problema com a bobina e refeazer o processamento, checar vizinhas**
-- [ ] tojones
+- [ ] tojones **Não feito, ausencia de dado**
 #
 ### Estação 32
 - [x] processamentoZ ts4
@@ -179,7 +187,7 @@ A plaridade estava invertida nos dois pontos do EX ( ambos estavam negativos nos
 - [x] processamentoZ ts3
   - [x] polaridade invertida
 * **Não tem TS4** 
-- [ ] tojones
+- [ ] tojones **n feito**
 #
 ### Estação 46
 
@@ -282,7 +290,7 @@ A plaridade estava invertida nos dois pontos do EX ( ambos estavam negativos nos
 * **TS4 só roda com dois níveis de decimação.**
 * **Pedir a banik ou montar um options01024bs2.cfg, bs2.bla,bs2.bl.**
 * Tiper estático.
-- [ ] tojones
+- [ ] tojones **não feito**
 #
 ### Estação 80
 - [x] processamentoZ ts4
