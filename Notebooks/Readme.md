@@ -7,7 +7,7 @@ Notebooks
 1. [`Skin depth.ipynb`](https://github.com/arturbenevides/MSc_Geophysics/blob/master/Notebooks/Skin%20Depth.ipynb)
 
 ### Meio homogêneo com 10 ohm.m, 100 e 100 ohm.m
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Notebooks/skindepth.png.png' width=800>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Notebooks/skindepth.png' width=800>
 
 2. [`timeseries.ipynb`](https://github.com/arturbenevides/MSc_Geophysics/blob/master/Notebooks/s%C3%A9ries%20temporais/timeseries.ipynb)
 
