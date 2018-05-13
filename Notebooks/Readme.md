@@ -6,18 +6,12 @@ Notebooks
 
 1. [`Skin depth.ipynb`](https://github.com/arturbenevides/MSc_Geophysics/blob/master/Notebooks/Skin%20Depth.ipynb)
 
-### Meio homogêneo com 10 ohm.m
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Notebooks/skindepth10.png' width=400>
+### Meio homogêneo com 10 ohm.m, 100 e 100 ohm.m
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Notebooks/skindepth.png' width=800>
 
-### Meio homogêneo com 100 ohm.m
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Notebooks/skindepth100.png' width=400>
+2. [`timeseries.ipynb`](https://github.com/arturbenevides/MSc_Geophysics/blob/master/Notebooks/s%C3%A9ries%20temporais/timeseries.ipynb)
 
-### Meio homogêneo com 100 ohm.m
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Notebooks/skindepth1000.png' width=400>
-
-2. [`Serie temporais e Espectros de Potencia MT.ipynb`](https://github.com/arturbenevides/Magnetotelurico/blob/master/Simula%C3%A7%C3%B5es%20Computacionais/Serie%20temporais%20e%20Espectros%20de%20Potencia%20MT.ipynb)
-
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Notebooks/s%C3%A9ries%20temporais/ig004_ts1_10_10.png' width =600>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Notebooks/s%C3%A9ries%20temporais/ig004_ts1_10_10.png' width =800>
 
 3. [`Modelagem1d.ipynb`](https://github.com/arturbenevides/Magnetotelurico/blob/master/Modelagem1D.ipyn)
 
