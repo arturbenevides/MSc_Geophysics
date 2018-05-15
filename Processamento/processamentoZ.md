@@ -58,7 +58,7 @@ Por isso passamos para avaliação das melhores curvas selecionando os pontos po
 * A seleção dos períodos utilizando o tojones seguiu para as estações a seguinte regra:
 
 > Todas exceto ig119 - TS4 [1-8] e TS3 [1-16]
-
+> ig 002 TS4 [1 14]
 > ig119 : TS4 [1-11] e TS3 [1-13]
 
 - [x] rfemi todos TS3 e TS4
@@ -183,12 +183,13 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
   - [x] polaridade invertida 
 - [ ] tojones
 #
-### Estação 42
+### Estação 42 
+**(Ruidosa)**
 - [x] processamentoZ ts3
   - [x] polaridade invertida
 * **Não tem TS4** 
 - [ ] tojones **n feito**
-#
+# 
 ### Estação 46
 
 - [x] processamentoZ ts4
