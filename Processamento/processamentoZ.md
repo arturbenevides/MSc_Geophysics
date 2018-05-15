@@ -74,7 +74,7 @@ Por isso passamos para avaliação das melhores curvas selecionando os pontos po
   - [x] polaridade invertida 
 - [x] tojones
 #
-### Estação 002
+### Estação 002 X TESTAR INVERSÃO DE POLARIDADE NO TS4, ADOTAR EX + EY -
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
@@ -115,7 +115,7 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
   - [x] polaridade invertida 
 * Não tem diferença entre os sinais dos campos elétricos e magnéticos no sp do TS4 e do TS3, a caderneta informa que os resultados estavam saindo ruin, pois não estavam conseguindo dar ganhos nos eletrodos que ja estavam saturados.
 * As ultimas medidas não tem anotaçes, talvez o erro não tenha persistido, mas qualquer um que existir poderá ser explicado pela saturação. 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 14
 - [x] processamentoZ ts4
@@ -137,8 +137,8 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
 * Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fazer sentido. Quando mudamos uma que não faz sentido, a outra passa a não fazer sentido também.
 - [ ] tojones **TS3 ruim. processar mudando a polaridade**
 #
-### Estação 21
-- [x] processamentoZ ts4
+### Estação 21 X (Tentar proocessar novamente, esse dado esta com problema de decimanção na banda ts3 = só vai até bs3)
+- [x] processamentoZ ts4 
 - [ ] processamentoZ ts3 **Esta com problemas**
   - [ ] polaridade invertida 
 * **Problema na decimação. só vai até o terceiro nível** 
@@ -162,8 +162,7 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-* **Processamento feito, entretanto o dado ta muito ruidoso; checar a cardenetas que aponta um problema com a bobina e refeazer o processamento, checar vizinhas**
-- [ ] tojones **Não feito, ausencia de dado**
+- [x] tojones
 #
 ### Estação 32
 - [x] processamentoZ ts4
@@ -183,33 +182,33 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
   - [x] polaridade invertida 
 - [ ] tojones
 #
-### Estação 42 
+### Estação 42 X fazer tojones
 **(Ruidosa e sem ts4)**
 
 - [x] processamentoZ ts3
   - [x] polaridade invertida
 * **Não tem TS4** 
-- [x] tojones **n feito**
+- [] tojones **n feito**
 # 
 ### Estação 46
 
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 48
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 * dado fora do range
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 49
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 50
 - [x] processamentoZ ts4
@@ -218,47 +217,47 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
 * Comporatmento do tipper muito estranho. Observar com outras estações.
 * Dado muito ruidoso
 * Nenhum comentário na caderneta.
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 51
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 54
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 * Dado ruidoso, tipper estranho
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 56
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 57
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 58 
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 59 
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 * Verificar o TS3. muito ruidoso.
-- [ ] tojones
+- [x] tojones
 #
-### Estação 62
+### Estação 62 X fazer inversão de polaridade para TS3 (tentar + -)
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [ ] polaridade invertida 
@@ -276,16 +275,16 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 68
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 * Tipper estático, instabilidade nos ultimos períodos de TS3, chega até a inverter a polaridade.
-- [ ] tojones
+- [x] tojones
 #
-### Estação 71
+### Estação 71 X NIVEL 2 de decimação par a 71
 - [ ] processamentoZ ts4
 - [x] processamentoZ ts3
   - [ ] polaridade invertida 
@@ -300,16 +299,17 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
   - [x] polaridade invertida 
 * Tipper do TS4 muito ruim.
 * ultimos periodos do TS4 ruim
-- [ ] tojones
+- [x] tojones
 #
-### Estação 84
-- [ ] processamentoZ ts4 
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-* **As Curvas não estão casando.**  
-- [ ] tojones
+### Estação 84 X mudar as polaridades para check
+- [x] processamentoZ ts4 
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+- [x] tojones
+obs: *As curvas tem um aspecto um pouco estranho.  
+
 #
-### Estação 88
+### Estação 88 X curvas não casam inversão de polaridade.
 - [ ] processamentoZ ts4 
 - [ ] processamentoZ ts3
   - [ ] polaridade invertida 
@@ -330,14 +330,14 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
 * infomações boas nos gráficos dos tensores e ruim no grafico da resistividade. (Modificar apenas o TS3 para checar mudancas).
 - [ ] tojones
 #
-### Estação 101
+### Estação 101 X REFAZER ESTRANHO
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida
 * Resultado muito ruim, semelhante ao problema da estação 97.
 - [ ] tojones
 #
-### Estação 103
+### Estação 103 x TESTAR OUTRAS POLARIDADES
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
@@ -346,7 +346,7 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
 * REFAZER
 - [ ] tojones
 #
-### Estação 107
+### Estação 107 X FAZER TOJONES TS4 [1-8]
 * Problemas semelhantes as estaçes acima.
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
@@ -357,9 +357,9 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [X] tojones
 #
-### Estação 115
+### Estação 115 x TENTAR OUTRAS POARIDADES
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [ ] polaridade invertida 
@@ -367,14 +367,15 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
 * **Reprocessar**
 - [ ] tojones
 #
-### Estação 116
+### Estação 116 X FAZER TOJONES
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida
-* **Ruim.. não estão cansando.**
+
 - [ ] tojones
+obs: *estação ruidosa
 #
-### Estação 119
+### Estação 119 X [REFAZER TOJONES]
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
@@ -384,16 +385,16 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 128
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação A01
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
