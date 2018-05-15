@@ -184,11 +184,12 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
 - [ ] tojones
 #
 ### Estação 42 
-**(Ruidosa)**
+**(Ruidosa e sem ts4)**
+
 - [x] processamentoZ ts3
   - [x] polaridade invertida
 * **Não tem TS4** 
-- [ ] tojones **n feito**
+- [x] tojones **n feito**
 # 
 ### Estação 46
 
