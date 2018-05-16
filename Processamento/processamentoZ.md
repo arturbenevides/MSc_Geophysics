@@ -369,12 +369,11 @@ obs: *As curvas tem um aspecto um pouco estranho.
 * **Reprocessar**
 - [ ] tojones
 #
-### Estação 116 X FAZER TOJONES
+### Estação 116
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida
-
-- [ ] tojones
+- [x] tojones
 obs: *estação ruidosa
 #
 ### Estação 119
