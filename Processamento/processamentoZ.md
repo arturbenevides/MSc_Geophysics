@@ -377,11 +377,11 @@ obs: *As curvas tem um aspecto um pouco estranho.
 - [ ] tojones
 obs: *estação ruidosa
 #
-### Estação 119 X [REFAZER TOJONES]
+### Estação 119
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-- [ ] tojones
+- [x] tojones
 #
 ### Estação 123
 - [x] processamentoZ ts4 
