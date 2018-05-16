@@ -184,14 +184,11 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
   - [x] polaridade invertida 
 - [ ] tojones
 #
-### Estação 42 X fazer tojones
-**(Ruidosa e sem ts4)**
-
+### Estação 42 
 - [x] processamentoZ ts3
   - [x] polaridade invertida
-* **Não tem TS4** 
-- [] tojones **n feito**
-# 
+- [x] tojones **n feito**
+Obs: *Estação sem o TS4 e está muito ruidosa.s
 ### Estação 46
 
 - [x] processamentoZ ts4
@@ -348,7 +345,7 @@ obs: *As curvas tem um aspecto um pouco estranho.
 * REFAZER
 - [ ] tojones
 #
-### Estação 107 X FAZER TOJONES TS4 [1-8]
+### Estação 107
 * Problemas semelhantes as estaçes acima.
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
@@ -364,10 +361,9 @@ obs: *As curvas tem um aspecto um pouco estranho.
 ### Estação 115 x TENTAR OUTRAS POARIDADES
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
-  - [ ] polaridade invertida 
-* As curvas estão com um aparente deslocamento entre elas, mas seuem a mesma tendencia.
-* **Reprocessar**
-- [ ] tojones
+  - [x] polaridade invertida 
+- [x] tojones
+obs:*As curvas estão com um aparente deslocamento entre elas, mas seguem a mesma tendencia.
 #
 ### Estação 116
 - [x] processamentoZ ts4 
