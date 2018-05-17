@@ -195,8 +195,8 @@ obs:*Problema na decimação. só vai até o terceiro nível, Banik encaminhou o
 ### Estação 42 
 - [x] processamentoZ ts3
   - [x] polaridade invertida
-- [x] tojones **n feito**
-Obs: *Estação sem o TS4 e está muito ruidosa.s
+- [x] tojones 
+Obs: *Estação sem o TS4 e está muito ruidosa.*
 ### Estação 46
 
 - [x] processamentoZ ts4
@@ -264,19 +264,19 @@ Obs: *Estação sem o TS4 e está muito ruidosa.s
 * Verificar o TS3. muito ruidoso.
 - [x] tojones
 #
-### Estação 62 X fazer inversão de polaridade para TS3 (tentar + -)
+### Estação 62 
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [ ] polaridade invertida 
-* **Verificar se a polaridade de TS3 realmente estava invertida, os resultados estam estranhos.**
 - [ ] tojones
+ Obs:*A polaridade do TS3 parece estar invertida, os resultados estam estranhos, mas estão coerentes e apenas ruim.*
 #
 ### Estação 63
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-* **boa estação**
-- [ ] tojones
+- [x] tojones
+Obs:*boa estação*
 #
 ### Estação 65
 - [x] processamentoZ ts4
