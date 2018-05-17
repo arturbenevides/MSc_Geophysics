@@ -84,12 +84,14 @@ Exceto:
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 - [x] tojones
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/tojones/ig001.png' width=500>
 #
 ### Estação 002 
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 - [x] tojones
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/tojones/ig002.png' width=500>
  
 * A polaridade estava com uma inversão atípica, (ii)inicialmente: Ex + Ey -, (iii) Melhor resultado é com os dois positivos. A caderneta aponta que Ex é -Ex. 
 * Escolhi manter o resultado com os dois positivos para continuar. MElhor checar estações próximas para ver o comportamento do tipper e avaliar as polaridades das bobinas. Nas cadernetas nada  dito em relação as bobinas.
