@@ -10,11 +10,11 @@
 
 #
 ### Passos
+#### ex:
+**`emi2egb rawdata/MT001/04I001.TS4 001 2004-06-04T09:20:00`**
+* *O comando permite que os dados vão para as pastas DATA e SP, mesmo os dados estando em uma subpasta em raw data.*
 
-**`emi2egb rawdata/MTXXX/04I0XX.TSX 0XX 2004-06-04T09:20:00`**
-* *O comando permite que os dados vão para pasta DATA, mesmo os dados estando em uma subpasta em raw data.*
-
-**`echo "04I0XX_TSX.bin janela ss" > tmp.tmp`**  
+**`echo "04I001_TS4.bin janela ss" > tmp.tmp`**  
 * *o comando echo cria um arquivo temporário que será usado pelo próximo comando.*
 ou
 
@@ -27,6 +27,7 @@ ou
 ### Planejamento
 
 * Como alguns dados estão com inversão de polaridade, recomenda-se realizar o processamento Z para checar o comportamento da curva dos tensores Zxy e Zyx, que em teoria deve ser majoritariamente positivo e negativo, repectivamente.
+
 
 * Após o processamento, se checado que o comportamento das curvas não estão consonantes com a teoria, deve-se verificar na caderneta se existe algum comentário referente aquela aquisição.
 
