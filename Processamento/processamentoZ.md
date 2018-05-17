@@ -63,7 +63,7 @@ Por isso passamos para avaliação das melhores curvas selecionando os pontos po
 * As primeiras 5 estações apresentaram problemas na conversão da banda ts1 e uma estação apresentou problema com a banda ts3 (Estação MT004).
 
 * Aparentemente todas as bandas ts1 não estão rodando. virificar o erro.
-* Todas as estações possuem a parte inicial da curva da banda ts3 melhor do que a banda ts4. Exceto a estação 119.
+* Todas as estações possuem a parte inicial da curva da banda ts3 melhor do que a banda ts4 para mesma faixa. Exceto a estação 119.
 * A seleção dos períodos utilizando o tojones seguiu para as estações a seguinte regra:
 
 > Todas: TS4 [1-8] e TS3 [1-16] 
@@ -85,21 +85,21 @@ Exceto:
   - [x] polaridade invertida 
 - [x] tojones
 #
-### Estação 002 X TESTAR INVERSÃO DE POLARIDADE NO TS4, ADOTAR EX + EY -
+### Estação 002 
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
- (i)A polaridade estava com uma inversão atípica, (ii)inicialmente: Ex + Ey -, (iii) Melhor resultado é com os dois positivos. A caderneta aponta que Ex é -Ex. 
- Escolhi manter o resultado com os dois positivos para continuar. MElhor checar estações próximas para ver o comportamento do tipper e avaliar as polaridades das bobinas. Nas cadernetas nada  dito em relação as bobinas.
 - [x] tojones
+ obs:* A polaridade estava com uma inversão atípica, (ii)inicialmente: Ex + Ey -, (iii) Melhor resultado é com os dois positivos. A caderneta aponta que Ex é -Ex. 
+ Escolhi manter o resultado com os dois positivos para continuar. MElhor checar estações próximas para ver o comportamento do tipper e avaliar as polaridades das bobinas. Nas cadernetas nada  dito em relação as bobinas.
 #
 ### Estação 004
 - [x] processamentoZ ts4
-A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos campos elétricos). Na caderneta havia um apontamento para essa situação. **Corrigido (basear outras por essa)**
- **TS3 não passou no emi2egb**
 - [ ] processamentoZ ts3
-  - [x] polaridade invertida (ts4 por enquanto)
-- [ ] tojones **(Deu problema, refazer)**
+  - [x] polaridade invertida
+- [x] tojones
+A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos campos elétricos). Na caderneta havia um apontamento para essa situação. **Corrigido (basear outras por essa)**
+ obs:*TS3 não passou no emi2egb e tem um único run.*
 #
 ### Estação 005
 - [x] processamentoZ ts4
@@ -145,17 +145,16 @@ A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos 
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-* Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fazer sentido. Quando mudamos uma que não faz sentido, a outra passa a não fazer sentido também.
-- [ ] tojones **TS3 ruim. processar mudando a polaridade**
+- [x] tojones*
+obs: * Aparentemente, ao plotar as duas curvas sem mudar nada, uma das curvas parece fazer sentido. Quando mudamos uma que não faz sentido, a outra passa a não fazer sentido também.
 #
-### Estação 21 X (Tentar proocessar novamente, esse dado esta com problema de decimanção na banda ts3 = só vai até bs3)
+### Estação 21
 - [x] processamentoZ ts4 
-- [ ] processamentoZ ts3 **Esta com problemas**
-  - [ ] polaridade invertida 
-* **Problema na decimação. só vai até o terceiro nível** 
-* **Banik encaminhou o arquivo para melhorar a decimação**
-* **O dado está com algum problema desconhecido, verificar**
-- [ ] tojones **erro de plotagem, rodar novamente o programa.**
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+- [x] tojones
+obs:*Problema na decimação. só vai até o terceiro nível, Banik encaminhou o arquivo para melhorar a decimação,o dado está com algum problema desconhecido, verificar. Optou-se por utilizar um outro run para mesma banda. o dado está com boa resolução.
+
 #
 ### Estação 24
 - [x] processamentoZ ts4
@@ -292,14 +291,12 @@ Obs: *Estação sem o TS4 e está muito ruidosa.s
 * Tipper estático, instabilidade nos ultimos períodos de TS3, chega até a inverter a polaridade.
 - [x] tojones
 #
-### Estação 71 X NIVEL 2 de decimação par a 71
-- [ ] processamentoZ ts4
+### Estação 71 
+- [x] processamentoZ ts4
 - [x] processamentoZ ts3
-  - [ ] polaridade invertida 
-* **TS4 só roda com dois níveis de decimação.**
-* **Pedir a banik ou montar um options01024bs2.cfg, bs2.bla,bs2.bl.**
-* Tiper estático.
-- [ ] tojones **não feito**
+  - [x] polaridade invertida 
+- [x] tojones
+obs:*TS4 só roda com dois níveis de decimação, iria pedir ao banik ou montar um options01024bs2.cfg, bs2.bla,bs2.bl., não foi preciso, utilizei outro run da mesma banda e o resultado foi de boa qualidade.*
 #
 ### Estação 80
 - [x] processamentoZ ts4
@@ -309,20 +306,20 @@ Obs: *Estação sem o TS4 e está muito ruidosa.s
 * ultimos periodos do TS4 ruim
 - [x] tojones
 #
-### Estação 84 X mudar as polaridades para check
+### Estação 84
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 - [x] tojones
-obs: *As curvas tem um aspecto um pouco estranho.  
+obs: *As curvas tem um aspecto um pouco estranho. Existe um sérido deslocamento nas curvas* 
 
 #
-### Estação 88 X curvas não casam inversão de polaridade.
-- [ ] processamentoZ ts4 
-- [ ] processamentoZ ts3
-  - [ ] polaridade invertida 
-* **As curvas não casam em Zxy E Zxx e na fase.**
-- [ ] tojones
+### Estação 88 
+- [x] processamentoZ ts4 
+- [x] processamentoZ ts3
+  - [x] polaridade invertida 
+- [x] tojones
+obs:*As curvas não casavam em Zxy E Zxx e na fase.*
 #
 ### Estação 93
 - [x] processamentoZ ts4 
@@ -338,21 +335,20 @@ obs: *As curvas tem um aspecto um pouco estranho.
 * infomações boas nos gráficos dos tensores e ruim no grafico da resistividade. (Modificar apenas o TS3 para checar mudancas).
 - [ ] tojones
 #
-### Estação 101 X REFAZER ESTRANHO
+### Estação 101 
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida
-* Resultado muito ruim, semelhante ao problema da estação 97.
-- [ ] tojones
+- [x] tojones
+obs:*Resultado muito ruim, semelhante ao problema da estação 97.*
 #
-### Estação 103 x TESTAR OUTRAS POLARIDADES
+### Estação 103 
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
-* problema de range
-* curvas não batem em Zyx E Zyy 
-* REFAZER
-- [ ] tojones
+- [x] tojones
+obs:*Curvas não batia;*
+**problema de range**
 #
 ### Estação 107
 * Problemas semelhantes as estaçes acima.
@@ -367,12 +363,12 @@ obs: *As curvas tem um aspecto um pouco estranho.
   - [x] polaridade invertida 
 - [X] tojones
 #
-### Estação 115 x TENTAR OUTRAS POARIDADES
+### Estação 115
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 - [x] tojones
-obs:*As curvas estão com um aparente deslocamento entre elas, mas seguem a mesma tendencia.
+obs:*As curvas estão com um aparente deslocamento entre elas, mas seguem a mesma tendencia, foi feito todo processamento, mas será mostrado a sergio para ver se pode-ser feito algo diferente.
 #
 ### Estação 116
 - [x] processamentoZ ts4 
