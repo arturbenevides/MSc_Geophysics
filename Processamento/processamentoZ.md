@@ -5,7 +5,8 @@
 >* /DATA :  04I0xx_tsx.bin ; .err ; .log *(contém o binário reformatado e os arquivos com erro e o log)*
 >* /SP : 04I0XX_TSX.sp       *(arquivos de parâmetros do sistema, referente ao equipamento de aquisição)*
 >* /FC00128 : 04I0XX_TSX.f5   *(coeficientes de fourier)*
->* /MT0128 : 04I0XX_TSX.zss   *(resultados)*
+>* /MT0128 : 04I0XX_TSX.zss   *(resultados zss)*
+>* /tojones : igxxx.dat; .png ; .ps *(tensores no formato jones); 
 
 #
 ### Passos
@@ -64,10 +65,10 @@ Exceto:
 > ig115: TS4 [1-9] e TS3 [2-15]
 
 - [x] rfemi todos TS3 e TS4
+- [x] tojones nas estações.
+- [ ] escolher o range
 - [ ] rfemi todos TS1  
 - [ ] rfemi TS3 MT004
-- [ ] tojones nas estações.
-- [ ] escolher o range
 
 #
 ### Estação 001
