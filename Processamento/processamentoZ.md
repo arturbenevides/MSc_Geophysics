@@ -40,6 +40,8 @@ ou
 Por isso passamos para avaliação das melhores curvas selecionando os pontos por periodo.
 
 * O tojone permite selecionar melhores resultados entre diferentes run (banda TS3, TS4...)
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/tojones/ig001.png' width=500>
+
 #
 ### Relatório do processamento
 
