@@ -84,16 +84,16 @@ Exceto:
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 - [x] tojones
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/tojones/ig001.png' width=500>
-#
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/tojones/ig001.png' width=400>
 
+#
 ### Estação 002 
 - [x] processamentoZ ts4
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 - [x] tojones
 
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/tojones/ig002.png' width=500>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/tojones/ig002.png' width=400>
  
 * A polaridade estava com uma inversão atípica, (ii)inicialmente: Ex + Ey -, (iii) Melhor resultado é com os dois positivos. A caderneta aponta que Ex é -Ex. 
 * Escolhi manter o resultado com os dois positivos para continuar. MElhor checar estações próximas para ver o comportamento do tipper e avaliar as polaridades das bobinas. Nas cadernetas nada  dito em relação as bobinas.
@@ -105,6 +105,8 @@ Exceto:
 - [x] tojones
 * A plaridade estava invertida nos dois pontos do EX (ambos estavam negativos nos campos elétricos). Na caderneta havia um apontamento para essa situação.
 * TS3 não passou no emi2egb e tem um único run.
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/tojones/ig004.png' width=400>
+
 #
 ### Estação 005
 - [x] processamentoZ ts4
@@ -112,6 +114,8 @@ Exceto:
   - [x] polaridade invertida 
 - [x] tojones
 * A caderneta aponta inversão de direção do eletrodo Ey; tentei inverter somente o Ey no sp, mas não resultou no resultado correto. Apenas invertendo o sinal dos dois. (ii) Polaridade do TS3 corrigido baseado na correção do ts4
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/tojones/ig005.png' width=400>
+
 #
 ### Estação 008
 - [x] processamentoZ ts4
@@ -119,12 +123,16 @@ Exceto:
   - [x] polaridade invertida 
 - [x] tojones
 * Apresenta um deslocamento estre as curvas de resitividade, aparentemente devido ao static shift.
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/tojones/ig008.png' width=400>
+
 #
 ### Estação 9
 - [x] processamentoZ ts4 
 - [x] processamentoZ ts3
   - [x] polaridade invertida 
 - [x] tojones
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/tojones/ig009.png' width=400>
+
 #
 ### Estação 12
 - [x] processamentoZ ts4
