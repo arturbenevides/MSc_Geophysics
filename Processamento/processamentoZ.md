@@ -27,15 +27,16 @@ ou
 ### Planejamento
 
 * Como alguns dados estão com inversão de polaridade, recomenda-se realizar o processamento Z para checar o comportamento da curva dos tensores Zxy e Zyx, que em teoria deve ser majoritariamente positivo e negativo, repectivamente.
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/curvas%20by%20EMTF/ig001_pol_inv.png' width=300 >
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/curvas%20by%20EMTF/ig001_pol_inv.png' width=500 >
 
 * Após o processamento, se checado que o comportamento das curvas não estão consonantes com a teoria, deve-se verificar na caderneta se existe algum comentário referente aquela aquisição.
 
 * Havendo ou não comentários no relatório de campo, proceda a mudança de polaridade nos **eletrodos**, modificando os sinais nos fatores de ganho do Ex e Ey nos arquivos .sp referente a banda. 
 
 * Após avaliação das polaridade via modificação do sinal do eletrodo, é necessário veificar se o tipper tem o mesmo comportamento em estações vizinhas. A mudança de polaridade pode estar associada a problemas na bobina também.
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/curvas%20by%20EMTF/ig001zss.png' width = 500 >
 
-* Após acertada a polaridade, procederíamos a análise das séries temporais, mas comando egb2tss só aceita arquivo.asc.
+* Após acertada a polaridade, procederíamos fazer a análise das séries temporais, mas comando egb2tss só aceita arquivo.asc.
 Por isso passamos para avaliação das melhores curvas selecionando os pontos por periodo.
 
 * O tojone permite selecionar melhores resultados entre diferentes run (banda TS3, TS4...)
