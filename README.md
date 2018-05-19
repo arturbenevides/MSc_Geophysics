@@ -70,11 +70,11 @@ _
 _
 # Calendário ON
 
-Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
+Atividade| jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|   nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
-2017| | |Início |  | | | | |~~Seminário I~~ | | |~~Disciplinas (Fim)~~
-2018| | |~~Relatório~~ | | | | | | Seminário II| | |Dissertação (Entrega) 
-2019| | | Defesa| | | | | | | | |
+2017     |       |      |Início|      |      |      |     |      |~~Seminário I~~||   |~~Disciplinas (Fim)~~
+2018     |       |      |~~Relatório~~||     |      |     |      |Seminário II |      | |Dissertação (Entrega) 
+2019     |       |      | Defesa|     |      |      |     |      |      |      |      |
 
 
 # Disciplinas cursadas
