@@ -29,39 +29,38 @@ N° |Atividade
 3| [Processamento dos dados MT](/Processamento/)  
 4| [Análise de Dimensionalidade](https://github.com/arturbenevides/MSc_Geophysics/tree/master/An%C3%A1lise%20de%20Dimensionalidade) 
 5| Modelagem e Inversão 
-6| Integração de dados geofísicos 
-7| Interpretação dos resultados 
-8| Redação da dissertação e do artigo  
-9| Submissão de artigo e defesa da dissertação	
+6| Integração de dados e Interpretação
+7| Redação da dissertação e do artigo  
+8| Submissão de artigo e defesa da dissertação	
  
 - [x] 2017
 
 Atividade| ~~jan~~ | ~~fev~~| ~~mar~~| ~~abr~~| ~~mai~~| ~~jun~~| ~~jul~~| ~~ago~~|~~set~~| ~~out~~| ~~nov~~| ~~dez~~
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
-1| | |* |* |* |* |* |* |* |* |* |*
-2| | | | | | | | * |* |* |* |* |
-3| | | | | | | | | |* |* |*
+1        |       |      |*     |*     |*     |*     |*    |*     |*     |*     |*     |*
+2        |       |      |      |      |      |      |*    |*     |*     |*     |*     | 
+3        |       |      |      |      |      |      |     |      |      | *    | *    |*
 
 
 - [ ] 2018
 
 Atividade| ~~jan~~ | ~~fev~~| ~~mar~~| ~~abr~~| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
-2| * |* |* |* |* |* |* |* |* |* |* |*
-3| * |* |* |* |* |* |* | * | | | | | |
-4| | | | | * |* | | | | | | | | 
-5|  | | | |* |* |* |* | * | | |
-6| | | | | | | | | |* |* | | |
-7| | | | | | | | | | | |* |* | *
-8 | | | | | | | | | | |* |* | *
+2        | *     |*     |*     |*     |*     |*     |*     |*    |*     |*     |*     |*
+3        | *     |*     |*     |*     |*     |*     |*     | *   |      |      |      |
+4        |       |      |      |      | *    |*     |      |     |      |      |      | 
+5        |       |      |      |      |*     |*     |*     |*    |      |      |      |
+6        |       |      |      |      |      |      |      |*    | *    |*     |      |
+7        |       |      |      |      |      |      |      |     |      |      | *    |*
+
 
 
 - [ ] 2019
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
-8| * |* | | | | | ||  | | ||
-9| | * |* || | | | | | | | 
+8        |       |  *   |      |      |      |      |      |     |      |      |      |
+ 
 
 
 * Para um melhor acompanhamento do progresso visite **[Progress](https://github.com/arturbenevides/Magnetotelluric/projects/1)** :squirrel:
