@@ -27,7 +27,7 @@ N° |Atividade
 1| Cumprimento dos créditos 
 2| Revisão bibliográfica     
 3| [Processamento dos dados MT](/Processamento/)  
-4| [Análise de Dimensionalidade](/Análise de Dimensionalidade/) 
+4| [Análise de Dimensionalidade](/Análise de Dimensionalidade /) 
 5| Modelagem e Inversão 
 6| Integração de dados geofísicos 
 7| Interpretação dos resultados 
