@@ -1,6 +1,7 @@
 # Inversão e Modelagem de dados MT
 
-
+- [ ] 3D grid
+- [ ] ModEM
 
 
 
