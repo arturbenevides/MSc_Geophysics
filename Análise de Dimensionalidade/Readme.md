@@ -11,19 +11,19 @@
 
 ### Profile MT02
 
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/P2_DIM_0.15.png' width=400>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/P2_DIM_0.15.png' width=600>
 
 ### Profile MT03
 
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/P3_DIM_0.15.png' width=500>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/P3_DIM_0.15.png' width=600>
 
 ### Profile MT04
 
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/P4_DIM_0.15.png' width=400>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/P4_DIM_0.15.png' width=600>
 
 
-
-Analyzing all the sounding in one only profile:
+#
+### Analyzing all the sounding in one only profile:
 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/IGU_DIM_0.15_1.png' width=700>
 
