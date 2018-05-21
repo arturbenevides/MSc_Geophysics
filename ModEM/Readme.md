@@ -1,3 +1,9 @@
+# Inversão e Modelagem de dados MT
+
+
+
+
+
 # Inversão de dados MT
 
 É evidente que os modelos 3D são os que podem representar mais adequadamente as características do interior da Terra. 
