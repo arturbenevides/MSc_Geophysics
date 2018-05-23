@@ -6,9 +6,8 @@
 Interface gráfica utilzada para geração do modelo, dado e covariância no formato do ModEM, servirá também para visualização dos resultados.
 
 Entrar com os dados, criar modelo, baixar topografia e/ou batimetria, certificar que cada estação está ocupando apenas uma célula.
-> Salvar o modelo.
-
-> Salvar o modelo reduzido
+>* Salvar o modelo.
+>* Salvar o modelo reduzido
 
 > Salvar os arquivos de covariância se houver modificações de resistividade ou suavização.
 
