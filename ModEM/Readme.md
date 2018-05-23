@@ -21,11 +21,11 @@ Entrar com os dados, criar modelo, baixar topografia e/ou batimetria, certificar
 ### Forward Modelling
 * basic
 
-`../ModEM -F input_model input_data output_response_model`
+`../ModEM -F input_model input_data output_Resp_large_model`
 
 * Advanced
 
-`../ModEM -F input_model input_data output_response_model` **`output_E_solution FWD_parameters`**
+`../ModEM -F input_model input_data output_Resp_large_model` **`output_E_solution FWD_parameters`**
 
 Output_E_solution (Binary format)
 Is a file in which we store the electric field components (Ex, Ey, Ez) at all cell edges for all periods and both polarization,
@@ -35,6 +35,28 @@ FWD_para (ASCII format)
 An Ascii file in which we define parameters that control the solver 
 It contains the name of Output_E_solution which will be used for the nested modeling.
 
+* Run the forward modelling for the nested model:
+`../ModEM –F nested_model data_file Resp_large_model e_solution_tmp FWD_para`
+
+*At the some point after executing ModEM to run the forward modelling or the inversion with nested modelling enabled (e_solution file name is inside FWD_para file)*
 
 ### Inversion
+
+* Basic Input/Output
+`../ModEM –I NLCG Input_Model Input_Data`
+ 
+* Advanced-level1
+`../ModEM -I NLCG Input_Model Input_data Input_INV_para.`
+ 
+* Advanced-level2
+`../ModEM –I  NLCG Input_Model Input_data Input_INV_para. FWD_para.`
+ 
+* Advanced-level3
+`Input_Model Input_data Input_INV_para. FWD_para. Model_Cov`
+ 
+* Advanced-level4
+`../ModEM –I  NLCG Input_Model Input_data Input_INV_para. FWD_para. Model_Cov model_prm`
+ 
+
+
 
