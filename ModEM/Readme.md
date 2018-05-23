@@ -13,5 +13,9 @@ Entrar com os dados, criar modelo, baixar topografia e/ou batimetria, certificar
 ModEM
 
 ## Forward Modelling
-
+* basic
 `../ModEM -F input_model input_data output_response_model`
+
+* Advanced
+
+`../ModEM -F input_model input_data output_response_model **output_E_solution FWD_parameters**`
