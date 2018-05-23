@@ -66,11 +66,11 @@ Each line has an explanation of what are these information for:
 >- Exit when lambda is lesse than: 1.0e-8;
 >- Maximun number of iterations : 100;
 
-- **Input_Model Input_data Input_INV_para. FWD_para. --Model_Cov model_prm--**
-
-Example: Input_INV_para (ASCII Format)
-Information in this file controls the inversion process
-
-Each line has an explanation of what are these information for:
-
+- **Input_Model Input_data Input_INV_para. FWD_para. Model_Cov model_prm**
+To use the optional model perturbation file (model_prm) as an input we need first to understand few things:
+The output files after each iteration are:  
+***_NLCG_060.rho  > Inverted model   
+***_NLCG_060.dat  > Predicted data 
+***_NLCG_060.prm  > Transformed model parameter (rough)
+***_NLCG_060.res  > Data residuals
 
