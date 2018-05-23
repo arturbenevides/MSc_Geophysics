@@ -63,10 +63,10 @@ It contains the name of Output_E_solution which will be used for the nested mode
 Information in this file controls the inversion process
 Each line has an explanation of what are these information for:
 
-> Model and data output file name : ModEM3DMT
-> Initial daming factor lambda: 1.0
-> Restart when rms diff is less than: 2.0e-3
-> Exit search when rms is less than: 1.05
-> Exit when lambda is lesse than: 1.0e-8
-> Maximun number of iterations : 100
+> Model and data output file name : ModEM3DMT;
+> Initial daming factor lambda: 1.0;
+> Restart when rms diff is less than: 2.0e-3;
+> Exit search when rms is less than: 1.05;
+> Exit when lambda is lesse than: 1.0e-8;
+> Maximun number of iterations : 100;
 
