@@ -54,7 +54,7 @@ It contains the name of Output_E_solution which will be used for the nested mode
 `../ModEM –I  NLCG Input_Model Input_data Input_INV_para. FWD_para. Model_Cov model_prm`
  
 
--1 Input_Model Input_data Input_INV_para.**
+1- Input_Model Input_data Input_INV_para.**
 * Example: Input_INV_para (ASCII Format)
 Information in this file controls the inversion process
 Each line has an explanation of what are these information for:
@@ -66,7 +66,7 @@ Each line has an explanation of what are these information for:
 >- Exit when lambda is lesse than: 1.0e-8;
 >- Maximun number of iterations : 100;
 
--2 Input_Model Input_data Input_INV_para.
+2- Input_Model Input_data Input_INV_para.
 Example: Input_INV_para (ASCII Format)
 Information in this file controls the inversion process
 
