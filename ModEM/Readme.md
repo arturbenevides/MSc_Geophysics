@@ -1,7 +1,9 @@
-**Rotina para modelagem e inversão.**
+# Modular System Eletromanetic - ModEM
+**Rotina para modelagem e inversão .**
 
 
 ## 3D grid
+Interface gráfica utilzada para geração do modelo, dado e covariância no formato do ModEM, servirá também para visualização dos resultados.
 
 Entrar com os dados, criar modelo, baixar topografia e/ou batimetria, certificar que cada estação está ocupando apenas uma célula.
 > Salvar o modelo.
