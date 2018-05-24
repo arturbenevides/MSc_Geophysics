@@ -32,6 +32,7 @@ An Ascii file in which we define parameters that control the solver
 It contains the name of Output_E_solution which will be used for the nested modeling.
 
 * Run the forward modelling for the nested model:
+
 `../ModEM –F nested_model data_file Resp_large_model e_solution_tmp FWD_para`
 
 *At the some point after executing ModEM to run the forward modelling or the inversion with nested modelling enabled (e_solution file name is inside FWD_para file)*
