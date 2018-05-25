@@ -75,3 +75,9 @@ The output files after each iteration are:
 ***_NLCG_060.prm  > Transformed model parameter (rough)
 ***_NLCG_060.res  > Data residuals
 
+
+
+**Para uso no clustercoge** o seguinte comando está sendo usado:
+**`> srun -N [1]  -o out.txt -e out.error -n [2] --mpi=pmi2 Mod3DMT -I NLCG arq.mod arq.dat ctrl.inv ctrl.fwd arq.cov arq.prm &`**
+
+
