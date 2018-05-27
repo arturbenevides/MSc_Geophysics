@@ -11,16 +11,16 @@
    - [x] Montar [.clk](https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/clock.md)
    - [x] Usar o RFEMI / emi2egb
    - [x] processamentoZbin   (dnff e tranmt)
-   - [ ] tojones (Seleção de melhores curvas)
+   - [x] tojones (Seleção de melhores curvas)
 
-- [ ] Colocar as coordenadas no header
+- [x] Colocar as coordenadas no header
 
-- [ ] Análise de dimensionalidade WALDIM
+- [x] Análise de dimensionalidade WALDIM
 - [ ] Análise de dimensionalidade phase tensor
 
 - [ ] Correção de *static shift* (usando TEM)
 
-- [ ] Modelagem 3Dgrid
+- [x] Modelagem 3Dgrid
 
 - [ ] Inversão 3D usando o modEM
 
