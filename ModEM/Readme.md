@@ -5,12 +5,15 @@
 ## 3D grid
 Interface gráfica utilzada para geração do modelo, dado e covariância no formato do ModEM, servirá também para visualização dos resultados.
 
-Entrar com os dados, criar modelo, baixar topografia e/ou batimetria, certificar que cada estação está ocupando apenas uma célula.
->* Salvar o modelo.
->* Salvar o modelo reduzido
->+ Salvar os arquivos de covariância se houver modificações de resistividade ou suavização.
+* *Passos iniciais:
+Importar com os dados (edi), criar modelo, centralizar as estações (certificar que cada estação está ocupando apenas uma célula), incluir topografia e/ou batimetria, incluir oceano (para investigações próximas a costa).
+
+Após a modelagem, deve-se:
+>* Salvar o modelo (large model).
+>* Salvar o modelo reduzido (nested model) - para casos em que queira otimizar a inversão.
+>+ Salvar o arquivo de covariância, se houver modificações de resistividade ou suavização.
 >+ Salvar os dados no formato ModEM
->+ Salvar os dados sintéticos
+>+ Salvar os dados sintéticos (obter layout dos períodos).
 
 ## ModEM
 
