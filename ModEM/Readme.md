@@ -87,3 +87,5 @@ The output files after each iteration are:
 
 * [1] é referente ao valor 10, 15 ou 97 *(ainda não sei a diferença o 15 funciona)*
 * [2] é referente ao valore resultante do = (N.Periodos x 2 ) + 1
+
+#
