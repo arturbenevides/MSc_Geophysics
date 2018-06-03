@@ -1,6 +1,11 @@
 # Inversões 
 Controle de testes
 
+* Bacia do Iguatu:
+* 48 estações.
+* Ts1,2 e 3.
+
+
 ## Modelo 1
 512 + 32 (Hz)
 24 períodos.
@@ -13,7 +18,7 @@ Controle de testes
 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/m1_59it.png' width=900>
 
-#
+
 ## Modelo 2
 512 + 32 + 2 (Hz)
 ~38 períodos.
