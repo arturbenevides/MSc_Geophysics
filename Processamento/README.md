@@ -15,14 +15,12 @@
 
 - [x] Colocar as coordenadas no header
 
-- [x] Análise de dimensionalidade WALDIM
+- [x] Análise de dimensionalidade WALDIM [:mag_right:](https://github.com/arturbenevides/MSc_Geophysics/tree/master/An%C3%A1lise%20de%20Dimensionalidade)
 - [ ] Análise de dimensionalidade phase tensor
-
-- [ ] Correção de *static shift* (usando TEM)
 
 - [x] Modelagem 3Dgrid
 
-- [ ] Inversão 3D usando o modEM
+- [x] Inversão 3D usando o modEM [:mag_right:](https://github.com/arturbenevides/MSc_Geophysics/tree/master/ModEM)
 
 #
 
