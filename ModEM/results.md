@@ -1,6 +1,14 @@
 # Inversões 
 Controle de testes
 
-## Resultado da inversão com apenas 3 iterações. 
-Teste de Inversão 
-<img src='https://raw.githubusercontent.com/arturbenevides/MSc_Geophysics/master/ModEM/tst1.bmp' width=900>
+## Modelo 1
+512 + 32 H
+24 períodos.
+
+* Resultado da inversão com apenas 3 iterações. 
+
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/m1_3it.png' width=900>
+
+* Resultado da inversão com apenas 59 iterações.
+
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/m1_59it.png' width=900>
