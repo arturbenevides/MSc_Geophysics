@@ -5,7 +5,9 @@
 * 48 estações.
 * Ts1,2 e 3.
 
- - [x] TS3 + TS4
+ - [x] TS4 + TS3
+ - [x] TS4 + TS3 + TS1
+ 
 Controle de testes
 ## Modelo 1
 512 + 32 (Hz)
