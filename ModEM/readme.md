@@ -1,11 +1,12 @@
 # Inversões 
-Controle de testes
+
 
 * Bacia do Iguatu:
 * 48 estações.
 * Ts1,2 e 3.
 
-
+ - [x] TS3 + TS4
+Controle de testes
 ## Modelo 1
 512 + 32 (Hz)
 24 períodos.
