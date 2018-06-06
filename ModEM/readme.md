@@ -6,6 +6,7 @@
 * Ts1,2 e 3.
 
  - [x] TS4 + TS3
+    - [ ]
  - [x] TS4 + TS3 + TS1
  
 Controle de testes
