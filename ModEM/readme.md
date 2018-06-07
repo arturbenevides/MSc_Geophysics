@@ -52,4 +52,4 @@ rms= 41
 * sem topografia
 * grid refinado
 
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/m3_42it.png', width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/m3_42it.png' width=900>
