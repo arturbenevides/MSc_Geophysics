@@ -45,3 +45,11 @@ rms= 41
 
 * Resultado da inversão com  104 iterações. (**última**)
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/mod2_104it.bmp' width=900>
+
+## Modelo 3
+512 + 32 + 2 (Hz)
+~38 períodos.
+* sem topografia
+* grid refinado
+
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/m3_42it.png', width=900>
