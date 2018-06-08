@@ -2,6 +2,7 @@
 
 Nesse diretório estarão algumas rotinas computacionais em Notebooks (Python) feitas utilizando o método MT e aplicada aos dados da Bacia de Iguatu.
 
+
 Notebooks
 
 1. [`Skin depth.ipynb`](https://github.com/arturbenevides/MSc_Geophysics/blob/master/Notebooks/Skin%20Depth.ipynb)
