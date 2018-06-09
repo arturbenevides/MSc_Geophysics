@@ -5,15 +5,16 @@
 * 48 estações.
 * Ts1,2 e 3.
 
- - [x] ig1 (TS4 + TS3) (Rough grid) - (Meio Homogêneo - 100 ohm) / erro do dado
- - [x] ig2 (Rough grid) - (Meio Homogêneo - 100 ohm) / erro do dado
+ - [x] ig1 (TS4 + TS3) (Rough grid1) - (Meio Homogêneo - 100 ohm) / erro do dado
+ - [x] ig2 (Rough grid2) - (Meio Homogêneo - 100 ohm) / erro do dado
  - [x] ig3 (Finer grid) - (Meio Homogêneo - 100 ohm) / erro do dado
- - [ ] ig4 (combined grid) - (Meio Homogêneo - 1000 ohm) / erro floor (10 xx e yy, 5 xy e yx)
- - [ ] ig5 (combined grid) - (Meio Homogêneo - 500 ohm)  / erro floor (10 xx e yy, 5 xy e yx)
- - [ ] ig6 (combined grid) - (Meio Homogêneo - 200 ohm)  / erro floor (10 xx e yy, 5 xy e yx)
- - [ ] ig7 (combined grid) - (Meio Homogêneo - 50 ohm)   / erro floor (10 xx e yy, 5 xy e yx)
- - [ ] ig8 (combined grid) - (Meio Homogêneo - 10 ohm)   / erro floor (10 xx e yy, 5 xy e yx)
- - [ ] ig9 (combined grid) - (with prior model)
+ - [ ] ig4 (combined grid) - (Meio Homogêneo - 100 ohm) / error floor (10 xx e yy, 5 xy e yx)
+ - [ ] ig5 (combined grid) - (Meio Homogêneo - 1000 ohm) / error floor (10 xx e yy, 5 xy e yx)
+ - [ ] ig6 (combined grid) - (Meio Homogêneo - 500 ohm)  / error floor (10 xx e yy, 5 xy e yx)
+ - [ ] ig7 (combined grid) - (Meio Homogêneo - 200 ohm)  / error floor (10 xx e yy, 5 xy e yx)
+ - [ ] ig8 (combined grid) - (Meio Homogêneo - 50 ohm)   / error floor (10 xx e yy, 5 xy e yx)
+ - [ ] ig9 (combined grid) - (Meio Homogêneo - 10 ohm)   / error floor (10 xx e yy, 5 xy e yx)
+ - [ ] ig10 (combined grid) - (with prior model)
 
 # 
 ### Rough grid 1
