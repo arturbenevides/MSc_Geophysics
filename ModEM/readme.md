@@ -18,11 +18,18 @@
  
 ### Rough grid
 
+                  | X-direction | Y-direction|Z- direction|
+---------         |:-----:      |:----:      |:----:      |
+N of cell         |             |            |            |
+Cell dimension    |             |            |     |
+N of padding cells|             |            |      |      |
+increasing Factor |             |            |      |      |
+
 X-direction
-%# of cell: 57
-Cell dimension: 750
-# of padding cells: 11
-increasing Factor: 1.2
+* # of cell: 57
+* Cell dimension: 750
+* # of padding cells: 11
+* increasing Factor: 1.2
 ---------------------------------------------------
 Y-direction:
 # of cell: 64
