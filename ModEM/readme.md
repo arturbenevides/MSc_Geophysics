@@ -18,8 +18,8 @@
  
 ### Rough grid
 
-                  | X-direction | Y-direction|Z- direction|
----------         |:-----:      |:----:      |:----:      |
+     Item         | X-direction | Y-direction|Z- direction|
+------------------|:---------:|:----:|:----:|
 N of cell         |             |            |            |
 Cell dimension    |             |            |     |
 N of padding cells|             |            |      |      |
