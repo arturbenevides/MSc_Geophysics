@@ -18,31 +18,32 @@
  
 ### Rough grid
 
-     Item         | X-direction | Y-direction|Z- direction
+Item \direction   |     X       |   y        |     Z
 ------------------|:-----------:|:----------:|:----------:
-N of cell         |             |            |            
-Cell dimension    |             |            |            
-N of padding cells|             |            |            
-increasing Factor |             |            |            
+N of cell         |   57        |  64        |   35         
+Cell dimension    |   750       |  750       |   50         
+N of padding cells|   11        |      11    |            
+increasing Factor |   1.2       |   1.2      |   1.2          
 
-X-direction
-* # of cell: 57
-* Cell dimension: 750
-* # of padding cells: 11
-* increasing Factor: 1.2
----------------------------------------------------
-Y-direction:
-# of cell: 64
-Cell dimension: 750
-# of padding cells: 11
-increasing Factor: 1.2
----------------------------------------------------
-Z- direction:
+### finer grid
 
-# of layers: 35
-first layer thickness: 50
-increasing factor:1.2
-Controle de testes
+Item \direction   |     X       |   y        |     Z
+------------------|:-----------:|:----------:|:----------:
+N of cell         |   57        |  64        |   35         
+Cell dimension    |   750       |  750       |   50         
+N of padding cells|   11        |      11    |            
+increasing Factor |   1.2       |   1.2      |   1.2     
+
+### Combined grid
+
+Item \direction   |     X       |   y        |     Z
+------------------|:-----------:|:----------:|:----------:
+N of cell         |   57        |  64        |   35         
+Cell dimension    |   750       |  750       |   50         
+N of padding cells|   11        |      11    |            
+increasing Factor |   1.2       |   1.2      |   1.2     
+
+
 ## Modelo 1
 512 + 32 (Hz)
 24 períodos.
