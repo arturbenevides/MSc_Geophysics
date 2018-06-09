@@ -14,15 +14,34 @@
  - [ ] ig7 (combined grid) - (Meio Homogêneo - 50 ohm)   / erro floor (10 xx e yy, 5 xy e yx)
  - [ ] ig8 (combined grid) - (Meio Homogêneo - 10 ohm)   / erro floor (10 xx e yy, 5 xy e yx)
  - [ ] ig9 (combined grid) - (with prior model)
+
  
- - 
- 
+### Rough grid
+
+X-direction
+# of cell: 57
+Cell dimension: 750
+# of padding cells: 11
+increasing Factor: 1.2
+---------------------------------------------------
+Y-direction:
+# of cell: 64
+Cell dimension: 750
+# of padding cells: 11
+increasing Factor: 1.2
+---------------------------------------------------
+Z- direction:
+
+# of layers: 35
+first layer thickness: 50
+increasing factor:1.2
 Controle de testes
 ## Modelo 1
 512 + 32 (Hz)
 24 períodos.
 * Com topografia
 * Resultado da inversão com apenas 3 iterações. 
+* Background resistivity: 100 ohm.m
 rms=**********
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/mod1_3iteracoes.bmp' width=900>
 
