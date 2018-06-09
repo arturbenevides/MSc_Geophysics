@@ -124,9 +124,6 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 
 
-
-
-
 ### Bacia do Iguatu
 
 - [x] Arima, N. (2007), Análise Estatigráfica da Bacia do Iguatu, CE. Ph.D. dissertation, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil.
