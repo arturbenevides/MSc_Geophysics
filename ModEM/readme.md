@@ -15,7 +15,7 @@
  - [ ] ig8 (combined grid) - (Meio Homogêneo - 10 ohm)   / erro floor (10 xx e yy, 5 xy e yx)
  - [ ] ig9 (combined grid) - (with prior model)
 
- 
+# 
 ### Rough grid
 
 Item \direction   |     X       |   y        |     Z
@@ -43,6 +43,7 @@ Cell dimension    |   750       |  750       |   50
 N of padding cells|   11        |      11    |            
 increasing Factor |   1.2       |   1.2      |   1.2     
 
+#
 
 ## Modelo 1
 512 + 32 (Hz)
