@@ -19,7 +19,7 @@
 ### Rough grid
 
 X-direction
-# of cell: 57
+%# of cell: 57
 Cell dimension: 750
 # of padding cells: 11
 increasing Factor: 1.2
