@@ -38,7 +38,7 @@ Períodos: 24
 Shortest period: 0.0893
 Longest period: 25.59967
 
-> Parâmetros do modelo:
+## Parâmetros do modelo:
 
 > Background resistivity: 100 ohm.m
 
@@ -46,8 +46,7 @@ Longest period: 25.59967
 
 > Máx. skindepth: 25298 km
 
-___________________________________________________
-Parâmetros da inversão:
+## Parâmetros da inversão:
 
 arq control.inv
 
