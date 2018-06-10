@@ -47,12 +47,21 @@ Máx. skindepth: 25298 km
 
 ___________________________________________________
 Parâmetros da inversão:
+
 arq control.inv
+
 Model and data output file name    : iguatu
+
 Initial damping factor lambda      : 100.
+
 To update lambda divide by         : 10.
+
 Initial search step in model units : 1.
+
 Restart when rms diff is less than : 2.0e-3
+
 Exit search when rms is less than  : 1.05
+
 Exit when lambda is less than      : 1.0e-4
+
 Maximum number of iterations       : 400
