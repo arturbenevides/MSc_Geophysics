@@ -1,6 +1,4 @@
 ## Modelo 1
-512 + 32 (Hz)
-24 períodos.
 * Com topografia
 * Resultado da inversão com apenas 3 iterações. 
 * Background resistivity: 100 ohm.m
@@ -25,12 +23,12 @@ ig_m1sint.dat
 
 __________________________________________________
 Resultados: 
-diretório res1/
-resultado referente a 3 iterações na inversão NLCG
-diretório res2/
-*mesmo modelo
-resultado referente a 59 iterações na inversão NLCG
-rms=  41.285254
+* diretório res1/
+* resultado referente a 3 iterações na inversão NLCG
+* diretório res2/
+* mesmo modelo
+* resultado referente a 59 iterações na inversão NLCG
+* rms=  41.285254
 __________________________________________________
 Dados da bacia de Iguatu
 
@@ -41,8 +39,11 @@ Shortest period: 0.0893
 Longest period: 25.59967
 
 > Parâmetros do modelo:
+
 > Background resistivity: 100 ohm.m
+
 > Min. skindepth: 0.472 km
+
 > Máx. skindepth: 25298 km
 
 ___________________________________________________
