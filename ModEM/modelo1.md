@@ -40,10 +40,10 @@ Períodos: 24
 Shortest period: 0.0893
 Longest period: 25.59967
 
-Parâmetros do modelo:
-Background resistivity: 100 ohm.m
-Min. skindepth: 0.472 km
-Máx. skindepth: 25298 km
+> Parâmetros do modelo:
+> Background resistivity: 100 ohm.m
+> Min. skindepth: 0.472 km
+> Máx. skindepth: 25298 km
 
 ___________________________________________________
 Parâmetros da inversão:
