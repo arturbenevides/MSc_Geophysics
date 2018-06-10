@@ -13,3 +13,5 @@
 
 * Resultado da inversão com  104 iterações. (**última**)
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/mod2_104it.bmp' width=900>
+
+* RMS = 13
