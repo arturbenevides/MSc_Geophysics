@@ -44,28 +44,6 @@ Parâmetros do modelo:
 Background resistivity: 100 ohm.m
 Min. skindepth: 0.472 km
 Máx. skindepth: 25298 km
----------------------------------------------------
-X-direction
-# of cell: 57
-Cell dimension: 750
-# of padding cells: 11
-increasing Factor: 1.2
----------------------------------------------------
-Y-direction:
-# of cell: 64
-Cell dimension: 750
-# of padding cells: 11
-increasing Factor: 1.2
----------------------------------------------------
-Z- direction:
-
-# of layers: 35
-first layer thickness: 50
-increasing factor:1.2
-
-
-Oringin grid:
-Mid- X,Y, Z (km) = -50,32, -52.95, 0
 
 ___________________________________________________
 Parâmetros da inversão:
