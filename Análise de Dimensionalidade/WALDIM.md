@@ -4,3 +4,4 @@ A análise dimensional é uma etapa importante no processamento de dados MT, poi
 A metodologia a ser utilizada para os dados de Iguatu será o WALDIM, descrito por MARTÍ et al. (2009). 
 O programa consiste em calcular os invariantes rotacionais para o tensor MT e determinar a dimensionalidade em cada frequência do dado
 adquirido.
+
