@@ -91,7 +91,7 @@ increasing Factor |   1.2       |   1.2      |   1.2
 * grid combinado
 *  iterações
 * rms=
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/m3_42it.png' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig4_it84_withtopo.bmp' width=900>
 
 ## Modelo 5
 512 + 32 + 2 (Hz)
@@ -100,14 +100,5 @@ increasing Factor |   1.2       |   1.2      |   1.2
 * grid combinado
 *  iterações
 * rms= 18
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/m3_42it.png' width=900>
-
-## Modelo 6
-512 + 32 + 2 (Hz)
-~38 períodos.
-* sem topografia
-* grid combinado
-*  iterações
-* rms=17
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/m3_42it.png' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig5.bmp' width=900>
 
