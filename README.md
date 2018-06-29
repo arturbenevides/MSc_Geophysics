@@ -70,7 +70,7 @@ _
 _
 # Calendário ON
 
-Atividade| jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|   nov| dez
+Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|   nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
 2017     |       |      |Início|      |      |      |     |      |~~1º Seminar~~||   |~~Disciplinas (Fim)~~
 2018     |       |      |~~Relatório~~||     |      |     |49º Cong Geo |2º Seminar |      | |Dissertação (Deadline)
