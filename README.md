@@ -72,8 +72,8 @@ _
 
 Atividade| jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|   nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
-2017     |       |      |Início|      |      |      |     |      |~~Seminário I~~||   |~~Disciplinas (Fim)~~
-2018     |       |      |~~Relatório~~||     |      |     |Congresso de Geologia      |Seminário II |      | |Dissertação 
+2017     |       |      |Início|      |      |      |     |      |~~1º Seminar~~||   |~~Disciplinas (Fim)~~
+2018     |       |      |~~Relatório~~||     |      |     |Cong. Geologia      |2º Seminar |      | |Dissertação 
 2019     | Paper     |      | Defesa|     |      |      |     |      |      |      |      |
 
 
