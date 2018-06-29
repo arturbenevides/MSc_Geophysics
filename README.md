@@ -68,12 +68,12 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 
 _
 _
-# Calendário ON
+# Calendário
 
 Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|   nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
 2017     |       |      |Início|      |      |      |     |      |~~1º Seminar~~||   |~~Disciplinas (Fim)~~
-2018     |       |      |~~Relatório~~||     |      |     |49º Cong Geo |2º Seminar |      | |Dissertação (Deadline)
+2018     |       |      |~~Relatório~~||     |      |     |[49º Cong Geo |2º Seminar](https://github.com/arturbenevides/apresentacoes) |      | |Dissertação (Deadline)
 2019     |       |Paper (Deadline) | Defesa|     |      |      |     |      |      |      |      |
 
 
