@@ -73,8 +73,8 @@ _
 Atividade| jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|   nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
 2017     |       |      |Início|      |      |      |     |      |~~1º Seminar~~||   |~~Disciplinas (Fim)~~
-2018     |       |      |~~Relatório~~||     |      |     |49º Cong Geo |2º Seminar |      | |Dissertação (Entrega)
-2019     | Paper     |      | Defesa|     |      |      |     |      |      |      |      |
+2018     |       |      |~~Relatório~~||     |      |     |49º Cong Geo |2º Seminar |      | |Dissertação (Deadline)
+2019     |       |Paper (Deadline) | Defesa|     |      |      |     |      |      |      |      |
 
 
 # Disciplinas cursadas
