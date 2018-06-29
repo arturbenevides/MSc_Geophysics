@@ -3,15 +3,13 @@
 ~38 períodos.
 * sem topografia
 
-* Resultado da inversão com x iterações. 
-
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig5_10km.bmp' width=900>
-
-Visuzalizando mais profundo:
-* Resultado da inversão com  51 iterações.
+* Resultado da inversão com 69 iterações. 
+RMS 18.45
 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig5.bmp' width=900>
 
+Visuzalizando mais profundo:
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig5_10km.bmp' width=900>
 
 Tentativa de resultado sem a utilização da topografia e com um grid mais refinado no eixo e Z e menos refinado nos eixos x e y.
 A resistividade de inicial para o semi-espaço homegêneo foi de 1000 ohm.m.
@@ -21,17 +19,16 @@ O erro floor nos dados adotado foi de 5% para os eixos xy e yx e 10% para os eix
 #
 MODELO 4
 arquivos:
-ig_m2.mod
-ig.dat
-ig.cov
-igtop.mod
-igsint.dat
+ig5.mod
+ig5.dat
+ig5.cov
+ig5nes.mod
 
 __________________________________________________
 Resultados: 
-* diretório result1/
-* resultado referente a 104 iterações na inversão NLCG
-* rms=  13.17
+* diretório result/
+* resultado referente a 69 iterações na inversão NLCG
+* rms=  18.45
 __________________________________________________
 Dados da bacia de Iguatu
 
