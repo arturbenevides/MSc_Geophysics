@@ -4,7 +4,8 @@
 
 ### Com topografia
 
-* Resultado da inversão com x iterações. 
+* Resultado da inversão com 81 iterações. 
+RMS= 11.61
 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig4_it84_withtopo.bmp' width=900>
 
@@ -18,17 +19,18 @@
 MODELO 4
 arquivos:
 ig4nes.mod
+ig4topo.mod
+ig5topones.mod
 ig4.dat
 ig4.cov
 
 __________________________________________________
 Resultados: 
-* diretório res1/
-* resultado referente a 3 iterações na inversão NLCG
-* diretório res2/
-* mesmo modelo
-* resultado referente a 59 iterações na inversão NLCG
-* rms=  41.285254
+* diretório result with topography/
+* resultado referente a inversão considerando a topografia
+* diretório result without topography/
+* resultado não considerando a topografia
+
 __________________________________________________
 Dados da bacia de Iguatu
 
