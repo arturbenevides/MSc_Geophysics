@@ -3,33 +3,33 @@
 ~38 períodos.
 Com topografia
 
+Grid refinado
 * Resultado da inversão com 38 iterações. 
 
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig4_it84_withtopo.bmp' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/m3_42it.png' width=900>
 
 
 
 * Resultado da inversão com  159 iterações.
-
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig3_it159.png' width=900>
 
 
 
 
 
 #
-MODELO 2
+MODELO 3
 arquivos:
-ig_m2.mod
+ig_m3.mod (con topografia)
 ig.dat
-ig.cov
-igtop.mod
+igcov
 igsint.dat
 
 __________________________________________________
 Resultados: 
-* diretório result1/
-* resultado referente a 104 iterações na inversão NLCG
-* rms=  13.17
+* diretório resultados/
+* resultado referente a 159 iterações na inversão NLCG
+* rms=  11.85
 __________________________________________________
 Dados da bacia de Iguatu
 
