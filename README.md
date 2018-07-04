@@ -158,7 +158,6 @@ Horvath, K. A. (2017). Estruturas geoelétricas da litosfera sob a porção cent
 Antunes, C. S. (2012). Tomografia de condutividade elétrica sob a bacia do Paraná utilizando dados do campo geomagnético. Dissertação de Mestrado. INPE, São José dos Campos, sp, Brasil. (Comentários Inversão).
 
 
-
 #
 
 
