@@ -6,7 +6,7 @@ Com topografia
 Grid refinado
 * Resultado da inversão com 38 iterações. 
 
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/m3_42it.png' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig3_42it.png' width=900>
 
 
 
