@@ -5,7 +5,7 @@
 
 * Resultado da inversão com 21 iterações. 
 
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/m2_21it.png' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig2_21it.png' width=900>
 
 * Resultado da inversão com  51 iterações.
 
