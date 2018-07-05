@@ -11,7 +11,7 @@ Grid refinado
 
 
 * Resultado da inversão com  159 iterações.
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig3_it159.png' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig3_159it.png' width=900>
 
 
 
