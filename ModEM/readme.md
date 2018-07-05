@@ -64,7 +64,7 @@ increasing Factor |   1.2       |   1.2      |   1.2
 * Background resistivity: 100 ohm.m
 * 59 iterações.
 * rms= 41
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/m1_59it.png' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig1_59it.png' width=900>
 
 
 ## Modelo 2
@@ -73,7 +73,7 @@ increasing Factor |   1.2       |   1.2      |   1.2
 * Com topografia
 * 104 iterações
 * rms=13
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/mod2_104it.bmp' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig2_104it.bmp' width=900>
 
 ## Modelo 3
 512 + 32 + 2 (Hz)
@@ -82,7 +82,7 @@ increasing Factor |   1.2       |   1.2      |   1.2
 * grid refinado
 * 42 iterações
 * rms=17
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/m3_42it.png' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig3_159it.png' width=900>
 
 ## Modelo 4
 512 + 32 + 2 (Hz)
@@ -100,5 +100,5 @@ increasing Factor |   1.2       |   1.2      |   1.2
 * grid combinado
 *  iterações
 * rms= 18
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig5.bmp' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig5_69it.bmp' width=900>
 
