@@ -6,10 +6,10 @@
 * Resultado da inversão com 69 iterações. 
 RMS 18.45
 
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig5.bmp' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig5_69it.bmp' width=900>
 
 Visuzalizando mais profundo:
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig5_10km.bmp' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig5_69it_10km.bmp' width=900>
 
 Tentativa de resultado sem a utilização da topografia e com um grid mais refinado no eixo e Z e menos refinado nos eixos x e y.
 A resistividade de inicial para o semi-espaço homegêneo foi de 1000 ohm.m.
