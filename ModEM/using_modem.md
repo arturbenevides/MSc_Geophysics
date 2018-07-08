@@ -85,7 +85,7 @@ The output files after each iteration are:
 **`> srun -N [1]  -o out.txt -e out.error -n [2] --mpi=pmi2 Mod3DMT -I NLCG arq.mod arq.dat ctrl.inv ctrl.fwd arq.cov arq.prm &`**
 
 
-* [1] é referente ao valor 10, 15 ou 97 *(ainda não sei a diferença o 15 funciona)*
+* [1] é referente ao número de slaves que serão utilizadas para inversão. Ao todo, o cluster tem 28 slaves.
 * [2] é referente ao valore resultante do = (N.Periodos x 2 ) + 1
 
 #
