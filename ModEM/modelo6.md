@@ -5,14 +5,14 @@
 * Resultado da inversão com 69 iterações. 
 RMS x
 
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig6_48it.bmp' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig6.2_48it.bmp' width=900>
 
 * Resultado da inversão com 170 iterações.
 
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig6_170it.bmp' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig6.2_170it.bmp' width=900>
 
 * Resultado da inversão com 259 iterações.
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig6_259it.bmp' width=900>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig6.2_259it.bmp' width=900>
 
 Tentativa de resultado sem a utilização da topografia e com um grid mais refinado no eixo e Z e menos refinado nos eixos x e y.
 
