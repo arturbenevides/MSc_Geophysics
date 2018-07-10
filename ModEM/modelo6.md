@@ -2,7 +2,7 @@
 512 + 32 + 2 (Hz)
 ~38 períodos.
 * sem topografia
-* Resultado da inversão com 69 iterações. 
+* Resultado da inversão com 48 iterações. 
 RMS x
 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/ig6.2_48it.bmp' width=900>
@@ -37,14 +37,14 @@ __________________________________________________
 Dados da bacia de Iguatu
 
 Estações: 48
-Períodos: 24
+Períodos: 
 
 Shortest period: 0.0893
 Longest period: 25.59967
 
 ## Parâmetros do modelo:
 
-> Background resistivity: 100 ohm.m
+> Background resistivity: 500 ohm.m
 
 > Min. skindepth: 0.472 km
 
