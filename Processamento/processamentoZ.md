@@ -1,5 +1,6 @@
 # Campanha de Iguatu
 
+
 **Diretórios:**
 >* /raw_data : MTxxx         *(pastas contendo os dados brutos e os cloks)*
 >* /DATA :  04I0xx_tsx.bin ; .err ; .log *(contém o binário reformatado e os arquivos com erro e o log)*
