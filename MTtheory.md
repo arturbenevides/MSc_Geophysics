@@ -1,5 +1,7 @@
 # Conceitos Básicos do MT
-Artur Benevides
+
+@Artur Benevides, 2017
+
 
 ## Definição
 O MT é um método eletromagnético de exploração  que consiste em obter informações de resistividade elétrica de um meio utilizando como sinal as flutuações dos campos elétricos e magnéticos induzidos por fontes naturais.
