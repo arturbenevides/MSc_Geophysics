@@ -13,13 +13,13 @@ Os sinais dos campos eletromagnéticos induzidos na terra são oriundas de fenô
 Os *sferics* mais significantes para as sondagens MT são produzidos na região equatorial e se propagam pelo mundo dentro de um guia de onda limitado pela ionosfera e a superfície da Terra.
 <img src='http://www.alienscientist.com/pictures/Schumann.gif' width = 200>
 
->**Frequência < 1Hz:** São gerados pela interação do vento solar com a magnetosfera e a ionosfera da terra.
+>**Frequência < 1Hz:** São gerados pela interação do vento solar com a magnetosfera e a ionosfera da terra que produzem os sinais de mais longo períodos e que permitem uma inverstigação mais profunda no interior da terra, comparado ao sinal acima de 1 Hz. 
 <img src='http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/12/cluster_and_image_during_aurora_observation/15169959-1-eng-GB/Cluster_and_Image_during_aurora_observation.jpg' width = 200>
 
 ## Histórico do método
 * 1950s: Tikhonov (1950, reimpresso 1986) e Cagniard (1953) Perceberam que se as variações dos campos elétricos e magnéticos são medidas simultaneamente, então o razão complexa (impedâncias) pode ser derivada para descrever a penetração dos campos eletromagnéticos dentro da Terra.
 
-* 1960s 70s: Desenvolvimento do método na academi; aplicação em geotermia.
+* 1960s 70s: Desenvolvimento do método na academia; aplicação em geotermia.
 
 * 1980s: Sistemas comerciais para hidrocarbonetos
 
