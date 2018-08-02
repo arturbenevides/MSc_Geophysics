@@ -23,7 +23,7 @@
 
 
 #
-### Analyzing all the sounding in one only profile:
+### Analyzing all the soundings in one only profile:
 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/IGU_DIM_0.15_1.png' width=700>
 
