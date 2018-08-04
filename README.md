@@ -29,6 +29,7 @@ N° |Atividade
 1| Cumprimento dos créditos 
 2| Revisão bibliográfica     
 3| [Processamento dos dados MT](/Processamento/)  
+4| Correção *Static Shift*
 4| [Análise de Dimensionalidade](https://github.com/arturbenevides/MSc_Geophysics/tree/master/An%C3%A1lise%20de%20Dimensionalidade) 
 5| [Modelagem e Inversão](https://github.com/arturbenevides/MSc_Geophysics/tree/master/ModEM) 
 6| Integração de dados e Interpretação
@@ -50,10 +51,11 @@ Atividade| ~~jan~~ | ~~fev~~| ~~mar~~| ~~abr~~| ~~mai~~|~~jun~~| ~~jul~~| ago|se
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
 2        | *     |*     |*     |*     |*     |*     |*     |*    |*     |*     |*     |*
 3        | *     |*     |*     |*     |*     |*     |*     | *   |      |      |      |
-4        |       |      |      |      |      |*     |*     | *   |      |      |      | 
-5        |       |      |      |      |      |*     |*     |*    | *    |      |      |
-6        |       |      |      |      |      |      |      |     | *    |*     |      |
-7        |       |      |      |      |      |      |      |     |      |*     | *    |*
+4        |       |      |      |      |      |*     |      |     |      |      |      | 
+5        |       |      |      |      |      |*     |*     | *   |      |      |      | 
+6        |       |      |      |      |      |*     |*     |*    | *    |      |      |
+7        |       |      |      |      |      |      |      |     | *    |*     |      |
+8        |       |      |      |      |      |      |      |     |      |*     | *    |*
 
 
 
