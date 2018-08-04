@@ -30,11 +30,11 @@ N° |Atividade
 2| Revisão bibliográfica     
 3| [Processamento dos dados MT](/Processamento/)  
 4| Correção *Static Shift*
-4| [Análise de Dimensionalidade](https://github.com/arturbenevides/MSc_Geophysics/tree/master/An%C3%A1lise%20de%20Dimensionalidade) 
-5| [Modelagem e Inversão](https://github.com/arturbenevides/MSc_Geophysics/tree/master/ModEM) 
-6| Integração de dados e Interpretação
-7| Redação da dissertação e do artigo  
-8| Submissão de artigo e defesa da dissertação	
+5| [Análise de Dimensionalidade](https://github.com/arturbenevides/MSc_Geophysics/tree/master/An%C3%A1lise%20de%20Dimensionalidade) 
+6| [Modelagem e Inversão](https://github.com/arturbenevides/MSc_Geophysics/tree/master/ModEM) 
+7| Integração de dados e Interpretação
+8| Redação da dissertação e do artigo  
+9| Submissão de artigo e defesa da dissertação	
  
 - [x] 2017
 
@@ -63,7 +63,7 @@ Atividade| ~~jan~~ | ~~fev~~| ~~mar~~| ~~abr~~| ~~mai~~|~~jun~~| ~~jul~~| ago|se
 
 Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
-8        |       |  *   |      |      |      |      |      |     |      |      |      |
+9        |       |  *   |      |      |      |      |      |     |      |      |      |
  
 
 
