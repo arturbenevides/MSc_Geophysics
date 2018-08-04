@@ -7,7 +7,7 @@ Item \ direction  |     X       |   y        |     Z
 ------------------|:-----------:|:----------:|:----------:
 N of cell         |   110       |  90        |   88 *         
 Cell dimension    |   745       |  500       |   2          
-N of padding cells|   11        |   11       |            
+N of padding cells|   11        |   11       |   ~~-~~           
 increasing Factor |   1.3       |   1.3      |   1.1   
 
 * Colocar um número de células para alcancar no máximo 100 km.
