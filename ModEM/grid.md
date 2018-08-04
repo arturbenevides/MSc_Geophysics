@@ -1,6 +1,6 @@
 # GRID 3D
 
-## Grid técnico
+**Grid técnico**
 Grid produzido assumindo espaçamento correto baseado no skin depht e respeitando o espaço dos paddings cells
 
 Item \ direction  |     X       |   y        |     Z
