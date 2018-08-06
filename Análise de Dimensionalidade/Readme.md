@@ -6,7 +6,7 @@
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Bacia%20do%20Iguatu/Figs/bacia_iguatu_perfis.png' width=700>
 
 ### Profile MT01
-
+WALDIM
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/P1_DIM_0.15.png' width=600>
 
 ### Profile MT02
