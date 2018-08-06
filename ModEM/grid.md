@@ -23,6 +23,15 @@ Podemos separar o grid em dois meios. o meio refinado onde estão as estações 
 * O fator de crescimento só passa a valer após o espaço do grid refinado, antes da contagem do padding cells. A ideia é que os blocos comecem a ficar maiores no espaço dos paddings cells.
 
 
+# grid modoo1
+Item \ direction  |     X       |   y        |     Z
+------------------|:-----------:|:----------:|:----------:
+N of cell         |    57       |   64       |   10         
+Cell dimension    |   800       |  800       |   72         
+N of padding cells|    11       |   11       |  ~~-~~         
+increasing Factor |     1.3     |    1.3     |   1.1    
+
+erro floor = 7 xy yx e |15 xx e yy
 
 # 
 ### Rough grid 1
