@@ -5,3 +5,7 @@ A metodologia a ser utilizada para os dados de Iguatu será o WALDIM, descrito p
 O programa consiste em calcular os invariantes rotacionais para o tensor MT e determinar a dimensionalidade em cada frequência do dado
 adquirido.
 
+
+Trhesold=
+I3 a I7
+Q=
