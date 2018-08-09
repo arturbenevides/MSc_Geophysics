@@ -73,13 +73,13 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 
 _
 _
-# Calendário :chart_with_upwards_trend: :running:
+# Calendário :chart_with_upwards_trend:
 
 Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|   nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
 2017     |       |      |Início|      |      |      |     |      |~~1º Seminar~~||   |~~Disciplinas (Fim)~~
 2018     |       |      |~~Relatório~~||     |      |     |:bowtie:[49º CBG](https://github.com/arturbenevides/apresentacoes) |2º Seminar|      | |Dissertação (Deadline)
-2019     |       |Paper (Deadline) | :bowtie: Defesa|     |      |      |     |      |      |      |      |
+2019     |       |Paper (Deadline) | :bowtie: Defesa| :checkered_flag:    |      |      |     |      |      |      |      |
 
 
 # Disciplinas cursadas
