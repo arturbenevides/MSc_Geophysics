@@ -6,11 +6,11 @@ Programa de Pós-Graduação em Geofísica - PPGG ON ([Observatório Nacional](h
 
 Mestrado em Geofísica Aplicada
 ## [Artur S Benevides](http://lattes.cnpq.br/7097271152547438)
-:email: benevidesartur@gmail.com
-#
+* :email: benevidesartur@gmail.com
+
 Orientador: [Sergio Fontes](http://lattes.cnpq.br/8537150955145617) 
 
-Neste repositório constam textos, códigos e qualquer material desenvolvidos durante o Mestrado em Geofísica no Observatório Nacional para a área de eletromagnetismo, em especial o método magnetotelúrico (MT).
+Neste repositório constam textos, códigos e qualquer material desenvolvido durante o mestrado em Geofísica no Observatório Nacional para a área de eletromagnetismo, em especial o método magnetotelúrico (MT).
 
 
 
