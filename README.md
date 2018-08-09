@@ -5,7 +5,8 @@
 Programa de Pós-Graduação em Geofísica - PPGG ON ([Observatório Nacional](http://on.br))
 
 Mestrado em Geofísica Aplicada
-## [Artur S Benevides](http://lattes.cnpq.br/7097271152547438) :email: benevidesartur@gmail.com
+## [Artur S Benevides](http://lattes.cnpq.br/7097271152547438) 
+:email: benevidesartur@gmail.com
 
 Orientador: [Sergio Fontes](http://lattes.cnpq.br/8537150955145617) 
 
