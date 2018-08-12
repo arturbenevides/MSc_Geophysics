@@ -146,7 +146,7 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [ ] Bedregal, R. P (1991). 
 - [ ] Darros de Matos (1987, 1992),
-
+- [ ] Castro et. al. (2008).
 ## Hidrogeologia 
 
 - [ ] Abreu, P. M. (2002). Estudos Geofísicos (Magnetotelúrico e Eletromagnético Transiente) da Porção Leste da Bacia do Parnaíba: Contribuição ao conhecimento Hidrogeológico. Dissertação de Mestrado. Observatório Nacional, Rio de Janeiro, rj, Brasil. (MT e Hidrogeologia).
