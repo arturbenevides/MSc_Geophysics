@@ -137,9 +137,11 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [x] Feitosa F. A. C. et al., 2004. Estudos Hidrogeológicos de Bacias Sedimentares da Região Semi-árida do Nordeste Brasileiro. Serviço Geológico do Brasil. 
 
-- [x] Castro, D., Castelo Branco, R. (1999). Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
+- [x] de Castro, DL., Castelo Branco, R. (1999). Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
 
- - [x] Vasconcelos A. M. et al., (1998). Programa Levantamentos Geológicos Básicos do Brasil (PLGB) Carta Geológica - Folha de Iguatu SB.24-Y-B. Serviço Geológic do Brasil. Superintendências Regional de Recife; Residência de Fortaleza; Departamento de Geologia.
+- [ ] de CASTRO, D., BEZERRA, F., CASTELO BRANCO, R., 2008, Geophysical evidence of crustal-heterogeneity control of fault growth in the Neocomian Iguatu basin, NE Brazil", Journal of South American Earth Sciences, v. 3, n. 26, pp. 271 - 285.
+
+- [x] Vasconcelos A. M. et al., (1998). Programa Levantamentos Geológicos Básicos do Brasil (PLGB) Carta Geológica - Folha de Iguatu SB.24-Y-B. Serviço Geológic do Brasil. Superintendências Regional de Recife; Residência de Fortaleza; Departamento de Geologia.
  
  - [x] MARÇAL, A., FONTES, S., FLEXOR, J., et al., 2005, “Estudos Magnetotelúricos na Bacia do Iguatu (CE): Primeiros resultados”. In: 9 the International Congress of the Brazilian Geophysical Society, Salvador.
 
