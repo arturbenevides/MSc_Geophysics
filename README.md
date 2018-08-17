@@ -21,7 +21,6 @@ Neste repositório constam textos, códigos e qualquer material desenvolvido dur
 
 (3) Contribuir para o mapeamento de estruturas com potencial hidrogeológico.
 
-
  
 ### Cronograma
 N° |Atividade
