@@ -76,7 +76,7 @@ _
 Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|   nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
 2017     |       |      |Início|      |      |      |     |      |~~1º Seminar~~||   |~~Disciplinas (Fim)~~
-2018     |       |      |~~Relatório~~||     |      |     |:bowtie:~~[49º CBG](https://github.com/arturbenevides/apresentacoes)~~ |2º Seminar|      | |Dissertação (Deadline)
+2018     |       |      |~~Relatório~~||     |      | 24 EMIW |:bowtie:~~[49º CBG](https://github.com/arturbenevides/apresentacoes)~~ |2º Seminar|      | |Dissertação (Deadline)
 2019     |       |Paper (Deadline) | :bowtie: Defesa| :checkered_flag:    |      |      |     |      |      |      |      |
 
 
