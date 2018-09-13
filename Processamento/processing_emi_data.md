@@ -1,8 +1,8 @@
-## Observatório Nacional
+## Processamento de dados MT (EMI)
 @Benevides
 
-#
-##Etapas para processamento robusto dos dados MT (adquiridos com o equipamento da EMI) utilizando o pacote EMTF (Egbert e Eisel, 1998) e as otimizações propostas pelo pacote processamentoZ (Banik).
+
+## Etapas para processamento robusto dos dados MT (adquiridos com o equipamento da EMI) utilizando o pacote EMTF (Egbert e Eisel, 1998) e as otimizações propostas pelo pacote processamentoZ (Marcelo Banik).
 
 
 **Na pasta modelo encontramos os diretórios:**
@@ -16,16 +16,20 @@
 
 ## Procedimentos:
 
-#### ex:
+#### Conversão TS - BIN
 **`emi2egb rawdata/MT001/04I001.TS4 001 2004-06-04T09:20:00`**
 * *Esse comando permite a conversão do dado do formato .TS para .bin (padrão para o EMTF), os dados convertidos são alocados para as pastas DATA e SP, mesmo os dados estando em uma subpasta em raw data.*
 
+### Processamento
 **`echo "04I001_TS4.bin janela ss" > tmp.tmp`**  
-* *o comando echo cria um arquivo temporário que será usado pelo próximo comando.*
+
 ou
 
 **`echo "04I0XX_TSX.bin janela ss;bsX" > tmp.tmp`**
-* *bsX permite usar outras níveis de decimação, quando chama outras arquivos options.cfg.*
+* *o comando echo "--"> .temp cria um arquivo temporário que é usado pelo próximo comando.*
+* *bsX permite usar outras níveis de decimação, quando chama outros arquivos options.cfg.*
 
 **`processamentoZbin tmp.tmp`**
 * *O processamento recebe o arquivo temp contendo o nome do arquivo e a janela*
+
+O comando **`processamentoZbin`** engloba os comandos **`dnff`** e **`tranmt`**. Os produtos são as funções de transferência armazenadas na pasta MTXXX. 
