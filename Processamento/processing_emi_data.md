@@ -1,11 +1,11 @@
-## Processamento de dados MT (EMI)
+# Processamento de dados MT (EMI)
 @Benevides
 
 
-## Etapas para processamento robusto dos dados MT (adquiridos com o equipamento da EMI) utilizando o pacote EMTF (Egbert e Eisel, 1998) e as otimizações propostas pelo pacote processamentoZ (Marcelo Banik).
+### Etapas para processamento robusto dos dados MT (adquiridos com o equipamento da EMI) utilizando o pacote EMTF (Egbert e Eisel, 1998) e as otimizações propostas pelo pacote processamentoZ (Marcelo Banik).
 
 
-**Na pasta modelo encontramos os diretórios:**
+## Diretórios pasta modelo:
 >* /raw_data/MTxxx: 04Ixx.TSx; 04IxxTSX.clk  *(pastas contendo os dados brutos .TS e os arquivos cloks .clk)*
 >* /sensor:   *(Pastas contendo os arquivos de sensores do equipamento)*
 >* /DATA :  04I0xx_tsx.bin ; .err ; .log *(contém o binário reformatado e os arquivos com erro e o log)*
