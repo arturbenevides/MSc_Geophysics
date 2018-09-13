@@ -1,5 +1,7 @@
+##-Observatório Nacional
 @Benevides
--Observatório Nacional
+
+#
 ##Etapas para processamento robusto dos dados MT (adquiridos com o equipamento da EMI) utilizando o pacote EMTF (Egbert e Eisel, 1998) e as otimizações propostas pelo pacote processamentoZ (Banik).
 
 
