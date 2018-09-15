@@ -3,88 +3,74 @@
 
 * Bacia do Iguatu:
 * 48 estações.
-* Ts1,2 e 3.
+* 512-32-2 (Hz)
 
- - [ ] ig1 100 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ curvas pós processamento = [1]
- - [ ] ig2 100 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [1] + com interp. e suav =[2]
- - [ ] ig3 100 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [2] + com correção static shift =[3]
- - [ ] ig4 1000 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [3]
- - [ ] ig4 500 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [3]
- - [ ] ig5 250 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [3]
- - [ ] ig6 50 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [3]
- - [ ] ig7 1 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [3]
- - [ ] ig8 100 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [3] (apenas para o MT1)
+ - [ ] ig1 100 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ curvas pós processamento = [1] / 47 stn
+ - [ ] ig2 100 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [1] + com interp. e suav =[2] / 47 stn
+ - [ ] ig3 100 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [2] + com correção static shift =[3] / 47 stn
+ - [ ] ig4 1000 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [3] / 47 stn
+ - [ ] ig4 500 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [3] / 47 stn
+ - [ ] ig5 250 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [3] / 47 stn
+ - [ ] ig6 50 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [3] / 47 stn
+ - [ ] ig7 1 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [3] / 47 stn
+ - [ ] ig8 100 ohm.m/malha1/xy,yx 7%/xx,yy=15%/ [3] (apenas MT1)/30 stn
 
 
 
 ## Modelo 1
-512 + 32 (Hz)
-24 períodos.
-* Com topografia
+* 33 períodos.
+* sem topografia
 * Background resistivity: 100 ohm.m
-* 59 iterações.
-* rms= 41
+* Iterações=36
+* rms= 11.8
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/inv0.png' width=900>
 
 
 ## Modelo 2
-512 + 32 + 2 (Hz)
-~38 períodos.
-* Com topografia
-* 104 iterações
-* rms=13
+* 33 períodos
+* Sem topografia
+* iterações
+* rms=6.6
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/inv2.png' width=900>
 
 ## Modelo 3
-512 + 32 + 2 (Hz)
-~38 períodos.
-* sem topografia
-* grid refinado
-* 42 iterações
-* rms=17
+* 33 períodos
+* Sem topografia
+* iterações
+* rms= 3.6
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/inv1.png' width=900>
 
 ## Modelo 4
-512 + 32 + 2 (Hz)
-~38 períodos.
-* sem topografia
-* grid combinado
-*  iterações
-* rms=
+* 33 períodos
+* Sem topografia
+* iterações
+* rms= 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/inv6.png' width=900>
 
 ## Modelo 5
-512 + 32 + 2 (Hz)
-~38 períodos.
-* sem topografia
-* grid combinado
-*  iterações
-* rms= 18
+* 33 períodos
+* Sem topografia
+* iterações
+* rms= 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/inv5.png' width=900>
 
 ## Modelo 6
-512 + 32 + 2 (Hz)
-~38 períodos.
-* sem topografia
-* grid combinado
-* iterações:
+* 33 períodos
+* Sem topografia
+* iterações
 * rms= 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/inv4.png' width=900>
 
 ## Modelo 7
-512 + 32 + 2 (Hz)
-~38 períodos.
-* sem topografia
-* grid combinado
-* iterações:
+* 33 períodos
+* Sem topografia
+* iterações
 * rms= 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/inv3.png' width=900>
 
 ## Modelo 8
-512 + 32 + 2 (Hz)
-~38 períodos.
-* sem topografia
-* grid combinado
-* iterações:
+* 33 períodos
+* Sem topografia
+* iterações
 * rms= 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/ModEM/inv7.png' width=900>
