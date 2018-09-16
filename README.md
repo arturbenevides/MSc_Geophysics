@@ -66,7 +66,7 @@ Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
  
 
 
-* Para um melhor acompanhamento do progresso visite **[Progress](https://github.com/arturbenevides/Magnetotelluric/projects/1)** :squirrel:
+* Acompanhamento detalhado do progresso **[Progress](https://github.com/arturbenevides/Magnetotelluric/projects/1)** :squirrel:
 
 
 _
