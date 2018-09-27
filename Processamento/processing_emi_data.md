@@ -103,3 +103,6 @@ A informação **[3]** é referente ao inicio da aquisição, deve ser levado em
 
 
 Importante para a reformatação usando o rfemi.
+
+
+nohup processamentoZbin teste.txt > output.txt
