@@ -89,3 +89,10 @@ The output files after each iteration are:
 * [2] é referente ao valore resultante do = (N.Periodos x 2 ) + 1
 
 #
+
+miscelaneous 
+
+comandos para converter j para modem 
+
+j2ModEM list.txt Full_Impedance eZxx=0.2 eZyy=0.2 eZxy=0.1 eZyx=0.1 > all_data.dat
+j2ModEM list.txt Full_Vertical_Components >> all_data.dat
