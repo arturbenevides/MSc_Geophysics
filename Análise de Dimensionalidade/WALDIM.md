@@ -6,6 +6,6 @@ O programa consiste em calcular os invariantes rotacionais para o tensor MT e de
 adquirido.
 
 
-Trhesold=
+Trhesold
 I3 a I7
-Q=
+Q
