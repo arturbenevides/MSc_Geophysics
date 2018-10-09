@@ -6,12 +6,12 @@
   3 & 4
 \end{array}
 
-## Location of soundings:
+## Location of soundings: \sqrt{81}
 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Bacia%20do%20Iguatu/Figs/bacia_iguatu_perfis.png' width=700>
 
 ### Profile MT01
-* WALDIM
+* WALDIM \sqrt{81}
 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/WALDIM/MT1.png' width=600>
 
