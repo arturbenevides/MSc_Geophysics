@@ -1,5 +1,10 @@
 # Dimensionality analysis of Iguatu basin using Waldim and phase tensor methods
 
+\begin{array}{c|c}
+  1 & 2 \\ 
+  \hline
+  3 & 4
+\end{array}
 
 ## Location of soundings:
 
