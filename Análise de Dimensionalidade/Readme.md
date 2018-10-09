@@ -14,20 +14,23 @@
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/Phase%20tensor/interpretacao_skew_Mt1.png' width=600>
 
 ### Profile MT02
-
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/P2_DIM_0.15.png' width=600>
+* WALDIM
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/WALDIM/MT2.png' width=300>
+* Phase Tensor
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/Phase%20tensor/PhT_mt2.png' width=300>
 
 ### Profile MT03
-
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/P3_DIM_0.15.png' width=600>
+* WALDIM
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/WALDIM/MT3.png' width=300>
+* Phase Tensor
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/Phase%20tensor/PhT_mt3.png' width=300>
 
 ### Profile MT04
+* WALDIM
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/WALDIM/MT4.png' width=300>
+* Phase Tensor
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/Phase%20tensor/PhT_mt4.png' width=300>
 
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/P4_DIM_0.15.png' width=600>
+# Phimin from phase tensor
 
-
-#
-### Analyzing all the soundings in one only profile:
-
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/IGU_DIM_0.15_1.png' width=700>
-
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/Phase%20tensor/interpreta%C3%A7%C3%A3o_phiminMt1.png' width=600>
