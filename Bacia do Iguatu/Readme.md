@@ -1,13 +1,14 @@
 # Bacia do Iguatu, CE.
 
-## Caracterização Geológica
+Caracterização geológica: síntese de outros trabalhos e interpretação do resultado obtido pelo método magnetotelúrico.
 
 ### Aspectos Gerais
 
-O complexo sedimentar das bacias do Iguatu compreende um conjunto de quatro bacias: Iguatu, Icó, Lima Campos e Malhada Vermelha que estão inseridas no conjunto das bacias interiores cretaceas do nordeste do Brasil. As bacias estão localizadas no sudeste do estado do Ceará, entre as coordenadas: latitude 6◦ 000 − 6◦ 300 S e de longitude 38◦ 300 - 39◦ 300 W Figura 2.1 e constitui uma área de cerca de
-1318 km2.
-A bacia de Iguatu é a maior entre as quatro, está situada na porção ocidental em relação as demais, ocupa uma area de aproximadamente 820 km2, e corresponde cerca de 70% do total do complexo sedimentar, tem um formato aproximadamente elíptico apresentando cerca de 57 km de comprimento no eixo maior com direção NE-SW e 23 km no eixo menor com direção NW-SE. A grande totalidade da bacia encontra-se encoberto por sedimentos Terciários (Formação Moura), Quaternários e pelo a¸cude de Orós, restringindo a área de exposição as bordas da bacia. As principais cidades e localidade situadas sobre a bacia são Iguatu e Quixelô. Diversos trabalhos tem sido realizados na bacia do Iguatu, estudos tais como de FORTIER (2008), PONTE et al. (1990) (paleontol´ogicos), ARIMA (2007), FEITOSA et al. (2004), VASCONCELOS et al. (1998), novamente PONTE (1991a), PONTE (1991b) (geológicos), BENDELAK (2004), CASTRO e CASTELO BRANCO
-(1999), BEDEGRAL et al. (1992) e BEDREGAL (1991) (geofísicos) são referencias na área de estudo e serviram de base para entendimento do contexto geológico dessa bacia
+O complexo sedimentar das bacias do Iguatu compreende um conjunto de quatro bacias: Iguatu, Icó, Lima Campos e Malhada Vermelha que estão inseridas no conjunto das bacias interiores cretáceas do nordeste do Brasil. As bacias estão localizadas na mesorregião centro-sul do estado do Ceará, entre as coordenadas: latitude 6° 30' − 6◦ 30' Sul e de longitude 38◦ 30' - 39◦ 30' W e abrangendo uma área de cerca de 1318 km2.
+
+A bacia de Iguatu é a maior entre as quatro, está situada na porção ocidental em relação as demais, ocupa uma area de aproximadamente 820 km2, e corresponde cerca de 70% do total do complexo sedimentar, a bacia de Iguatu tem um formato aproximadamente elíptico apresentando cerca de 57 km de comprimento no eixo maior (NE-SW) e 23 km no eixo menor (NW-SE). A grande totalidade da bacia encontra-se encoberta por sedimentos Terciários (Formação Moura), Quaternários (aluviões) e pelo açude de Orós, restringindo a área de exposição apnas as bordas da bacia.
+
+Diversos trabalhos tem sido realizados na bacia do Iguatu, estudos tais como de FORTIER (2008), PONTE et al. (1990) (paleontológicos), ARIMA (2007), FEITOSA et al. (2004), VASCONCELOS et al. (1998), novamente PONTE (1991a), PONTE (1991b) (geológicos), BEDEGRAL et al. (1991) e BEDREGAL (1992), DE CASTRO e CASTELO BRANCO (1999), BENDELAK (2004) e DE Castro e Castelo Branco (2008) (geofísicos) são referencias na área de estudo e serviram de base para entendimento do contexto geológico dessa bacia.
 
 <img src='https://github.com/arturbenevides/Magnetotelurico/blob/master/Bacia%20do%20Iguatu/Figs/baciasdo_iguatu.png' width = 600>
 IBGE
