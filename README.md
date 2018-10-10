@@ -113,8 +113,6 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [ ] Simpson, F., Bahr, K., (2005), Practical magnetotellurics. Cambridge University Press.
 
-- [x] Figueiredo, I. (1997) , Investigação Magnetotelúrica nas Serras do Sudeste Brasileiro (RJ/MG): uma Proposta de Modelo Crustal. Tese de D.Sc., Observatório Nacional, Rio de Janeiro, RJ, Brasil
-
 - [ ] Meju, A. M. (1996). Joint inversion of TEM and distorted MT soundings: some effective pratical considerations. Geophysics 61: 56-65.
 
 - [ ] CHAVE, A. D., THOMSON, D. J., 1989, “Some comments on magnetotelluric response function estimation”, Journal of Geophysical Research: Solid Earth, v. 94, n. B10, pp. 14215–14225
@@ -127,8 +125,14 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [ ] Tikhonov, A. N. (1950). The determination of the eletrical properties of deep layers of the Earth's crust. Dokl. Acad. Nauk. SSR 73: 295-297 (in Russian). (1986). On determining eletrical characteristics of the deep layers of the Earth's crust. In Manetotelluric Methods, ed. K. Vozoff. Tulsa: Society of Exploration Geophysicists, pp. 2-3.
 
+### ModEM / MT aplicado no brasil
+- [x] Figueiredo, I. (1997) , Investigação Magnetotelúrica nas Serras do Sudeste Brasileiro (RJ/MG): uma Proposta de Modelo Crustal. Tese de D.Sc., Observatório Nacional, Rio de Janeiro, RJ, Brasil
 
+- [ ] Horvath, K. A. (2017). Estruturas geoelétricas da litosfera sob a porção central da bacia do Paraná a partir de um perfil magnetotelúrico. Dissertação de Mestrado. INPE, São José dos Campos, sp, Brasil. 
 
+- [ ] Antunes, C. S. (2012). Tomografia de condutividade elétrica sob a bacia do Paraná utilizando dados do campo geomagnético. Dissertação de Mestrado. INPE, São José dos Campos, sp, Brasil. (Comentários Inversão).
+
+* Andrea Cristina Unb, Padilha e Nina (Borborema).
 ### Bacia do Iguatu
 
 - [x] Arima, N. (2007), Análise Estatigráfica da Bacia do Iguatu, CE. Ph.D. dissertation, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil.
@@ -137,32 +141,26 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [x] Feitosa F. A. C. et al., 2004. Estudos Hidrogeológicos de Bacias Sedimentares da Região Semi-árida do Nordeste Brasileiro. Serviço Geológico do Brasil. 
 
-- [x] de Castro, DL., Castelo Branco, R. (1999). Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
+- [x] De Castro, DL., Castelo Branco, R. (1999). Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
 
-- [ ] de CASTRO, D., BEZERRA, F., CASTELO BRANCO, R., 2008, Geophysical evidence of crustal-heterogeneity control of fault growth in the Neocomian Iguatu basin, NE Brazil", Journal of South American Earth Sciences, v. 3, n. 26, pp. 271 - 285.
+- [ ] De CASTRO, DL., BEZERRA, F., CASTELO BRANCO, R., 2008, Geophysical evidence of crustal-heterogeneity control of fault growth in the Neocomian Iguatu basin, NE Brazil", Journal of South American Earth Sciences, v. 3, n. 26, pp. 271 - 285.
 
 - [x] Vasconcelos A. M. et al., (1998). Programa Levantamentos Geológicos Básicos do Brasil (PLGB) Carta Geológica - Folha de Iguatu SB.24-Y-B. Serviço Geológic do Brasil. Superintendências Regional de Recife; Residência de Fortaleza; Departamento de Geologia.
  
  - [x] MARÇAL, A., FONTES, S., FLEXOR, J., et al., 2005, “Estudos Magnetotelúricos na Bacia do Iguatu (CE): Primeiros resultados”. In: 9 the International Congress of the Brazilian Geophysical Society, Salvador.
 
-- [ ] Bedregal, R. P (1991). 
-- [ ] Darros de Matos (1987, 1992),
-- [ ] Castro et. al. (2008).
+*Bedregal, R. P (1991), Darros de Matos (1987, 1992) e brito neves
+
+
 ## Hidrogeologia 
 
-- [ ] Abreu, P. M. (2002). Estudos Geofísicos (Magnetotelúrico e Eletromagnético Transiente) da Porção Leste da Bacia do Parnaíba: Contribuição ao conhecimento Hidrogeológico. Dissertação de Mestrado. Observatório Nacional, Rio de Janeiro, rj, Brasil. (MT e Hidrogeologia).
+- [x] Abreu, P. M. (2002). Estudos Geofísicos (Magnetotelúrico e Eletromagnético Transiente) da Porção Leste da Bacia do Parnaíba: Contribuição ao conhecimento Hidrogeológico. Dissertação de Mestrado. Observatório Nacional, Rio de Janeiro, rj, Brasil. (MT e Hidrogeologia).
 
-- [x] CAVALCANTE, Itabaraci Nazareno. (1998). Fundamentos hidrogeológicos para a gestão integrada de recursos hídricos na Região Metropolitana de Fortaleza, Estado do Ceará. São Paulo: USP. Instituto de Geociências, 164p. Tese (Doutorado) – Universidade de São Paulo
+- [ ] CAVALCANTE, Itabaraci Nazareno. (1998). Fundamentos hidrogeológicos para a gestão integrada de recursos hídricos na Região Metropolitana de Fortaleza, Estado do Ceará. São Paulo: USP. Instituto de Geociências, 164p. Tese (Doutorado) – Universidade de São Paulo
 
-- [x] RIBEIRO, J., MELO, F., FEITOSA, F., et al., 2000, “Contribuição hidroquímica para o conhecimento das bacias do Iguatu – CE”. In: 1 st Joint World Congress on Groundwater, p. v.1., Fortaleza.
+- [ ] RIBEIRO, J., MELO, F., FEITOSA, F., et al., 2000, “Contribuição hidroquímica para o conhecimento das bacias do Iguatu – CE”. In: 1 st Joint World Congress on Groundwater, p. v.1., Fortaleza.
 
-- [x] Estudos Hidrogeológicos CPRM.
-### Extras
-
-Horvath, K. A. (2017). Estruturas geoelétricas da litosfera sob a porção central da bacia do Paraná a partir de um perfil magnetotelúrico. Dissertação de Mestrado. INPE, São José dos Campos, sp, Brasil. (Geologia e Organização)
-
-Antunes, C. S. (2012). Tomografia de condutividade elétrica sob a bacia do Paraná utilizando dados do campo geomagnético. Dissertação de Mestrado. INPE, São José dos Campos, sp, Brasil. (Comentários Inversão).
-
+- [ ] Estudos Hidrogeológicos CPRM.
 
 #
 
