@@ -16,11 +16,14 @@ IBGE
 
 ### Contexto tectônico: origem, evolução e principais eventos que ocorreram na formação
 
-A gênese e evolução da bacia do Iguatu, assim como das outras bacias interiores do Nordeste brasileiro estão relacionadas à fase inicial de abertura do Proto-oceano Atlântico (Evento Sul Atlantiano 160-115 Ma) durante o final do Jurássico e início do Cretáceo.
+A gênese e evolução da bacia do Iguatu, assim como das outras bacias interiores do Nordeste brasileiro estão relacionadas à fase inicial de abertura do Proto-oceano Atlântico (Evento Sul Atlantiano 160-115 Ma) durante o final do Jurássico e início do Cretáceo (Arima, 2007).
 
 ### Formação sedimentar importante // Sucessão estratigráfica // Estratígrafia // 
 
-Formação sedimentar é dividida por e por. * Tem sido desenvolvido diversos estudos geológicos desde .. e ainda não ha uma definição //(Discutir a divisão, escolher um dos modelos)** 
+O posicionamento cronoestratigráfico da bacia foi feito bioestratigráfia e litoestratigrafia a partir de registro fósseis e geologia de superfície.
+
+Não existe um consenso em termos da nomenclatura e divisão das formação sedimentares, algo similar aos autores é a divisão dos sedimentos da bacia em três formações, sendo as vezes, subdividida em membro.
+A divisão adotada nesse trabalho segue a lógica de Ponte (1991), em que os sedimentos da bacia pertencem ao Grupo Iguatu e é subdividido me Fm Icó, Malhada Vermelha e Lima Campos.
 
 **Sequência sedimentar (Tipos de rochas: siliciclásticas, carbonática tempo de formação de cada)**
 
