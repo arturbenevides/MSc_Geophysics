@@ -1,8 +1,6 @@
 # EMTF / ProcessamentoZ
 
-Gary Egbert
-
-Marcelo Banik
+Egbert&Eisel & Marcelo Banik
 
 O objetivo do EMTF é fazer a estimativa robusta de funções transferência, neste caso os tensores de impedância.
 O módulo utilizado para fazer a estimativa do tensor é o `tranmt`(para levantamento com estações simples) e `multmtrn` (para levantamentos multiplas estações).
@@ -176,6 +174,11 @@ dado_selecionado.dat -> aqruivo zss no formato jones
 > rhoplus < arquivo
 
 > plot-rhoplus arquivo.fsp
+
+8. j2edi
+
+> j2edi.py file.dat > file.edi
+
 
 # ProcessamentoZbin - emi files
 
