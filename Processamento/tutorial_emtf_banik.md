@@ -7,7 +7,9 @@ O módulo utilizado para fazer a estimativa do tensor é o `tranmt`(para levanta
 
 Os módulos de estimativa do tensor pedem como parâmetros de entrada os coeficientes de Fourier (cf) que são os parâmetros de saída do programa `dnff`, responsável por cálcular os coeficientes para determinado janelamento de amostras. 
 
-O `dnff`precisa que os dados estejam em um formato binário padrão. Se os dados estiverem em outro formato é necessário que seja feita uma conversão. O EMTF disponibiliza dois módulos de conversão: `rfemi` (para o sistema EMI-MT1) e `rfasc` (para arquivo ascii simples) e `ats2asc`(para arquivos ats).
+O `dnff`precisa que os dados estejam em um formato binário ou asc padrão do EMTF. Se os dados estiverem em outro formato é necessário que sejam feitas conversões.
+O EMTF disponibiliza dois módulos de conversão: `rfemi` (para o sistema EMI-MT1) e `rfasc` (para arquivo ascii simples).
+Além desses temos o `ats2asc`para arquivos .ats (ex. ADU) e lemi2egb para aquivos arquivo .t (ex. lemi).
 
 
 
@@ -28,6 +30,25 @@ Código com 3 caracteres para estação (Id da estação); Nome do arquivo TS; N
 E um pequeno header
 
 >*Caso ainda não esteja instalado, tente: `make rfemi` -> `make install`--> `make clean`
+
+## lemi2egb
+
+Esse módulo reformata arquivos em formato EMI (MT1) para o binário padrão do EMTF.
+
+>**Input**: arquivos.TS e arquivo.clk ([descrição](https://github.com/arturbenevides/Magnetotelurico/blob/master/Processamento/clock.md))
+(é necessário ter os arquivos de calibração do equipamento)
+
+>**Output**: arquivo.bin (binário) e arquivo.sp 
+
+### Comandos
+(O exevutável geralmente está na pasta bin) 
+O comando é o **`rfemi`**. 
+O executável irá solicitar:
+Código com 3 caracteres para estação (Id da estação); Nome do arquivo TS; Nome do arquivo de saida BIN; Nome do arquivo CLK
+E um pequeno header
+
+>*Caso ainda não esteja instalado, tente: `make rfemi` -> `make install`--> `make clean`
+
 
 
 #
