@@ -1,4 +1,4 @@
-# Processamento de dados MT (EMI)
+# Processamento de dados MT (EMI/ADU/LEMI)
 @Benevides
 
 
@@ -6,27 +6,34 @@
 
 
 ## Diretórios pasta modelo:
->* /raw_data/MTxxx: 04Ixx.TSx; 04IxxTSX.clk  *(pastas contendo os dados brutos .TS e os arquivos cloks .clk)*
+>* /raw_data/MTxxx: 04Ixx.TSx; 04IxxTSX.clk  *(pastas contendo os dados brutos .TS, .T ou .ATS e os arquivos cloks .clk)*
 >* /sensor:   *(Pastas contendo os arquivos de sensores do equipamento)*
 >* /DATA :  04I0xx_tsx.bin ; .err ; .log *(contém o binário reformatado e os arquivos com erro e o log)*
 >* /SP : 04I0XX_TSX.sp        *(arquivos de parâmetros do sistema, referente ao equipamento de aquisição)*
->* /FC00128 : 04I0XX_TSX.f5   *(coeficientes de fourier para janela 128)*
->* /MT0128 : 04I0XX_TSX.zss   *(funções de transferência .zss utilizando janela 128)*
->* /tojones : igxxx.dat; .png ; .ps *(funções de transferênciano no formato jones - com pontos escolhidos); 
+>* /FCXXXX : 04I0XX_TSX.f5   *(armazenam os coeficientes de fourier por janelas, ex: FC00128)*
+>* /MTXXXX : 04I0XX_TSX.zss  *(armazenam as funções de transferência .zss por jannelas, ex: MT00128)*
+>* /tojones : igxxx.dat; .png ; .ps *(armazenam as funções de transferência no no formato jones); 
 
-## Procedimentos:
+## Conversão de dados:
 
-#### Conversão TS - BIN
-**`emi2egb rawdata/MT001/04I001.TS4 001 2004-06-04T09:20:00`**
+#### Conversão TS - BIN (EMI)
+**`emi2egb rawdata/STN001/04I001.TS4 001 2004-06-04T09:20:00`**
 * *Esse comando permite a conversão do dado do formato .TS para .bin (padrão para o EMTF), os dados convertidos são alocados para as pastas DATA e SP, mesmo os dados estando em uma subpasta em raw data.*
 * *001 é a pasta onde contém os arquivos da estação 001.*
 * *2004-06-04T09:20:00 é a data e o horário definido para primeira estação*. Esse horário pode ser atribuído para todas as estações, mesmo que tenha sido definido um horário de aquisição para cada banda nos arquivos clock. Essa metodologia é utilizada para single station. Para referência remota o procedimento é diferente.*
 
+#### Conversão T - ASC (lemi)
+**`lemi-check-time *.txx > time.log`**
+* *Esse comando permite a verificação do tempo de cada arquivo .txx (ex 04ig001a.t59, 04ig001b.t59).* 
+**`lemi-check-runs time.log > runs.log`**
+* *Esse comandoagrupa os arquivos .t que pertencem a mesma contagem e que nos permite verificar qual a maior série.*
+* *A maior sequencia deve ser copiada e juntada em um único arquivo, como mostrado abaixo:*
+**`cat 04ig001a.t 04ig001b.t 05ig001h.t 04ig001p.t > 04ig001.t`**
+* *Os arquivos estão prontos para fazer a conversão. Dentro da pasta modelo procedemos com o comando de conversão.*
+**`lemi2egb rawdata/STN001/04IG001.t`**
+* * O arquivo convertido (.asc) será direcionado a pasta DATA e o arquivo dos parâmetros para a pasta SP.
+
 ### Processamento
-**`echo "04I001_TS4.bin janela ss" > tmp.tmp`**  
-
-ou
-
 **`echo "04I0XX_TSX.bin janela ss;bsX" > tmp.tmp`**
 * *o comando echo "--"> .temp cria um arquivo temporário que é usado pelo próximo comando.*
 * *bsX permite usar outras níveis de decimação, quando chama outros arquivos options.cfg.*
