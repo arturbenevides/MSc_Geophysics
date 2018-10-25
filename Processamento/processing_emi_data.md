@@ -25,25 +25,43 @@
 #### Conversão T - ASC (lemi)
 **`lemi-check-time *.txx > time.log`**
 * *Esse comando permite a verificação do tempo de cada arquivo .txx (ex 04ig001a.t59, 04ig001b.t59).* 
+
 **`lemi-check-runs time.log > runs.log`**
 * *Esse comandoagrupa os arquivos .t que pertencem a mesma contagem e que nos permite verificar qual a maior série.*
 * *A maior sequencia deve ser copiada e juntada em um único arquivo, como mostrado abaixo:*
+
 **`cat 04ig001a.t 04ig001b.t 05ig001h.t 04ig001p.t > 04ig001.t`**
 * *Os arquivos estão prontos para fazer a conversão. Dentro da pasta modelo procedemos com o comando de conversão.*
+
 **`lemi2egb rawdata/STN001/04IG001.t`**
-* * O arquivo convertido (.asc) será direcionado a pasta DATA e o arquivo dos parâmetros para a pasta SP.
+* * O arquivo convertido (.asc) será direcionado a pasta DATA e o arquivo dos parâmetros para a pasta SP.*
 
-### Processamento
-**`echo "04I0XX_TSX.bin janela ss;bsX" > tmp.tmp`**
-* *o comando echo "--"> .temp cria um arquivo temporário que é usado pelo próximo comando.*
-* *bsX permite usar outras níveis de decimação, quando chama outros arquivos options.cfg.*
+#### Conversão ATS - ASC (ADU)
 
-**`processamentoZbin tmp.tmp`**
-* *O processamento recebe o arquivo temp contendo o nome do arquivo e a janela*
+**`ats2asc rawdata/STN001/04IG001.ats`**
 
+* * esse comando deve ser dado dentro da pasta modelo apontando a pasta que contem os arquivos ats. Os arquivos .asc convertidos serão armazenados na pasta DATA.*
+
+
+## Processamento 
+Todos os arquivos são processados utilizando o comando **`processamentoZ`**, exceto os arquivos .bin (Emi) que utilizam o comando **`processamentoZbin`**.
+
+### Single station (ss)
+
+**`echo "04I001.asc janela ss" > tmp.tmp`**
+* *o comando echo "--"> .temp cria um arquivo temporário que será usado pelo comando de processamento.*
+* *em vez de preencher o arquivo tmp.tmp com cada estação e janela, podemos preenche-la diretamente com todos as estações e janelas de processamento. O preenchimento pode ser feito criando um arquivo de texto ou usando echo " -- " >> e acrescentando linha a linha.*
+* *As janelas disponíveis são: 128, 256, 1024, 2048, 4096, 8192, 16384, 32768, 65536.
+
+**`processamentoZ tmp.tmp`**
+* *O processamento recebe o arquivo temp contendo o nome do arquivo, a janela e a opção ss que significa single station*
+* *Como resultado, temos o armazenamento dos coeficientes de fourier nas pastas FCXXXXX e das funções de transferência na pasta MTXXXX;*
 O comando **`processamentoZbin`** engloba os comandos **`dnff`** e **`tranmt`**. Os produtos são as funções de transferência armazenadas na pasta MTXXX. 
 
 
+**`processamentoZbin tmp.tmp`**
+**`echo "04I0XX_TSX.bin janela ss;bsX" > tmp.tmp`**
+* *bsX permite usar outras níveis de decimação, quando chama outros arquivos options.cfg.*
 
 ### Outras informações
 
