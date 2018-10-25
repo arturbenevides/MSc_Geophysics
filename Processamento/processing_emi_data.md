@@ -65,7 +65,7 @@ Uma vez que todos os arquivos estejam na pasta DATA e os arquivos de parâmetro 
 * *O processamento para os arquivos (.bin) da EMI utiliza o comando `processamentoZbin`, mas segue as mesmas regras do processamento convencional.* 
 **`echo "04I001_TSX.bin janela ss;bsX" > tmp.tmp`**
 **`processamentoZbin tmp.tmp`**
-[Mais detalhes]([https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/campanha_iguatu_relat%C3%B3rio_de_processamento.md)
+[Mais detalhes](https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/campanha_iguatu_relat%C3%B3rio_de_processamento.md)
 
 Os comandos **`processamentoZ`** e **`processamentoZbin`** englobam e automatizam os comandos **`dnff`** e **`tranmt`**. 
 
