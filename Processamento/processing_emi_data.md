@@ -74,22 +74,51 @@ Os comandos **`processamentoZ`** e **`processamentoZbin`** englobam e automatiza
 
 **`echo "04I001.asc janela rr;04I00Ref.asc" > tmp.tmp`**
 
-### Outras informações
+## Miscelânia
 
-* Como alguns dados apresentam inversão de polaridade, recomenda-se realizar o processamento Z para checar o comportamento da curva dos tensores Zxy e Zyx, que em teoria deve ser majoritariamente positivo e negativo, repectivamente.
+### Séries temporais
+Caso o processamento não tenha dado um bom resultado e o problema da estimativa esteja ligada a trechos ruins nas séries temporais, pode-se osbservar e remover trechos ruins da série.
+
+**`egb2tss 04ig001.asc`**
+* *gera um 04ig001.sec no dietório DATA, esse comando tem que ser dado a partir da pasta modelo mas, não requer endereçar o arquivo, pois ele subentende que o arquivo está na pasta DATA.*
+* *Para verificar a série temoporal, dentro da pasta data:*
+
+**`plotTS file.sec`**
+* *Para eliminar trechos ruidosos deve se selecionar o trecho:*
+
+**`cat file.sec 2004-04-10T09 2004-04010T09:30:00 > file.sel`** 
+* *Nesse caso estamos elimina 30 minutos de medida, entre 9:00 e 9:30 de um determinado dia.*
+* *Se quiser eliminar toda série a partir de um ponto:*
+
+**`cat file.sec 2004-04-10T09 end > file.sel`**
+
+* *formato das horas: yyyy-mm-dd-Thh:mm:ss*
+
+* *Para o processamento esse trecho selecionado é armazenado em um arquivo .bad que deve ter o mesmo nome do arquivo .asc ou .bin que será processado**
+
+**`sec2bad file.sec file.sel > 04ig001.bad`**
+* *Uma pasta chamada BAD tem que ser criada pra guardar o file.bad*
+* *Na hora do processamento:* 
+
+**`echo 'file.asc;bad 128 ss' > tmp.tmp`**
+
+* O comando egb2tss só aceita arquivo.asc, portanto, não podemos verificar a série ainda para o caso dos equipamento EMI.
+
+### Inversão de polaridade
+* Como alguns dados apresentam inversão de polaridade, recomenda-se realizar o processamentoZ para checar o comportamento da curva dos tensores Zxy e Zyx, que em teoria deve ser majoritariamente positivo e negativo, repectivamente.
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/curvas%20by%20EMTF/ig001_pol_inv.png' width=500 >
 
 * Após o processamento, se checado que o comportamento das curvas não estão consonantes com a teoria, deve-se verificar na caderneta se existe algum comentário referente aquela aquisição.
 
-* Havendo ou não comentários no relatório de campo, proceda a mudança de polaridade nos **eletrodos**, modificando os sinais nos fatores de ganho do Ex e Ey nos arquivos .sp referente a banda. 
+* Havendo ou não comentários no relatório de campo, proceda a mudança de polaridade nos **eletrodos**, modificando os sinais nos fatores de ganho do Ex e Ey nos arquivos .sp referente a banda e estação. 
 
 * Após avaliação das polaridades via modificação do sinal do eletrodo, é necessário veificar se o tipper tem o mesmo comportamento em estações vizinhas. A mudança de polaridade pode estar associada a problemas na bobina também.
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/curvas%20by%20EMTF/ig001zss.png' width = 500 >
 
-* Após acertada a polaridade, procederíamos fazer a análise das séries temporais, mas comando egb2tss só aceita arquivo.asc, essa parte fica não pode ser realizada.
-Por isso passamos para avaliação das melhores curvas selecionando os pontos por periodo.
+### TOJONES
 
-* O tojone permite selecionar melhores resultados entre diferentes bandas (ex: TS3, TS4...)
+* O tojone permite selecionar melhores resultados entre diferentes bandas (ex: TS3, TS4...), ou apenas excluir pontos:
+
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/tojones/ig001.png' width=500>
 
 
