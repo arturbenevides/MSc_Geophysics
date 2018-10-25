@@ -2,7 +2,7 @@
 @Benevides
 
 
-**Etapas para processamento robusto dos dados MT (adquiridos com o equipamento da EMI) utilizando o pacote EMTF (Egbert e Eisel, 1998) e as otimizações propostas pelo pacote processamentoZ (Marcelo Banik).**
+**Etapas para processamento robusto dos dados MT u tilizando o pacote EMTF (Egbert e Eisel, 1998) e as otimizações propostas pelo pacote processamentoZ (Marcelo Banik).**
 
 
 ## Diretórios pasta modelo:
@@ -59,14 +59,19 @@ Uma vez que todos os arquivos estejam na pasta DATA e os arquivos de parâmetro 
 
 * *Em alguns casos as séries temporais não suportam todos os níveis de decimação (5), para viabilizar o processamento é utilizado nívies menores de decimação. Isso pode ser feito modificando alguns arquivos de controle: options.cfg e bsX.bl. Além disso, o comando é altereado para inclusão de um termo bsX, em que X representa o nível de decimação utilizado.
 
-**`echo "04I0XX_TSX.asc janela ss;bsX" > tmp.tmp`**
+**`echo "04I001.asc janela ss;bsX" > tmp.tmp`**
 * *bsX permite usar outras níveis de decimação, quando chama outros arquivos options.cfg.*
 
 * *O processamento para os arquivos (.bin) da EMI utiliza o comando `processamentoZbin`, mas segue as mesmas regras do processamento convencional.* 
+**`echo "04I001_TSX.bin janela ss;bsX" > tmp.tmp`**
 **`processamentoZbin tmp.tmp`**
-
+(Mais detalhes)[https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/campanha_iguatu_relat%C3%B3rio_de_processamento.md]
 Os comandos **`processamentoZ`** e **`processamentoZbin`** englobam e automatizam os comandos **`dnff`** e **`tranmt`**. 
 
+### Referência remota (rr)
+* *Na referência remota dois parâmetros são modificados/incluidos, o ss passa ser agora rr e devemos informar qual estação será utilizada como referência remota.*
+
+**`echo "04I001.asc janela rr;04I00Ref.asc" > tmp.tmp`**
 
 ### Outras informações
 
