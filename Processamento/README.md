@@ -16,7 +16,7 @@
 - [x] Colocar as coordenadas no header
 
 - [x] Análise de dimensionalidade WALDIM [:mag_right:](https://github.com/arturbenevides/MSc_Geophysics/tree/master/An%C3%A1lise%20de%20Dimensionalidade)
-- [ ] Análise de dimensionalidade phase tensor
+- [x] Análise de dimensionalidade phase tensor[:mag right:](https://github.com/arturbenevides/MSc_Geophysics/tree/master/An%C3%A1lise%20de%20Dimensionalidade)
 
 - [x] Modelagem 3Dgrid
 
