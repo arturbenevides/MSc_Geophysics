@@ -1,4 +1,4 @@
-# Processamento de dados MT (EMI/ADU/LEMI)
+# Processamento de dados MT (ADU/EMI/LEMI)
 @Benevides
 
 
@@ -16,27 +16,27 @@
 
 ## Conversão de dados:
 
-#### Conversão TS - BIN (EMI)
+#### Conversão .ts -> .bin (EMI)
 **`emi2egb rawdata/STN001/04I001.TS4 001 2004-06-04T09:20:00`**
 * *Esse comando permite a conversão do dado do formato .TS para .bin (padrão para o EMTF), os dados convertidos são alocados para as pastas DATA e SP, mesmo os dados estando em uma subpasta em raw data.*
 * *001 é a pasta onde contém os arquivos da estação 001.*
 * *2004-06-04T09:20:00 é a data e o horário definido para primeira estação*. Esse horário pode ser atribuído para todas as estações, mesmo que tenha sido definido um horário de aquisição para cada banda nos arquivos clock. Essa metodologia é utilizada para single station. Para referência remota o procedimento é diferente.*
 
-#### Conversão T - ASC (lemi)
+#### Conversão .t -> .asc (lemi)
 **`lemi-check-time *.txx > time.log`**
 * *Esse comando permite a verificação do tempo de cada arquivo .txx (ex 04ig001a.t59, 04ig001b.t59).* 
 
 **`lemi-check-runs time.log > runs.log`**
-* *Esse comandoagrupa os arquivos .t que pertencem a mesma contagem e que nos permite verificar qual a maior série.*
-* *A maior sequencia deve ser copiada e juntada em um único arquivo, como mostrado abaixo:*
+* *O comando acima agrupa os arquivos .t que pertencem a mesma contagem. O agrupamento permite verificar qual a maior série.*
+* *A maior sequencia deve ser copiada e concatenada em um único arquivo, como mostrado abaixo:*
 
 **`cat 04ig001a.t 04ig001b.t 05ig001h.t 04ig001p.t > 04ig001.t`**
-* *Os arquivos estão prontos para fazer a conversão. Dentro da pasta modelo procedemos com o comando de conversão.*
+* *Os arquivos estão prontos para fazer a conversão. Dentro da pasta modelo procedemos com o comando de conversão `lemi2egb`.*
 
 **`lemi2egb rawdata/STN001/04IG001.t`**
 * * O arquivo convertido (.asc) será direcionado a pasta DATA e o arquivo dos parâmetros para a pasta SP.*
 
-#### Conversão ATS - ASC (ADU)
+#### Conversão .ats -> .asc (ADU)
 
 **`ats2asc rawdata/STN001/04IG001.ats`**
 
@@ -44,7 +44,7 @@
 
 
 ## Processamento 
-Todos os arquivos são processados utilizando o comando **`processamentoZ`**, exceto os arquivos .bin (Emi) que utilizam o comando **`processamentoZbin`**.
+Uma vez que todos os arquivos estejam na pasta DATA e os arquivos de parâmetro na pasta SP, eles podem ser processados utilizando o comando **`processamentoZ`**, exceto os arquivos .bin (Emi) que utilizam o comando **`processamentoZbin`**. O processamento pode ser feito como single station ou com referência remota. 
 
 ### Single station (ss)
 
@@ -56,12 +56,17 @@ Todos os arquivos são processados utilizando o comando **`processamentoZ`**, ex
 **`processamentoZ tmp.tmp`**
 * *O processamento recebe o arquivo temp contendo o nome do arquivo, a janela e a opção ss que significa single station*
 * *Como resultado, temos o armazenamento dos coeficientes de fourier nas pastas FCXXXXX e das funções de transferência na pasta MTXXXX;*
-O comando **`processamentoZbin`** engloba os comandos **`dnff`** e **`tranmt`**. Os produtos são as funções de transferência armazenadas na pasta MTXXX. 
+ 
 
 
 **`processamentoZbin tmp.tmp`**
 **`echo "04I0XX_TSX.bin janela ss;bsX" > tmp.tmp`**
 * *bsX permite usar outras níveis de decimação, quando chama outros arquivos options.cfg.*
+
+
+
+Os comandos **`processamentoZ`** e **`processamentoZbin`** englobam e automatizam os comandos **`dnff`** e **`tranmt`**. 
+
 
 ### Outras informações
 
