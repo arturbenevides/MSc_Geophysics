@@ -70,7 +70,7 @@ Uma vez que todos os arquivos estejam na pasta DATA e os arquivos de parâmetro 
 Os comandos **`processamentoZ`** e **`processamentoZbin`** englobam e automatizam os comandos **`dnff`** e **`tranmt`**. 
 
 ### Referência remota (rr)
-* *Na referência remota dois parâmetros são modificados/incluidos, o ss passa ser agora rr e devemos informar qual estação será utilizada como referência remota.*
+* *Na referência remota dois parâmetros são modificados/incluidos, o ss passa ser rr e devemos informar qual estação será utilizada como referência remota.*
 
 **`echo "04I001.asc janela rr;04I00Ref.asc" > tmp.tmp`**
 
