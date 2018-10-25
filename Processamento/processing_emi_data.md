@@ -34,13 +34,13 @@
 * *Os arquivos estão prontos para fazer a conversão. Dentro da pasta modelo procedemos com o comando de conversão `lemi2egb`.*
 
 **`lemi2egb rawdata/STN001/04IG001.t`**
-* * O arquivo convertido (.asc) será direcionado a pasta DATA e o arquivo dos parâmetros para a pasta SP.*
+* *O arquivo convertido (.asc) será direcionado a pasta DATA e o arquivo dos parâmetros para a pasta SP.*
 
 #### Conversão .ats -> .asc (ADU)
 
 **`ats2asc rawdata/STN001/04IG001.ats`**
 
-* * esse comando deve ser dado dentro da pasta modelo apontando a pasta que contem os arquivos ats. Os arquivos .asc convertidos serão armazenados na pasta DATA.*
+* *Esse comando deve ser dado dentro da pasta modelo apontando a pasta que contem os arquivos ats. Os arquivos .asc convertidos serão armazenados na pasta DATA.*
 
 
 ## Processamento 
@@ -56,14 +56,14 @@ Uma vez que todos os arquivos estejam na pasta DATA e os arquivos de parâmetro 
 **`processamentoZ tmp.tmp`**
 * *O processamento recebe o arquivo temp contendo o nome do arquivo, a janela e a opção ss que significa single station*
 * *Como resultado, temos o armazenamento dos coeficientes de fourier nas pastas FCXXXXX e das funções de transferência na pasta MTXXXX;*
- 
 
+* *Em alguns casos as séries temporais não suportam todos os níveis de decimação (5), para viabilizar o processamento é utilizado nívies menores de decimação. Isso pode ser feito modificando alguns arquivos de controle: options.cfg e bsX.bl. Além disso, o comando é altereado para inclusão de um termo bsX, em que X representa o nível de decimação utilizado.
 
-**`processamentoZbin tmp.tmp`**
-**`echo "04I0XX_TSX.bin janela ss;bsX" > tmp.tmp`**
+**`echo "04I0XX_TSX.asc janela ss;bsX" > tmp.tmp`**
 * *bsX permite usar outras níveis de decimação, quando chama outros arquivos options.cfg.*
 
-
+* *O processamento para os arquivos (.bin) da EMI utiliza o comando `processamentoZbin`, mas segue as mesmas regras do processamento convencional.* 
+**`processamentoZbin tmp.tmp`**
 
 Os comandos **`processamentoZ`** e **`processamentoZbin`** englobam e automatizam os comandos **`dnff`** e **`tranmt`**. 
 
