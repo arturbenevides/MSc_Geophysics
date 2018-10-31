@@ -45,7 +45,7 @@ Atividade| ~~jan~~ | ~~fev~~| ~~mar~~| ~~abr~~| ~~mai~~| ~~jun~~| ~~jul~~| ~~ago
 
 - [ ] 2018
 
-Atividade| ~~jan~~ | ~~fev~~| ~~mar~~| ~~abr~~| ~~mai~~|~~jun~~| ~~jul~~| ~~ago~~|~~set~~| out| nov| dez
+Atividade| ~~jan~~ | ~~fev~~| ~~mar~~| ~~abr~~| ~~mai~~|~~jun~~| ~~jul~~| ~~ago~~|~~set~~|~~out~~| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
 2        | *     |*     |*     |*     |*     |*     |*     |*    |*     |*     |*     |*
 3        | *     |*     |*     |*     |*     |*     |*     | *   |      |      |      |
@@ -141,7 +141,7 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [x] De Castro, DL., Castelo Branco, R. (1999). Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
 
-- [ ] De CASTRO, DL., BEZERRA, F., CASTELO BRANCO, R., 2008, Geophysical evidence of crustal-heterogeneity control of fault growth in the Neocomian Iguatu basin, NE Brazil", Journal of South American Earth Sciences, v. 3, n. 26, pp. 271 - 285.
+- [x] De CASTRO, DL., BEZERRA, F., CASTELO BRANCO, R., 2008, Geophysical evidence of crustal-heterogeneity control of fault growth in the Neocomian Iguatu basin, NE Brazil", Journal of South American Earth Sciences, v. 3, n. 26, pp. 271 - 285.
 
 - [x] Vasconcelos A. M. et al., (1998). Programa Levantamentos Geológicos Básicos do Brasil (PLGB) Carta Geológica - Folha de Iguatu SB.24-Y-B. Serviço Geológic do Brasil. Superintendências Regional de Recife; Residência de Fortaleza; Departamento de Geologia.
  
