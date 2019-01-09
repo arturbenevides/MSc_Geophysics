@@ -122,9 +122,11 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 - [ ] Cagniard, L (1953). Basic theory of the magnetotelluric method of geophysical prospecting. Geophysics 18: 605-645.
 
 - [ ] Tikhonov, A. N. (1950). The determination of the eletrical properties of deep layers of the Earth's crust. Dokl. Acad. Nauk. SSR 73: 295-297 (in Russian). (1986). On determining eletrical characteristics of the deep layers of the Earth's crust. In Manetotelluric Methods, ed. K. Vozoff. Tulsa: Society of Exploration Geophysicists, pp. 2-3.
-- [x] Padilha, Antonio L., et al. (2014) "Deep magnetotelluric signatures of the early Neoproterozoic Cariris Velhos tectonic event within the Transversal sub-province of the Borborema Province, NE Brazil." Precambrian Research 275: 70-83.
 
+- [x] Padilha, Antonio L., et al. (2014) "Electromagnetic constraints for subduction zones beneath the northwest Borborema province: Evidence for Neoproterozoic island arc–continent collision in northeast Brazil." Geology 42.1: 91-94.
 - [x] Santos, Andrea CL, et al. (2014) "Deep structure of a stretched lithosphere: Magnetotelluric imaging of the southeastern Borborema province, NE Brazil." Tectonophysics 610: 39-50.
+- [x] Padilha, Antonio L., et al. (2016) "Deep magnetotelluric signatures of the early Neoproterozoic Cariris Velhos tectonic event within the Transversal sub-province of the Borborema Province, NE Brazil." Precambrian Research 275: 70-83.
+- [x] Padilha, Antonio L., et al. (2017) "Cryptic signatures of Neoproterozoic accretionary events in northeast Brazil imaged by magnetotellurics: Implications for the assembly of West Gondwana." Tectonophysics 699: 164-177.
 
 ### ModEM / MT aplicado no brasil
 - [x] Figueiredo, I. (1997) , Investigação Magnetotelúrica nas Serras do Sudeste Brasileiro (RJ/MG): uma Proposta de Modelo Crustal. Tese de D.Sc., Observatório Nacional, Rio de Janeiro, RJ, Brasil
