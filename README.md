@@ -123,11 +123,6 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [ ] Tikhonov, A. N. (1950). The determination of the eletrical properties of deep layers of the Earth's crust. Dokl. Acad. Nauk. SSR 73: 295-297 (in Russian). (1986). On determining eletrical characteristics of the deep layers of the Earth's crust. In Manetotelluric Methods, ed. K. Vozoff. Tulsa: Society of Exploration Geophysicists, pp. 2-3.
 
-- [x] Padilha, Antonio L., et al. (2014) "Electromagnetic constraints for subduction zones beneath the northwest Borborema province: Evidence for Neoproterozoic island arc–continent collision in northeast Brazil." Geology 42.1: 91-94.
-- [x] Santos, Andrea CL, et al. (2014) "Deep structure of a stretched lithosphere: Magnetotelluric imaging of the southeastern Borborema province, NE Brazil." Tectonophysics 610: 39-50.
-- [x] Padilha, Antonio L., et al. (2016) "Deep magnetotelluric signatures of the early Neoproterozoic Cariris Velhos tectonic event within the Transversal sub-province of the Borborema Province, NE Brazil." Precambrian Research 275: 70-83.
-- [x] Padilha, Antonio L., et al. (2017) "Cryptic signatures of Neoproterozoic accretionary events in northeast Brazil imaged by magnetotellurics: Implications for the assembly of West Gondwana." Tectonophysics 699: 164-177.
-
 ### ModEM / MT aplicado no brasil
 - [x] Figueiredo, I. (1997) , Investigação Magnetotelúrica nas Serras do Sudeste Brasileiro (RJ/MG): uma Proposta de Modelo Crustal. Tese de D.Sc., Observatório Nacional, Rio de Janeiro, RJ, Brasil
 
@@ -135,22 +130,31 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [ ] Antunes, C. S. (2012). Tomografia de condutividade elétrica sob a bacia do Paraná utilizando dados do campo geomagnético. Dissertação de Mestrado. INPE, São José dos Campos, sp, Brasil. (Comentários Inversão).
 
-* Andrea Cristina Unb, Padilha e Nina (Borborema).
+- [x] Padilha, Antonio L., et al. (2014) "Electromagnetic constraints for subduction zones beneath the northwest Borborema province: Evidence for Neoproterozoic island arc–continent collision in northeast Brazil." Geology 42.1: 91-94.
+- [x] Santos, Andrea CL, et al. (2014) "Deep structure of a stretched lithosphere: Magnetotelluric imaging of the southeastern Borborema province, NE Brazil." Tectonophysics 610: 39-50.
+- [x] Padilha, Antonio L., et al. (2016) "Deep magnetotelluric signatures of the early Neoproterozoic Cariris Velhos tectonic event within the Transversal sub-province of the Borborema Province, NE Brazil." Precambrian Research 275: 70-83.
+- [x] Padilha, Antonio L., et al. (2017) "Cryptic signatures of Neoproterozoic accretionary events in northeast Brazil imaged by magnetotellurics: Implications for the assembly of West Gondwana." Tectonophysics 699: 164-177.
+
 ### Bacia do Iguatu
 
-- [x] Arima, N. (2007), Análise Estatigráfica da Bacia do Iguatu, CE. Ph.D. dissertation, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil.
+- [x] Matos, Renato M. Darros. (1992) "The northeast Brazilian rift system." Tectonics 11.4: 766-791.
 
-- [x] Bendelak, M., R. (2004) Caracterização da Folha Iguatu (Região Centro-Sul do Estado do Ceará) Integrando Dados Aerogeofísicos, Geológicos e de Imagens de Satélite. Tese de Doutorado. Universidade de São Paulo, São Paulo, SP, Brasil.
-
-- [x] Feitosa F. A. C. et al., 2004. Estudos Hidrogeológicos de Bacias Sedimentares da Região Semi-árida do Nordeste Brasileiro. Serviço Geológico do Brasil. 
+- [x] Vasconcelos A. M. et al., (1998). Programa Levantamentos Geológicos Básicos do Brasil (PLGB) Carta Geológica - Folha de Iguatu SB.24-Y-B. Serviço Geológic do Brasil. Superintendências Regional de Recife; Residência de Fortaleza; Departamento de Geologia.
 
 - [x] De Castro, DL., Castelo Branco, R. (1999). Caracterização da Arquitetura Interna das bacias do Vale do Cariri (NE do Brasil) com base em modelagem gravimétrica 3-D", Brazilian Journal of Geophysics, v. 17, n. 2,3, pp. 131{144}
 
-- [x] De CASTRO, DL., BEZERRA, F., CASTELO BRANCO, R., 2008, Geophysical evidence of crustal-heterogeneity control of fault growth in the Neocomian Iguatu basin, NE Brazil", Journal of South American Earth Sciences, v. 3, n. 26, pp. 271 - 285.
+- [x] Bendelak, M., R. (2004) Caracterização da Folha Iguatu (Região Centro-Sul do Estado do Ceará) Integrando Dados Aerogeofísicos, Geológicos e de Imagens de Satélite. Tese de Doutorado. Universidade de São Paulo, São Paulo, SP, Brasil.
 
-- [x] Vasconcelos A. M. et al., (1998). Programa Levantamentos Geológicos Básicos do Brasil (PLGB) Carta Geológica - Folha de Iguatu SB.24-Y-B. Serviço Geológic do Brasil. Superintendências Regional de Recife; Residência de Fortaleza; Departamento de Geologia.
+- [x] Feitosa F. A. C. et al., (2004). Estudos Hidrogeológicos de Bacias Sedimentares da Região Semi-árida do Nordeste Brasileiro. Serviço Geológico do Brasil. 
+
+- [x] MARÇAL, A., FONTES, S., FLEXOR, J., et al., (2005), “Estudos Magnetotelúricos na Bacia do Iguatu (CE): Primeiros resultados”. In: 9 the International Congress of the Brazilian Geophysical Society, Salvador.
+
+- [x] Arima, N. (2007), Análise Estatigráfica da Bacia do Iguatu, CE. Ph.D. dissertation, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil.
+
+- [x] De CASTRO, DL., BEZERRA, F., CASTELO BRANCO, R., (2008), Geophysical evidence of crustal-heterogeneity control of fault growth in the Neocomian Iguatu basin, NE Brazil", Journal of South American Earth Sciences, v. 3, n. 26, pp. 271 - 285.
+
  
-- [x] MARÇAL, A., FONTES, S., FLEXOR, J., et al., 2005, “Estudos Magnetotelúricos na Bacia do Iguatu (CE): Primeiros resultados”. In: 9 the International Congress of the Brazilian Geophysical Society, Salvador.
+
 
 *Bedregal, R. P (1991), Darros de Matos (1987, 1992) e brito neves
 
