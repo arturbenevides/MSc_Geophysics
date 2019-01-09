@@ -45,7 +45,7 @@ Atividade| ~~jan~~ | ~~fev~~| ~~mar~~| ~~abr~~| ~~mai~~| ~~jun~~| ~~jul~~| ~~ago
 
 - [ ] 2018
 
-Atividade| ~~jan~~ | ~~fev~~| ~~mar~~| ~~abr~~| ~~mai~~|~~jun~~| ~~jul~~| ~~ago~~|~~set~~|~~out~~| nov| dez
+Atividade| ~~jan~~ | ~~fev~~| ~~mar~~| ~~abr~~| ~~mai~~|~~jun~~| ~~jul~~| ~~ago~~|~~set~~|~~out~~| ~~nov~~| ~~dez~~
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
 2        | *     |*     |*     |*     |*     |*     |*     |*    |*     |*     |*     |*
 3        | *     |*     |*     |*     |*     |*     |*     | *   |      |      |      |
@@ -122,11 +122,13 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 - [ ] Cagniard, L (1953). Basic theory of the magnetotelluric method of geophysical prospecting. Geophysics 18: 605-645.
 
 - [ ] Tikhonov, A. N. (1950). The determination of the eletrical properties of deep layers of the Earth's crust. Dokl. Acad. Nauk. SSR 73: 295-297 (in Russian). (1986). On determining eletrical characteristics of the deep layers of the Earth's crust. In Manetotelluric Methods, ed. K. Vozoff. Tulsa: Society of Exploration Geophysicists, pp. 2-3.
+- [x] Padilha, Antonio L., et al. "Deep magnetotelluric signatures of the early Neoproterozoic Cariris Velhos tectonic event within the Transversal sub-province of the Borborema Province, NE Brazil." Precambrian Research 275 (2016): 70-83.
+
 
 ### ModEM / MT aplicado no brasil
 - [x] Figueiredo, I. (1997) , Investigação Magnetotelúrica nas Serras do Sudeste Brasileiro (RJ/MG): uma Proposta de Modelo Crustal. Tese de D.Sc., Observatório Nacional, Rio de Janeiro, RJ, Brasil
 
-- [ ] Horvath, K. A. (2017). Estruturas geoelétricas da litosfera sob a porção central da bacia do Paraná a partir de um perfil magnetotelúrico. Dissertação de Mestrado. INPE, São José dos Campos, sp, Brasil. 
+- [x] Horvath, K. A. (2017). Estruturas geoelétricas da litosfera sob a porção central da bacia do Paraná a partir de um perfil magnetotelúrico. Dissertação de Mestrado. INPE, São José dos Campos, sp, Brasil. 
 
 - [ ] Antunes, C. S. (2012). Tomografia de condutividade elétrica sob a bacia do Paraná utilizando dados do campo geomagnético. Dissertação de Mestrado. INPE, São José dos Campos, sp, Brasil. (Comentários Inversão).
 
@@ -145,7 +147,7 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [x] Vasconcelos A. M. et al., (1998). Programa Levantamentos Geológicos Básicos do Brasil (PLGB) Carta Geológica - Folha de Iguatu SB.24-Y-B. Serviço Geológic do Brasil. Superintendências Regional de Recife; Residência de Fortaleza; Departamento de Geologia.
  
- - [x] MARÇAL, A., FONTES, S., FLEXOR, J., et al., 2005, “Estudos Magnetotelúricos na Bacia do Iguatu (CE): Primeiros resultados”. In: 9 the International Congress of the Brazilian Geophysical Society, Salvador.
+- [x] MARÇAL, A., FONTES, S., FLEXOR, J., et al., 2005, “Estudos Magnetotelúricos na Bacia do Iguatu (CE): Primeiros resultados”. In: 9 the International Congress of the Brazilian Geophysical Society, Salvador.
 
 *Bedregal, R. P (1991), Darros de Matos (1987, 1992) e brito neves
 
@@ -156,7 +158,7 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [ ] CAVALCANTE, Itabaraci Nazareno. (1998). Fundamentos hidrogeológicos para a gestão integrada de recursos hídricos na Região Metropolitana de Fortaleza, Estado do Ceará. São Paulo: USP. Instituto de Geociências, 164p. Tese (Doutorado) – Universidade de São Paulo
 
-- [ ] RIBEIRO, J., MELO, F., FEITOSA, F., et al., 2000, “Contribuição hidroquímica para o conhecimento das bacias do Iguatu – CE”. In: 1 st Joint World Congress on Groundwater, p. v.1., Fortaleza.
+- [x] RIBEIRO, J., MELO, F., FEITOSA, F., et al., 2000, “Contribuição hidroquímica para o conhecimento das bacias do Iguatu – CE”. In: 1 st Joint World Congress on Groundwater, p. v.1., Fortaleza.
 
 - [ ] Estudos Hidrogeológicos CPRM.
 
