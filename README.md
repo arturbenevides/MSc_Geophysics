@@ -75,7 +75,7 @@ _
 Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|   nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
 2017     |       |      |Início|      |      |      |     |      |~~1º Seminar~~||   |~~Disciplinas (Fim)~~
-2018     |       |      |~~Relatório~~||     |      | ~~24 EMIW~~ |:bowtie:~~[49º CBG](https://github.com/arturbenevides/apresentacoes)~~ |~~~2º Seminar~~|      | |Dissertação (Deadline)
+2018     |       |      |~~Relatório~~||     |      | ~~24 EMIW~~ |:bowtie:~~[49º CBG](https://github.com/arturbenevides/apresentacoes)~~ |~~2º Seminar~~|      | |Dissertação (Deadline)
 2019     |       |Paper (Deadline) | :bowtie: Defesa| :checkered_flag:    |      |      |     |      |      |      |      |
 
 
@@ -122,8 +122,9 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 - [ ] Cagniard, L (1953). Basic theory of the magnetotelluric method of geophysical prospecting. Geophysics 18: 605-645.
 
 - [ ] Tikhonov, A. N. (1950). The determination of the eletrical properties of deep layers of the Earth's crust. Dokl. Acad. Nauk. SSR 73: 295-297 (in Russian). (1986). On determining eletrical characteristics of the deep layers of the Earth's crust. In Manetotelluric Methods, ed. K. Vozoff. Tulsa: Society of Exploration Geophysicists, pp. 2-3.
-- [x] Padilha, Antonio L., et al. "Deep magnetotelluric signatures of the early Neoproterozoic Cariris Velhos tectonic event within the Transversal sub-province of the Borborema Province, NE Brazil." Precambrian Research 275 (2016): 70-83.
+- [x] Padilha, Antonio L., et al. (2014) "Deep magnetotelluric signatures of the early Neoproterozoic Cariris Velhos tectonic event within the Transversal sub-province of the Borborema Province, NE Brazil." Precambrian Research 275: 70-83.
 
+- [x] Santos, Andrea CL, et al. (2014) "Deep structure of a stretched lithosphere: Magnetotelluric imaging of the southeastern Borborema province, NE Brazil." Tectonophysics 610: 39-50.
 
 ### ModEM / MT aplicado no brasil
 - [x] Figueiredo, I. (1997) , Investigação Magnetotelúrica nas Serras do Sudeste Brasileiro (RJ/MG): uma Proposta de Modelo Crustal. Tese de D.Sc., Observatório Nacional, Rio de Janeiro, RJ, Brasil
