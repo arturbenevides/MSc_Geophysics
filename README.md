@@ -107,7 +107,7 @@ Abaixo estão listada as bibliografias mais importantes/utilizadas na elaboraç�
 - [ ] Antunes, C. S. (2012). Tomografia de condutividade elétrica sob a bacia do Paraná utilizando dados do campo geomagnético.
 Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
-- [ ] Kelbert, A., Meqbel, N., Egbert, G. D., et al. (2014). ModEM: A modular system for inversion of electromagnetic geophysical data", Computers & Geosciences, v. 66, pp. 40-53
+- [x] Kelbert, A., Meqbel, N., Egbert, G. D., et al. (2014). ModEM: A modular system for inversion of electromagnetic geophysical data", Computers & Geosciences, v. 66, pp. 40-53
 
 - [ ] Simpson, F., Bahr, K., (2005), Practical magnetotellurics. Cambridge University Press.
 
@@ -115,13 +115,13 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [ ] CHAVE, A. D., THOMSON, D. J., 1989, “Some comments on magnetotelluric response function estimation”, Journal of Geophysical Research: Solid Earth, v. 94, n. B10, pp. 14215–14225
 
-- [ ] EGBERT, G. D., BOOKER, J. R., 1986, Robust estimation of geomagnetic transfer functions, Geophysical Journal International, v. 87, n. 1, pp. 173-194.
+- [x] EGBERT, G. D., BOOKER, J. R., 1986, Robust estimation of geomagnetic transfer functions, Geophysical Journal International, v. 87, n. 1, pp. 173-194.
 
-- [ ] Vozoff, K. (1972)  The magnetotelluric method in the exploration of sedimentary basins. Geophysics 37: 98-141.
+- [x] Vozoff, K. (1972)  The magnetotelluric method in the exploration of sedimentary basins. Geophysics 37: 98-141.
 
-- [ ] Cagniard, L (1953). Basic theory of the magnetotelluric method of geophysical prospecting. Geophysics 18: 605-645.
+- [x] Cagniard, L (1953). Basic theory of the magnetotelluric method of geophysical prospecting. Geophysics 18: 605-645.
 
-- [ ] Tikhonov, A. N. (1950). The determination of the eletrical properties of deep layers of the Earth's crust. Dokl. Acad. Nauk. SSR 73: 295-297 (in Russian). (1986). On determining eletrical characteristics of the deep layers of the Earth's crust. In Manetotelluric Methods, ed. K. Vozoff. Tulsa: Society of Exploration Geophysicists, pp. 2-3.
+- [x] Tikhonov, A. N. (1950). The determination of the eletrical properties of deep layers of the Earth's crust. Dokl. Acad. Nauk. SSR 73: 295-297 (in Russian). (1986). On determining eletrical characteristics of the deep layers of the Earth's crust. In Manetotelluric Methods, ed. K. Vozoff. Tulsa: Society of Exploration Geophysicists, pp. 2-3.
 
 ### ModEM / MT aplicado no brasil
 - [x] Figueiredo, I. (1997) , Investigação Magnetotelúrica nas Serras do Sudeste Brasileiro (RJ/MG): uma Proposta de Modelo Crustal. Tese de D.Sc., Observatório Nacional, Rio de Janeiro, RJ, Brasil
