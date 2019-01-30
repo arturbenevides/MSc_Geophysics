@@ -59,8 +59,9 @@ Atividade| ~~jan~~ | ~~fev~~| ~~mar~~| ~~abr~~| ~~mai~~|~~jun~~| ~~jul~~| ~~ago~
 
 - [ ] 2019
 
-Atividade| jan | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
+Atividade| ~~jan~~ | fev| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
+8        |    *  |      |      |      |      |      |      |     |      |      |      | 
 9        |       |  *   |      |      |      |      |      |     |      |      |      |
  
 
