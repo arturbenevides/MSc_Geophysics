@@ -112,9 +112,9 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [ ] Simpson, F., Bahr, K., (2005), Practical magnetotellurics. Cambridge University Press.
 
-- [ ] Meju, A. M. (1996). Joint inversion of TEM and distorted MT soundings: some effective pratical considerations. Geophysics 61: 56-65.
+- [x] Meju, A. M. (1996). Joint inversion of TEM and distorted MT soundings: some effective pratical considerations. Geophysics 61: 56-65.
 
-- [ ] CHAVE, A. D., THOMSON, D. J., 1989, “Some comments on magnetotelluric response function estimation”, Journal of Geophysical Research: Solid Earth, v. 94, n. B10, pp. 14215–14225
+- [x] CHAVE, A. D., THOMSON, D. J., 1989, “Some comments on magnetotelluric response function estimation”, Journal of Geophysical Research: Solid Earth, v. 94, n. B10, pp. 14215–14225
 
 - [x] EGBERT, G. D., BOOKER, J. R., 1986, Robust estimation of geomagnetic transfer functions, Geophysical Journal International, v. 87, n. 1, pp. 173-194.
 
