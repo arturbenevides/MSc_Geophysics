@@ -110,7 +110,7 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 
 - [x] Kelbert, A., Meqbel, N., Egbert, G. D., et al. (2014). ModEM: A modular system for inversion of electromagnetic geophysical data", Computers & Geosciences, v. 66, pp. 40-53
 
-- [ ] Simpson, F., Bahr, K., (2005), Practical magnetotellurics. Cambridge University Press.
+- [x] Simpson, F., Bahr, K., (2005), Practical magnetotellurics. Cambridge University Press.
 
 - [x] Meju, A. M. (1996). Joint inversion of TEM and distorted MT soundings: some effective pratical considerations. Geophysics 61: 56-65.
 
