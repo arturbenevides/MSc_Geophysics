@@ -104,10 +104,6 @@ _
 Abaixo estão listada as bibliografias mais importantes/utilizadas na elaboração da dissertação:
 
 ### MT
-
-- [ ] Antunes, C. S. (2012). Tomografia de condutividade elétrica sob a bacia do Paraná utilizando dados do campo geomagnético.
-Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
-
 - [x] Kelbert, A., Meqbel, N., Egbert, G. D., et al. (2014). ModEM: A modular system for inversion of electromagnetic geophysical data", Computers & Geosciences, v. 66, pp. 40-53
 
 - [x] Simpson, F., Bahr, K., (2005), Practical magnetotellurics. Cambridge University Press.
@@ -153,11 +149,6 @@ Dissertação de mestrado. INPE, São José dos Campos, SP, Brasil.
 - [x] Arima, N. (2007), Análise Estatigráfica da Bacia do Iguatu, CE. Ph.D. dissertation, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil.
 
 - [x] De CASTRO, DL., BEZERRA, F., CASTELO BRANCO, R., (2008), Geophysical evidence of crustal-heterogeneity control of fault growth in the Neocomian Iguatu basin, NE Brazil", Journal of South American Earth Sciences, v. 3, n. 26, pp. 271 - 285.
-
- 
-
-
-*Bedregal, R. P (1991), Darros de Matos (1987, 1992) e brito neves
 
 
 ## Hidrogeologia 
