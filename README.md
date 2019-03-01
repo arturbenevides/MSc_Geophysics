@@ -30,7 +30,7 @@ N° |Atividade
 4| [Correção *Static Shift*](https://github.com/arturbenevides/MSc_Geophysics/tree/master/Processamento/Transiente%20Eletromagn%C3%A9tico)
 5| [Análise de Dimensionalidade](https://github.com/arturbenevides/MSc_Geophysics/tree/master/An%C3%A1lise%20de%20Dimensionalidade) 
 6| [Modelagem e Inversão](https://github.com/arturbenevides/MSc_Geophysics/tree/master/ModEM) 
-7| Integração de dados e Interpretação
+7| Interpretação Geofísica Geológica
 8| Redação da dissertação e do artigo  
 9| Submissão de artigo e defesa da dissertação	
  
