@@ -1,5 +1,5 @@
 # Modular System Eletromanetic - ModEM
-**Rotina para modelagem e inversão .**
+**Rotina prática para modelagem e inversão .**
 
 
 ## 3D grid
