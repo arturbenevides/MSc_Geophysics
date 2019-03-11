@@ -37,9 +37,10 @@
 
 #### Conversão .ats -> .asc (ADU)
 
-**`ats2asc rawdata/STN001/04IG001.ats`**
+**`ats2asc --site-name *nome* rawdata/STN001/`**
 
 * *Esse comando deve ser dado dentro da pasta modelo apontando a pasta que contem os arquivos ats. Os arquivos .asc convertidos serão armazenados na pasta DATA.*
+* nome: deve ser substituido por um nome referente a estação
 
 
 ## Processamento 
