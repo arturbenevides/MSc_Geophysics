@@ -7,9 +7,9 @@ Benevides, A.
 ## 3D grid
 Interface gráfica utilzada para geração de arquivos modelo, dado e covariância no formato do ModEM, além de auxiliar na visualização dos resultados.
 
-* *Passos iniciais:
+* Passos iniciais:
 - Importar os dados .edi ou .dat (modem) 
-* Criar modelo, definir parâmetros do grid: 
+>* Criar modelo, definir parâmetros do grid: 
  * resistividade do semi-espaço;
  * n. de células nas direções x e y;
  * dimensão das células x e y;
