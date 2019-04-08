@@ -18,13 +18,13 @@ Interface gráfica utilzada para geração de arquivos modelo, dado e covariânc
  * esperssura da primeira camada e fator de crescimento.
  
 3. Após a criação do modelo é necessário certificar se cada estação está ocupando apenas uma célula:
- *TOOLS> Center all Station > In X,Y and Z directions;
+ *TOOLS> Center all Station > In X,Y and Z directions*;
 
 4. Incluir topografia e/ou batimetria:
- *TOOLS> TOPO/Bathymetry > From SRTM ou Load TOPO/Batrymetry from XYZ File
+ *TOOLS> TOPO/Bathymetry > From SRTM ou Load TOPO/Batrymetry from XYZ File*
  
 5. Se o dado foi adquirido próximo a costa é necessário incluir o efeito do oceano
- *TOOLS >  ADD Sea sediment Layers > Cell wise and Thikness-wise 
+ *TOOLS >  ADD Sea sediment Layers > Cell wise and Thikness-wise* 
 
 6. Após definição dos parâmetros do grid, deve-se:
 >* Salvar o modelo: FILE > save model > Full Model (modelo completo);
@@ -32,10 +32,16 @@ Interface gráfica utilzada para geração de arquivos modelo, dado e covariânc
 >+ Salvar o arquivo de covariância, se houver modificações de resistividade (criação de modelo a priori) ou suavização;
 
 7. Dados: Os dados podem ser verificados em View/Edit Data
-Opções possíveis para os dados:
- * Mascarar pontos indesejados,
- * Interporlar 
->+ Salvar os dados no formato ModEM .dat;
+Opções possíveis para os dados: Mascarar pontos indesejados, Interporlar e Rotacionar.
+
+8. Salvar os dados no formato ModEM .dat: 
+*FILE> Save Data > EM Modular System > All sites.*
+Opções:
+Off diagonal, Full Impedance, Tipper, Phase Tensor etc..
+Error setting:
+Use Data Error; 
+Set Error Floors: escolher a porcentagem de erro e o método de cálculo. 
+Use periods layout
 
 
 >+ Salvar os dados sintéticos (obter layout dos períodos).
