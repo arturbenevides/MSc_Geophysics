@@ -1,4 +1,5 @@
-# ModEM - Modular System for Electromagnetic Inversion (Egbert and Kelbert, 2012; Kelbert et al., 2014).
+# ModEM - Modular System for Electromagnetic Inversion 
+(Egbert and Kelbert, 2012; Kelbert et al., 2014).
 **Rotina prática para modelagem e inversão .**
 
 
