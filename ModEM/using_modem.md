@@ -8,7 +8,7 @@ Benevides, A.
 Interface gráfica utilzada para geração de arquivos modelo, dado e covariância no formato do ModEM, além de auxiliar na visualização dos resultados.
 
 * *Passos iniciais:
-* Importar os dados .edi ou .dat (modem) 
+- Importar os dados .edi ou .dat (modem) 
 * Criar modelo, definir parâmetros do grid: 
  * resistividade do semi-espaço;
  * n. de células nas direções x e y;
