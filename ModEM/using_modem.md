@@ -43,9 +43,6 @@ Use Data Error;
 Set Error Floors: escolher a porcentagem de erro e o método de cálculo. 
 Use periods layout
 
-
->+ Salvar os dados sintéticos (obter layout dos períodos).
-
 ## ModEM
 
 ### Forward Modelling
