@@ -8,8 +8,8 @@ Benevides, A.
 Interface gráfica utilzada para geração de arquivos modelo, dado e covariância no formato do ModEM, além de auxiliar na visualização dos resultados.
 
 * Passos iniciais:
-1. Importar os dados .edi ou .dat (modem) 
->1 Criar modelo, definir parâmetros do grid: 
+1. Importar os dados .edi ou .dat (ModEM) 
+2. Criar modelo, definir parâmetros do grid: 
  * resistividade do semi-espaço;
  * n. de células nas direções x e y;
  * dimensão das células x e y;
@@ -17,19 +17,24 @@ Interface gráfica utilzada para geração de arquivos modelo, dado e covariânc
  * n. de células em Z;
  * esperssura da primeira camada e fator de crescimento.
  
-* Após a criação do modelo é necessário certificar se cada estação está ocupando apenas uma célula:
+3. Após a criação do modelo é necessário certificar se cada estação está ocupando apenas uma célula:
  *TOOLS> Center all Station > In X,Y and Z directions;
 
-* Incluir topografia e/ou batimetria:
+4. Incluir topografia e/ou batimetria:
  *TOOLS> TOPO/Bathymetry > From SRTM ou Load TOPO/Batrymetry from XYZ File
  
-* Se o dado foi adquirido próximo a costa é necessário incluir o efeito do oceano
+5. Se o dado foi adquirido próximo a costa é necessário incluir o efeito do oceano
  *TOOLS >  ADD Sea sediment Layers > Cell wise and Thikness-wise 
 
-Após definição dos parâmetros do grid, deve-se:
->* Salvar o modelo (large model);
->* Salvar o modelo reduzido (nested model) - para casos em que se queira otimizar a inversão;
->+ Salvar o arquivo de covariância, se houver modificações de resistividade ou suavização;
+6. Após definição dos parâmetros do grid, deve-se:
+>* Salvar o modelo: FILE > save model > Full Model (modelo completo);
+>* Salvar o modelo reduzido (nested model): FILE > save model > Displayed Model.  Essa função permite otimizar a inversão, é uma boa opção para modelos muito grande,  ;
+>+ Salvar o arquivo de covariância, se houver modificações de resistividade (criação de modelo a priori) ou suavização;
+
+7. Dados: Os dados podem ser verificados em View/Edit Data
+Opções possíveis para os dados:
+ * Mascarar pontos indesejados,
+ * Interporlar 
 >+ Salvar os dados no formato ModEM .dat;
 
 
