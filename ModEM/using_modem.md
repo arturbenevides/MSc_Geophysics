@@ -1,18 +1,36 @@
-# Modular System Eletromanetic - ModEM
+# ModEM - Modular System for Electromagnetic Inversion (Egbert and Kelbert, 2012; Kelbert et al., 2014).
 **Rotina prática para modelagem e inversão .**
 
 
 ## 3D grid
-Interface gráfica utilzada para geração do modelo, dado e covariância no formato do ModEM, servirá também para visualização dos resultados.
+Interface gráfica utilzada para geração de arquivos modelo, dado e covariância no formato do ModEM, além de auxiliar na visualização dos resultados.
 
 * *Passos iniciais:
-Importar com os dados (edi), criar modelo, centralizar as estações (certificar que cada estação está ocupando apenas uma célula), incluir topografia e/ou batimetria, incluir oceano (para investigações próximas a costa).
+* Importar os dados .edi ou .dat (modem) 
+* Criar modelo, definir parâmetros do grid: 
+ * resistividade do semi-espaço;
+ * n. de células nas direções x e y;
+ * dimensão das células x e y;
+ * n. de células de preenchimento e fator de crescimento;
+ * n. de células em Z;
+ * esperssura da primeira camada e fator de crescimento.
+ 
+* Após a criação do modelo é necessário certificar se cada estação está ocupando apenas uma célula:
+ *TOOLS> Center all Station > In X,Y and Z directions;
 
-Após a modelagem, deve-se:
->* Salvar o modelo (large model).
->* Salvar o modelo reduzido (nested model) - para casos em que queira otimizar a inversão.
->+ Salvar o arquivo de covariância, se houver modificações de resistividade ou suavização.
->+ Salvar os dados no formato ModEM
+* Incluir topografia e/ou batimetria:
+ *TOOLS> TOPO/Bathymetry > From SRTM ou Load TOPO/Batrymetry from XYZ File
+ 
+* Se o dado foi adquirido próximo a costa é necessário incluir o efeito do oceano
+ *TOOLS >  ADD Sea sediment Layers > Cell wise and Thikness-wise 
+
+Após definição dos parâmetros do grid, deve-se:
+>* Salvar o modelo (large model);
+>* Salvar o modelo reduzido (nested model) - para casos em que se queira otimizar a inversão;
+>+ Salvar o arquivo de covariância, se houver modificações de resistividade ou suavização;
+>+ Salvar os dados no formato ModEM .dat;
+
+
 >+ Salvar os dados sintéticos (obter layout dos períodos).
 
 ## ModEM
