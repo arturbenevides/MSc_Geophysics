@@ -9,7 +9,7 @@ Interface gráfica utilzada para geração de arquivos modelo, dado e covariânc
 
 * Passos iniciais:
 - Importar os dados .edi ou .dat (modem) 
->* Criar modelo, definir parâmetros do grid: 
+>1 Criar modelo, definir parâmetros do grid: 
  * resistividade do semi-espaço;
  * n. de células nas direções x e y;
  * dimensão das células x e y;
