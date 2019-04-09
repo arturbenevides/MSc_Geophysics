@@ -125,4 +125,5 @@ seguinte comando está sendo usado:
 **`> j2ModEM list.txt Full_Vertical_Components >> all_data.dat`**
 
 obs: Os comandos aplicados em sequência convertem os dados do formato jones para o ModEM tanto parao tensor de impedância quanto o tipper, se a intenção for usar apenas uma das funções de tranferência (tipper ou tensor de impedância), então entre com um dos comandos apenas.
-é necessário o arquivo list.txt
+é necessário o arquivo list.txt contendo:
+station.dat id_station latitude(grau decimal) longitude(grau decimal) X(m) Y(m) Z(m)
