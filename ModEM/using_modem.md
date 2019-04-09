@@ -122,6 +122,7 @@ seguinte comando está sendo usado:
 * comandos para converter j para modem 
 
 **`> j2ModEM list.txt Full_Impedance eZxx=0.2 eZyy=0.2 eZxy=0.1 eZyx=0.1 > all_data.dat`**
+
 **`> j2ModEM list.txt Full_Vertical_Components >> all_data.dat`**
 
 obs: Os comandos aplicados em sequência convertem os dados do formato jones para o ModEM tanto parao tensor de impedância quanto o tipper, se a intenção for usar apenas uma das funções de tranferência (tipper ou tensor de impedância), então entre com um dos comandos apenas.
