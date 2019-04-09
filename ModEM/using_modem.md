@@ -43,7 +43,7 @@ Use Data Error;
 Set Error Floors: escolher a porcentagem de erro e o método de cálculo. 
 Use periods layout
 
-## ModEM
+## ModEM (TERMINAL)
 
 ### Forward Modelling
 * basic
@@ -108,19 +108,20 @@ The output files after each iteration are:
 
 
 
-**Para uso no clustercoge** o seguinte comando está sendo usado:
+# Clustercoge- OBSERVATÓRIO NACIONAL 
+seguinte comando está sendo usado:
 
 **`> srun -N [1]  -o out.txt -e out.error -n [2] --mpi=pmi2 Mod3DMT -I NLCG arq.mod arq.dat ctrl.inv ctrl.fwd arq.cov arq.prm &`**
 
 
-* [1] é referente ao número de slaves que serão utilizadas para inversão. Ao todo, o cluster tem 28 slaves.
-* [2] é referente ao valore resultante do = (N.Periodos x 2 ) + 1
+* [1] é referente ao número de slaves que serão utilizadas para inversão. Até a data deste arquivo o cluster tem ao todo 28 slaves.
+* [2] é referente ao valor resultante do = (Número de Periodos x 2 ) + 1
 
-#
+# Miscelaneous 
 
-miscelaneous 
+* comandos para converter j para modem 
 
-comandos para converter j para modem 
+**`>j2ModEM list.txt Full_Impedance eZxx=0.2 eZyy=0.2 eZxy=0.1 eZyx=0.1 > all_data.dat**`
+**`>j2ModEM list.txt Full_Vertical_Components >> all_data.dat**`
 
-j2ModEM list.txt Full_Impedance eZxx=0.2 eZyy=0.2 eZxy=0.1 eZyx=0.1 > all_data.dat
-j2ModEM list.txt Full_Vertical_Components >> all_data.dat
+é necessário o arquivo list.txt
