@@ -32,7 +32,8 @@ N° |Atividade
 6| [Modelagem e Inversão](https://github.com/arturbenevides/MSc_Geophysics/tree/master/ModEM) 
 7| Interpretação Geofísica Geológica e Hidrogeológica
 8| Redação da dissertação e do artigo  
-9| Submissão de artigo e defesa da dissertação	
+9| Submissão de artigo
+10| Defesa da dissertação
  
 - [x] 2017
 
@@ -62,8 +63,8 @@ Atividade| ~~jan~~ | ~~fev~~| ~~mar~~| ~~abr~~| ~~mai~~|~~jun~~| ~~jul~~| ~~ago~
 Atividade| ~~jan~~ | ~~fev~~| mar| abr| mai| jun| jul| ago|set| out| nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|----:
 8        |    *  |   *   |      |      |      |      |      |     |      |      |      | 
-9        |       |       |   *  |      |      |      |      |     |      |      |      |
- 
+9        |       |       |      |  *   |      |      |      |     |      |      |      |
+10       |       |       |      |      |  *   |      |      |     |      |      |      | 
 
 
 * Acompanhamento detalhado do progresso **[Progress](https://github.com/arturbenevides/Magnetotelluric/projects/1)** :squirrel:
@@ -77,7 +78,7 @@ Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
 2017     |       |      |Início|      |      |      |     |      |~~1º Seminar~~||   |~~Disciplinas (Fim)~~
 2018     |       |      |~~Relatório~~||     |      | ~~24 EMIW~~ |:bowtie:~~[49º CBG](https://github.com/arturbenevides/apresentacoes)~~ |~~2º Seminar~~|      | |~~Dissertação (Deadline)~~
-2019     |       |Paper (Deadline) | :bowtie: Defesa| :checkered_flag:    |      |      |     |      |      |      |      |
+2019     |       |      | ~~Paper (Deadline)~~| :bowtie: Defesa:checkered_flag:    |      |      |     |      |      |      |      |
 
 
 # Disciplinas cursadas
