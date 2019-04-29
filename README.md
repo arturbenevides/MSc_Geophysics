@@ -92,7 +92,7 @@ Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|
  > * [Indução Eetromagnética em Meios Geológicos](http://on.br/dppg/geofisica/ementa/INDUCAO_ELETROMAGNETICA_EM_MEIOS_GEOLOGICOS_rev.pdf)
  > * [Geologia Geral e Aplicada](http://on.br/dppg/geofisica/ementa/GEOLOGIA_GERAL_E_APLICADA_rev.pdf)
  > * [Geofísica Aplicada à Exploração de Petróleo e Mineração](http://on.br/dppg/geofisica/ementa/GEOFISICA_APLICADA_A_EXPLORACAO_DE_PETROLEO_ref.pdf)
- > * [Interpretação  Sísmica Aplicada a exploração de Petróleo em Bacias Sedimentares](http://on.br/dppg/geofisica/ementa/INTERPRETACAO_SISMICA_APLICADA_A_EXPLORACAO_DE_PETROLEO_EM_BACIAS_SEDIMENTARES.pdf}
+ > * [Interpretação  Sísmica Aplicada a exploração de Petróleo em Bacias Sedimentares](http://on.br/dppg/geofisica/ementa/INTERPRETACAO_SISMICA_APLICADA_A_EXPLORACAO_DE_PETROLEO_EM_BACIAS_SEDIMENTARES.pdf)
  
 Cada disciplina equivale a 3 créditos, formando no total 24 créditos.
 
