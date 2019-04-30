@@ -94,7 +94,7 @@ Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|
  > * [Geofísica Aplicada à Exploração de Petróleo e Mineração](http://on.br/dppg/geofisica/ementa/GEOFISICA_APLICADA_A_EXPLORACAO_DE_PETROLEO_ref.pdf)
  > * [Interpretação  Sísmica Aplicada a exploração de Petróleo em Bacias Sedimentares](http://on.br/dppg/geofisica/ementa/INTERPRETACAO_SISMICA_APLICADA_A_EXPLORACAO_DE_PETROLEO_EM_BACIAS_SEDIMENTARES.pdf)
  
-Cada disciplina equivale a 3 créditos, formando no total 24 créditos.
+Cada disciplina equivale a 3 créditos, formando no total 27 créditos.
 
 > * Mini Curso: 3D Magnetotelluric Inversion (1 Crédito)
 _
