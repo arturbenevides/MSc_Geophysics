@@ -1,5 +1,5 @@
 # Processamento de dados MT (ADU/EMI/LEMI)
-@aBenevides, 2018.
+Benevides, 2018.
 
 **Etapas para processamento robusto dos dados MT u tilizando o pacote EMTF (Egbert e Eisel, 1998) e as otimizações propostas pelo pacote processamentoZ (Marcelo Banik).**
 
