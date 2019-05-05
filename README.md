@@ -18,8 +18,9 @@ Neste repositório constam textos, códigos e qualquer material desenvolvido dur
 
 (2) Interpretar os resultados visando contribuir para o entendimento da evolução tectono-sedimentar da bacia.
 
-(3) Contribuir para o mapeamento de estruturas com potencial hidrogeológico.
+(3) Avaliar a natureza de condutores crustais da Província Borborema, subjacente.
 
+(4) Contribuir para o mapeamento de estruturas com potencial hidrogeológico.
  
 ### Cronograma
 N° |Atividade
