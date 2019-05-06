@@ -1,6 +1,6 @@
 # Conceitos Básicos do MT
 
-@Artur Benevides, 2017
+Benevides, 2017
 
 
 ## Definição
