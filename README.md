@@ -1,5 +1,5 @@
 `Título do projeto de pesquisa:` 
-# Imageamento Magnetotelúrico 3D da Bacia de Iguatu: implicações hidrogeológicas. 
+# Imageamento Magnetotelúrico 3D na Bacia de Iguatu, NE Brasil. 
 
 Programa de Pós-Graduação em Geofísica - PPGG ON ([Observatório Nacional](http://on.br))
 
