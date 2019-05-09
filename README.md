@@ -1,4 +1,4 @@
-`Título do projeto de pesquisa:` 
+`Título da disertação:` 
 # Imageamento Magnetotelúrico 3D na Bacia de Iguatu, NE Brasil. 
 
 Programa de Pós-Graduação em Geofísica - PPGG ON ([Observatório Nacional](http://on.br))
