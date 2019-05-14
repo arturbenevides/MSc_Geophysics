@@ -54,7 +54,7 @@ A bacia data do fim do Jurássico e início do Cretáceo, todas as tentativas de
 Em relação às bacias marginais com alto potencial exploratório para hidrocarbonetos (e.g., Recôncavo, Potiguar), as bacias interiores são pouco conhecidas e estudadas pela comunidade científica. As pesquisas de cunho litoestratigráfico, petrológico, paleontológico e geofísico desenvolvidas até o presente momento vêm, de forma integrada, trazendo aos poucos uma melhor compreensão sobre a gênese e
 evolução da região durante a fragmentação do Gondwana. E é sob essa óptica que esse trabalho visa agregar novos conhecimentos fundamentados numa nova roupagem, moderna e dinâmica, baseada nos preceitos da estratigrafia genética aplicada a bacias rifts.
 
-# EDescrição Litológica
+# Descrição Litológica
 
 A coluna estratigráfica das bacias do Iguatu congrega sedimentos predominantemente de origem continental, do Cretáceo Inferior. Compreende sedimentos terrígenos do Grupo Iguatu, que engloba da base para o topo as seguintes unidades litoestratigráficas: Formação Icó, Formação Malhada Vermelha e Formação Lima Campos. Ocorrem ainda na área depósitos siliciclásticos terciários da Formação Moura,
 coberturas tércio-quartenárias e aluviões. O assoalho das bacias do Iguatu é formado de rochas metamórficas précambrianas que formam o embasamento cristalino, constituídas de associações graníticas e granodioríticas, além de gnaisses variados, quartzitos, calcários cristalinos e migmatitos (CAMPOS et al., 1979)
