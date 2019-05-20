@@ -1,7 +1,7 @@
 # Dimensionality analysis of Iguatu basin using Waldim and phase tensor methods
 
 
-## Location of soundings: 
+# Location of soundings: 
 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Bacia%20do%20Iguatu/Figs/bacia_iguatu_perfis.png' width=700>
 
