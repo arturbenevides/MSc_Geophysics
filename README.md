@@ -78,7 +78,7 @@ Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
 2017     |       |      |Início|      |      |      |     |      |~~Seminario I~~||   |~~Disciplinas (Fim)~~
 2018     |       |      |~~Relatório~~||     |      | ~~EMIW~~ |:bowtie:~~[CBG](https://github.com/arturbenevides/apresentacoes)~~ |~~Seminario II~~|      | |~~Dissertação (Deadline)~~
-2019     |       |      | ~~Paper (Deadline)~~|     |    :bowtie: Defesa:checkered_flag:  |      |     |      |      |      |      |
+2019     |       |      | ~~Paper (Deadline)~~|     |    ~~:bowtie: Defesa:checkered_flag:~~  |      |     |      |      |      |      |
 
 
 # Disciplinas cursadas
