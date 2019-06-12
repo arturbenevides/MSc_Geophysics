@@ -21,6 +21,7 @@ Neste repositório constam textos, códigos, além de outros materiais desenvolv
 
 (4) Contribuir para o mapeamento de estruturas com potencial hidrogeológico.
  
+ 
 ### Cronograma
 N° |Atividade
  ------------------------------|------------------------------------                   
@@ -80,6 +81,9 @@ Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|
 2018     |       |      |~~Relatório~~||     |      | ~~EMIW~~ |:bowtie:~~[CBG](https://github.com/arturbenevides/apresentacoes)~~ |~~Seminario II~~|      | |~~Dissertação (Deadline)~~
 2019     |       |      | ~~Paper (Deadline)~~|     |    ~~:bowtie: Defesa:checkered_flag:~~  |      |     |      |      |      |      |
 
+Para citar o material retirado desse repositório: 
+
+Benevides, A. S. (2019). Imageamento Magnetotelúrico 3D na Bacia de Iguatu NE Brasil. Dissertação de Mestrado, Observatório Nacional, Rio de Janeiro, RJ, Brasil.
 
 # Disciplinas cursadas
 
