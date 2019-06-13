@@ -5,6 +5,11 @@
 
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Bacia%20do%20Iguatu/Figs/bacia_iguatu_perfis.png' width=700>
 
+## WALDIM
+A análise dimensional é uma etapa importante no processamento de dados MT, pois caracteriza a geologia local de acordo com a variação espacial (x; y e z) da resistividade. Esta análise nos permite escolher a melhor abordagem para as etapas seguintes (modelagem e a inversão), além de contribuir na interpretação dos resultados obtidos. A metodologia a ser utilizada para os dados de Iguatu será o WALDIM, descrito por MARTÍ et al. (2009). O programa consiste em calcular os invariantes rotacionais para o tensor MT e determinar a dimensionalidade em cada frequência do dado adquirido.
+
+Trhesold= 0.15 I3 a I7 Q= 0.1
+
 ### Profile MT01
 * WALDIM 
 
