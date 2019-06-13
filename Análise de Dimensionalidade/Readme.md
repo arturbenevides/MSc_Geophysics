@@ -17,19 +17,19 @@
 * WALDIM
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/WALDIM/P2_interp.png' width=300>
 * Phase Tensor
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/Phase%20tensor/PhT_mt2.png' width=300>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/Phase%20tensor/PhT_mt2_int.png' width=300>
 
 ### Profile MT03
 * WALDIM
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/WALDIM/P3_interp.png' width=300>
 * Phase Tensor
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/Phase%20tensor/PhT_mt3.png' width=300>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/Phase%20tensor/PhT_mt3_int.png' width=300>
 
 ### Profile MT04
 * WALDIM
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/WALDIM/P4_interp.png' width=300>
 * Phase Tensor
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/Phase%20tensor/PhT_mt4.png' width=300>
+<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/An%C3%A1lise%20de%20Dimensionalidade/Phase%20tensor/PhT_mt4_int.png' width=300>
 
 # Phimin from phase tensor
 
