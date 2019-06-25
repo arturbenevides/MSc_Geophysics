@@ -4,6 +4,7 @@
 Programa de Pós-Graduação em Geofísica - PPGG ON ([Observatório Nacional](http://on.br))
 
 Mestrado em Geofísica Aplicada
+
 Período: mar/2017 - maio/2019
 ## [Artur S Benevides](http://lattes.cnpq.br/7097271152547438) 
 :email: benevidesartur@gmail.com
