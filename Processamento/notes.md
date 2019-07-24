@@ -275,8 +275,9 @@ pede o arquivo tranmt.bat
 > cat file.txt (visulizar no terminal)
 
 > mv -i file (transferir arquivo)
-> mv -i pasta1 pasta2 (cópia conteudo de uma pasta para outra)
+> mv -i pasta1 pasta2 (cópia conteudo de uma pasta para outra, a outra pasta deixa de existir.)
 
+> cp -avr pasta1/* pasta2 (cópia todo conteudo de uma pasta para outra, inclusive pastas)
 > cmp file1 file2 (Compara arquivos)
 
 > plot-cmp-tf file1 file2 (plotar zss no gráfico, quantos arquivos quiser.
