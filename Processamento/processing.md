@@ -5,13 +5,13 @@ Benevides, 2018.
 
 
 ## Diretórios pasta modelo:
->* /raw_data/MTxxx: 04Ixx.TSx; 04IxxTSX.clk  *(pastas contendo os dados brutos .TS, .T ou .ATS e os arquivos cloks .clk)*
+>* /raw_data/MTxxx: stn1.ats; stn1.clk  *(pastas contendo os dados brutos .TS, .T ou .ATS e os arquivos cloks .clk)*
 >* /sensor:   *(Pastas contendo os arquivos de sensores do equipamento)*
->* /DATA :  04I0xx_tsx.bin ; .err ; .log *(contém o binário reformatado e os arquivos com erro e o log)*
->* /SP : 04I0XX_TSX.sp        *(arquivos de parâmetros do sistema, referente ao equipamento de aquisição)*
->* /FCXXXX : 04I0XX_TSX.f5   *(armazenam os coeficientes de fourier por janelas, ex: FC00128)*
->* /MTXXXX : 04I0XX_TSX.zss  *(armazenam as funções de transferência .zss por jannelas, ex: MT00128)*
->* /tojones : igxxx.dat; .png ; .ps *(armazenam as funções de transferência no no formato jones); 
+>* /DATA :  stn1 (.asc, .bin) ; .err ; .log *(contém os dados em asc ou em binário reformatado, além dos arquivos com erro e o log)*
+>* /SP : stn1.sp        *(arquivos de parâmetros do sistema, referente ao equipamento de aquisição)*
+>* /FCXXXX : stn1.f5   *(armazenam os coeficientes de fourier por janelas, ex: FC00128)*
+>* /MTXXXX : stn1.zss  *(armazenam as funções de transferência .zss por jannelas, ex: MT00128)*
+>* /tojones : stn1.dat; .png ; .ps *(armazenam as funções de transferência no no formato jones); 
 
 ## Conversão de dados:
 
