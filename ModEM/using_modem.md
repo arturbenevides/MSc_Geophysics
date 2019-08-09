@@ -108,7 +108,7 @@ The output files after each iteration are:
 
 
 
-# Clustercoge- OBSERVATÓRIO NACIONAL 
+# Clustercoge- Observatório Nacional
 seguinte comando está sendo usado:
 
 **`> srun -N [1]  -o out.txt -e out.error -n [2] --mpi=pmi2 Mod3DMT -I NLCG arq.mod arq.dat ctrl.inv ctrl.fwd arq.cov arq.prm &`**
