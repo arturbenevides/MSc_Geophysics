@@ -4,7 +4,7 @@ Benevides, A.
 **Rotina prática para modelagem e inversão .**
 (Egbert and Kelbert, 2012; Kelbert et al., 2014).
 
-## 3D grid
+## 3D grid (Naser Meqbel - Consulting - GEO)
 Interface gráfica utilzada para geração de arquivos modelo, dado e covariância no formato do ModEM, além de auxiliar na visualização dos resultados.
 
 ### Passos iniciais:
