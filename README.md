@@ -15,8 +15,9 @@ Neste repositório constam textos, códigos, além de outros materiais desenvolv
 
 ## Produtos:
 
-Dissertação [:blue_book:](https://github.com/arturbenevides/MSc_Geophysics/blob/master/disserta%C3%A7%C3%A3o.pdf)
-Artigo [:page_with_curl:](https://doi.org/10.1016/j.jsames.2019.102396)
+[Dissertação](https://github.com/arturbenevides/MSc_Geophysics/blob/master/disserta%C3%A7%C3%A3o.pdf)
+
+Artigo :page_with_curl:[https://doi.org/10.1016/j.jsames.2019.10239](https://doi.org/10.1016/j.jsames.2019.10239)
 
 ### Objetivos do projeto de pesquisa
 (1) Fornecer um modelo geoelétrico de subsuperfície para [bacia de Iguatu](https://github.com/arturbenevides/Magnetotelluric/tree/master/Bacia%20do%20Iguatu) (NE brasil) utilizando a metodologia de inversão tridimensional do tensor de impedância através do algorítmo [ModEM](https://sites.google.com/site/modularem/) para dados magnetotelúricos.
