@@ -13,6 +13,15 @@ Orientador: [Sergio Fontes](http://lattes.cnpq.br/8537150955145617)
 
 Neste repositório constam textos, códigos, além de outros materiais desenvolvido durante o mestrado em Geofísica no Observatório Nacional para a área de eletromagnetismo, em especial o método magnetotelúrico (MT).
 
+## Produtos:
+
+[Dissertação](https://github.com/arturbenevides/MSc_Geophysics/blob/master/disserta%C3%A7%C3%A3o.pdf)
+
+Artigo :page_with_curl:[https://doi.org/10.1016/j.jsames.2019.10239](https://doi.org/10.1016/j.jsames.2019.10239)
+
+cite: Benevides, A.S., Fontes, S.L., La Terra, E. F., 2020. Magnetotelluric imaging of the Iguatu Basin in NE Brazil: From shallow aquifers to mid- crustal conductors, Journal of South American Earth Sciences, Volume 97, 102396.
+
+[url](http://www.sciencedirect.com/science/article/pii/S0895981119301920)
 
 ### Objetivos do projeto de pesquisa
 (1) Fornecer um modelo geoelétrico de subsuperfície para [bacia de Iguatu](https://github.com/arturbenevides/Magnetotelluric/tree/master/Bacia%20do%20Iguatu) (NE brasil) utilizando a metodologia de inversão tridimensional do tensor de impedância através do algorítmo [ModEM](https://sites.google.com/site/modularem/) para dados magnetotelúricos.
