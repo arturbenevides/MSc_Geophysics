@@ -1,9 +1,10 @@
 # Dimensionality analysis of Iguatu basin using Waldim and phase tensor methods
 
+Waldim: Weaver, J.T.; Agarwal, A.K.; Lilley, F.E.M.; 2000. Characterisation of the magnetotelluric tensor in terms of its invariants. Geophys. Journ. Int. 141, 321–336.
+Phase tensor: Caldwell, T.G.; Bibby, H.M.; Brown, C., 2004. The magnetotelluric phase tensor. Geophysical Journal International, v. 158, p. 457–469.
+Plot phase tensor - MTpy: Krieger, L., and Peacock, J., 2014. MTpy: A Python toolbox for magnetotellurics. Computers and Geosciences, 72, p167-175. https://doi.org/10.1016/j.cageo.2014.07.013
 
-# Location of soundings: 
 
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Bacia%20do%20Iguatu/Figs/bacia_iguatu_perfis.png' width=700>
 
 ## WALDIM
 A análise dimensional é uma etapa importante no processamento de dados MT, pois caracteriza a geologia local de acordo com a variação espacial (x; y e z) da resistividade. Esta análise nos permite escolher a melhor abordagem para as etapas seguintes (modelagem e a inversão), além de contribuir na interpretação dos resultados obtidos. A metodologia a ser utilizada para os dados de Iguatu será o WALDIM, descrito por MARTÍ et al. (2009). O programa consiste em calcular os invariantes rotacionais para o tensor MT e determinar a dimensionalidade em cada frequência do dado adquirido.
