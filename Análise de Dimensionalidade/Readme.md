@@ -1,8 +1,8 @@
 # Dimensionality analysis of Iguatu basin using Waldim and phase tensor methods
 
-Waldim: Weaver, J.T.; Agarwal, A.K.; Lilley, F.E.M.; 2000. Characterisation of the magnetotelluric tensor in terms of its invariants. Geophys. Journ. Int. 141, 321–336.
-Phase tensor: Caldwell, T.G.; Bibby, H.M.; Brown, C., 2004. The magnetotelluric phase tensor. Geophysical Journal International, v. 158, p. 457–469.
-Plot phase tensor - MTpy: Krieger, L., and Peacock, J., 2014. MTpy: A Python toolbox for magnetotellurics. Computers and Geosciences, 72, p167-175. https://doi.org/10.1016/j.cageo.2014.07.013
+ - Waldim: Weaver, J.T.; Agarwal, A.K.; Lilley, F.E.M.; 2000. Characterisation of the magnetotelluric tensor in terms of its invariants. Geophys. Journ. Int. 141, 321–336.
+ * Phase tensor: Caldwell, T.G.; Bibby, H.M.; Brown, C., 2004. The magnetotelluric phase tensor. Geophysical Journal International, v. 158, p. 457–469.
+ * Plot phase tensor - MTpy: Krieger, L., and Peacock, J., 2014. MTpy: A Python toolbox for magnetotellurics. Computers and Geosciences, 72, p167-175. https://doi.org/10.1016/j.cageo.2014.07.013
 
 
 
