@@ -122,7 +122,6 @@ Pasta Modelo
 * Mover o conteúdo da pasta modelo para pasta teste (Se preciso testar algo)
 > mv -i modelo teste
 
-*obs: não sei ainda o que significa o (i)*
 
 2. Colocar os sensores na pasta SENSORS
 
