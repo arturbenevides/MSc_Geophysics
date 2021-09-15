@@ -74,6 +74,9 @@ Os comandos **`processamentoZ`** e **`processamentoZbin`** englobam e automatiza
 
 **`echo "04I001.asc janela rr;04I00Ref.asc" > tmp.tmp`**
 
+* Concluído o processamento, são gerados arquivos mas pastas FC** e MT** (** diz respeito as janelas utilizadas no proessamento). Próximo passo é gerar as curvas para avaliação da qualidade do dado e possivel emprego de filtros pré-processamento.
+* >  plot-cmp-tf stn01.zss ps=stn01.ps
+
 ## Miscelânia
 
 ### Séries temporais
