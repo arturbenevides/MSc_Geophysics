@@ -86,7 +86,7 @@ Caso o processamento não tenha dado um bom resultado e o problema da estimativa
 * *gera um 04ig001.sec no dietório DATA, esse comando tem que ser dado a partir da pasta modelo mas, não requer endereçar o arquivo, pois ele subentende que o arquivo está na pasta DATA.*
 * *Para verificar a série temoporal, dentro da pasta data:*
 
-**`plotTS file.sec`**
+**`plot-ts file.sec`**
 * *Para eliminar trechos ruidosos deve se selecionar o trecho:*
 
 **`cat file.sec 2004-04-10T09 2004-04010T09:30:00 > file.sel`** 
