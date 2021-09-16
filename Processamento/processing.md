@@ -87,10 +87,11 @@ Caso o processamento não tenha dado um bom resultado e o problema da estimativa
 * *Para verificar a série temoporal, dentro da pasta data:*
 
 **`plot-ts file.sec`**
+* *opçoes  de plots seguem usando apenas `plot-ts`.
 * *Para eliminar trechos ruidosos deve se selecionar o trecho:*
 
 **`cat file.sec 2004-04-10T09 2004-04010T09:30:00 > file.sel`** 
-* *Nesse caso estamos elimina 30 minutos de medida, entre 9:00 e 9:30 de um determinado dia.*
+* *Nesse caso estamos eliminando 30 minutos de medida, entre 9:00 e 9:30 de um determinado dia.*
 * *Se quiser eliminar toda série a partir de um ponto:*
 
 **`cat file.sec 2004-04-10T09 end > file.sel`**
