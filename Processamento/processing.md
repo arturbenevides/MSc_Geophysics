@@ -134,9 +134,9 @@ O restante dos pontos da curva [1-8] ele irá utilizar todas as curvas do file2.
 
 *dica: digite >tojone para mais informações*
 
-> echo "file1 [1 - 6] file2 [1 - 6] file3 [1 - 6]\nfile2 [1 - 8] file3" > selecao.txt
+**`echo "file1 [1 - 6] file2 [1 - 6] file3 [1 - 6]\nfile2 [1 - 8] file3" > selecao.txt`**
 
-> tojone \local\selecao.txt > dado_selecionado.dat
+**`tojone \local\selecao.txt > dado_selecionado.dat`**
 
 dado_selecionado.dat -> aqruivo zss no formato jones
 
@@ -145,7 +145,9 @@ dado_selecionado.dat -> aqruivo zss no formato jones
 * O rhoplus ajuda a verificar a coerencia entre a amplitude da resistividade aparaente e fase usando o qui2
 
 1. step
+
 **`Z2rhoplus file.dat cmp=xy ef=5 > fileoutxy.dat`**
+
 **`Z2rhoplus file.dat cmp=yx ef=5 > fileoutyx.dat`**
 
 É necessário fazer para as componentes xy e yx separadamente.
@@ -154,6 +156,7 @@ ef é o erro tolerável.
 file.dat deve estar no formato jones.
 
 2. step
+
 **`rhoplus < fileoutxy.dat`**
 
 arquivos de saida xy_fileoutxy.rsp e xy_fileoutxy.rsp
