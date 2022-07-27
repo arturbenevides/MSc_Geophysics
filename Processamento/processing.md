@@ -140,6 +140,25 @@ O restante dos pontos da curva [1-8] ele irá utilizar todas as curvas do file2.
 
 dado_selecionado.dat -> aqruivo zss no formato jones
 
+#### RhoPlus
+
+* O rhoplus ajuda a verificar a coerencia entre a amplitude da resistividade aparaente e fase usando o qui2
+
+1. step
+> Z2rhoplus file.dat cmp=xy ef=5 > fileoutxy.dat
+> Z2rhoplus file.dat cmp=yx ef=5 > fileoutyx.dat
+
+É necessário fazer para as componentes xy e yx separadamente.
+ef é o erro tolerável. 
+
+file.dat deve estar no formato jones.
+
+2. step
+> rhoplus < fileoutxy.dat
+
+arquivos de saida xy_fileoutxy.rsp e xy_fileoutxy.rsp
+
+> plot-rhoplus xy_fileoutxy.rsp
 
 
 nohup processamentoZbin teste.txt > output.txt
