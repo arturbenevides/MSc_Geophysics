@@ -72,6 +72,19 @@ Os comandos **`processamentoZ`** e **`processamentoZbin`** englobam e automatiza
 ### Referência remota (rr)
 * *Na referência remota dois parâmetros são modificados/incluidos, o ss passa ser rr e devemos informar qual estação será utilizada como referência remota.*
 
+Na pasta DATA/RR localmente executar o comando:
+
+**`./make-rr /*128H.clk > files_128rr.log`**
+* Esse comando vai gerar novos arquivos clk (clock) referentes aos arquivos antigos que tem superposição.
+* O comando abaixo permite visualizar a superposição temporal das estações
+
+**`./plot-log-rr files_128rr.log`**
+
+* O comando a seguir refaz o clock para as outras estações permitindo o uso na referencia remota.
+**`./make-clk-rr files_128rr.log`**
+
+
+
 **`echo "04I001.asc janela rr;04I00Ref.asc" > tmp.tmp`**
 
 * Concluído o processamento, são gerados arquivos mas pastas FC** e MT** (** diz respeito as janelas utilizadas no proessamento). Próximo passo é gerar as curvas para avaliação da qualidade do dado e possivel emprego de filtros pré-processamento.
