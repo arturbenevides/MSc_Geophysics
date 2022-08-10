@@ -104,14 +104,14 @@ Caso o processamento não tenha dado um bom resultado e o problema da estimativa
 * *Para eliminar trechos ruidosos deve se selecionar o trecho:*
 
 **`cat file.sec 2004-04-10T09 2004-04010T09:30:00 > file.sel`** 
-* *Nesse caso estamos eliminando 30 minutos de medida, entre 9:00 e 9:30 de um determinado dia.*
+* *Nesse caso, estamos eliminando 30 minutos de medida, entre 9:00 e 9:30 de um determinado dia.*
 * *Se quiser eliminar toda série a partir de um ponto:*
 
 **`cat file.sec 2004-04-10T09 end > file.sel`**
 
 * *formato das horas: yyyy-mm-dd-Thh:mm:ss*
 
-* *Para o processamento esse trecho selecionado é armazenado em um arquivo .bad que deve ter o mesmo nome do arquivo .asc ou .bin que será processado**
+* *Para o processamento, esse trecho selecionado é armazenado em um arquivo .bad que deve ter o mesmo nome do arquivo .asc ou .bin que será processado**
 
 **`sec2bad file.sec file.sel > 04ig001.bad`**
 * *Uma pasta chamada BAD tem que ser criada pra guardar o file.bad*
