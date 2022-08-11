@@ -103,7 +103,7 @@ Caso o processamento não tenha dado um bom resultado e o problema da estimativa
 * *opçoes  de plots seguem usando apenas `plot-ts`.
 * *Para eliminar trechos ruidosos deve se selecionar o trecho:*
 
-**`cat file.sec 2004-04-10T09 2004-04010T09:30:00 > file.sel`** 
+**`echo '2022-07-08T22:00:00 2022-07-09T22:00:00'   > file.sel`** 
 * *Nesse caso, estamos eliminando 30 minutos de medida, entre 9:00 e 9:30 de um determinado dia.*
 * *Se quiser eliminar toda série a partir de um ponto:*
 
