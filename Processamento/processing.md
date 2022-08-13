@@ -123,7 +123,6 @@ Caso o processamento não tenha dado um bom resultado e o problema da estimativa
 
 ### Inversão de polaridade
 * Como alguns dados apresentam inversão de polaridade, recomenda-se realizar o processamentoZ para checar o comportamento da curva dos tensores Zxy e Zyx, que em teoria deve ser majoritariamente positivo e negativo, repectivamente.
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/curvas%20by%20EMTF/ig001_pol_inv.png' width=500 >
 
 * Após o processamento, se checado que o comportamento das curvas não estão consonantes com a teoria, deve-se verificar na caderneta se existe algum comentário referente aquela aquisição.
 
@@ -135,8 +134,6 @@ Caso o processamento não tenha dado um bom resultado e o problema da estimativa
 ### TOJONES
 
 * O tojone permite selecionar melhores resultados entre diferentes bandas (ex: TS3, TS4...), ou apenas excluir pontos:
-
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/tojones/ig001.png' width=500>
 
 Exemplo selecao.txt:
 file1 [1 - 6] file2 [1 - 6] file1 [1 - 6]
