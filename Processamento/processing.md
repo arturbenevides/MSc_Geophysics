@@ -96,39 +96,48 @@ Na pasta DATA/RR localmente executar o comando:
 Caso o processamento não tenha dado um bom resultado e o problema da estimativa esteja ligada a trechos ruins nas séries temporais, pode-se osbservar e remover trechos ruins da série.
 
 **`egb2tss 04ig001.asc`**
-* *gera um 04ig001.sec no dietório DATA, esse comando tem que ser dado a partir da pasta modelo mas, não requer endereçar o arquivo, pois ele subentende que o arquivo está na pasta DATA.*
+* *gera um 04ig001.sec no dietório DATA, note que para versões antigas esse comando precisa ser dado a partir da pasta modelo mas, não requer endereçar o arquivo, pois ele subentende que o arquivo está na pasta DATA.*
 * *Para verificar a série temoporal, dentro da pasta data:*
 
 **`plot-ts file.sec`**
 * *opçoes  de plots seguem usando apenas `plot-ts`.
-* *Para eliminar trechos ruidosos deve se selecionar o trecho:*
+* *Para eliminar trechos ruidosos deve se selecionar o trecho da seguinte forma:*
 
 **`echo '2022-07-08T22:00:00 2022-07-09T22:00:00'   > file.sel`** 
-* *Nesse caso, estamos eliminando 30 minutos de medida, entre 9:00 e 9:30 de um determinado dia.*
+* *Nesse caso, estamos selecionando 30 minutos de medida, entre 9:00 e 9:30 de um determinado dia e encaminando isso para um arquivo qualquer, varios trechos podem ser selcionados e armazenados sempre em duas colunas*
 * *Se quiser eliminar toda série a partir de um ponto:*
 
-**`cat file.sec 2004-04-10T09 end > file.sel`**
+**`echo '2004-04-10T09:00:00 end' > file.sel`**
 
 * *formato das horas: yyyy-mm-dd-Thh:mm:ss*
 
-* *Para o processamento, esse trecho selecionado é armazenado em um arquivo .bad que deve ter o mesmo nome do arquivo .asc ou .bin que será processado**
+* *Para o processamento, esse trecho selecionado deve ser armazenado em um arquivo .bad a partir do arquivo .sec, o mesmo .bad deve ter o mesmo nome do seu .asc ou .bin que será processado. O comando sec2bad faz a extração na série temporal do trecho selecionado** 
 
 **`sec2bad file.sec file.sel > 04ig001.bad`**
-* *Uma pasta chamada BAD tem que ser criada pra guardar o file.bad*
-* *Na hora do processamento:* 
+
+* *Uma pasta chamada /BAD deve ser criada dentro da pasta /DATA pra guardar o file.bad*
+* *Na hora do processamento deve ser alterar os termos de entrada na seguinte forma:* 
 
 **`echo 'file.asc;bad 128 ss' > tmp.tmp`**
 
 * O comando egb2tss só aceita arquivo.asc, portanto, não podemos verificar a série ainda para o caso dos equipamento EMI.
 
+* Verficação de superposição:
+*   Dentro da pasta /DATA/RR
+
+**`./make-clk /*128H.clk > files.log`**
+* Esse comando vai gerar um arquivo contendo os tempos em que as estaçõe estiveram funcionando.
+* O comando abaixo permite visualizar a superposição temporal das estações
+**`./plot-clock file.log`**
+
 ### Inversão de polaridade
 * Como alguns dados apresentam inversão de polaridade, recomenda-se realizar o processamentoZ para checar o comportamento da curva dos tensores Zxy e Zyx, que em teoria deve ser majoritariamente positivo e negativo, repectivamente.
 
-* Após o processamento, se checado que o comportamento das curvas não estão consonantes com a teoria, deve-se verificar na caderneta se existe algum comentário referente aquela aquisição.
+* Após o processamento, observando que o comportamento das curvas não estão consonantes com a teoria, deve-se verificar na caderneta se existe algum comentário referente aquela aquisição.
 
 * Havendo ou não comentários no relatório de campo, proceda a mudança de polaridade nos **eletrodos**, modificando os sinais nos fatores de ganho do Ex e Ey nos arquivos .sp referente a banda e estação. 
 
-* Após avaliação das polaridades via modificação do sinal do eletrodo, é necessário veificar se o tipper tem o mesmo comportamento em estações vizinhas. A mudança de polaridade pode estar associada a problemas na bobina também.
+* Após avaliação das polaridades via modificação do sinal do eletrodo, é necessário verificar se o tipper tem o mesmo comportamento em estações vizinhas. A mudança de polaridade pode estar associada a problemas na bobina também.
 <img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/curvas%20by%20EMTF/ig001zss.png' width = 500 >
 
 ### TOJONES
