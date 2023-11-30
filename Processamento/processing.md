@@ -74,13 +74,14 @@ Os comandos **`processamentoZ`** e **`processamentoZbin`** englobam e automatiza
 
 Na pasta DATA/RR localmente executar o comando:
 
-**`./make-rr /*128H.clk > files_128rr.log`**
+**`./make-clk-log /*128H.clk > files_128rr.log`**
 * Esse comando vai gerar novos arquivos clk (clock) referentes aos arquivos antigos que tem superposição.
 * O comando abaixo permite visualizar a superposição temporal das estações
 
 **`./plot-log-rr files_128rr.log`**
 
 * O comando a seguir refaz o clock para as outras estações permitindo o uso na referencia remota.
+
 **`./make-clk-rr files_128rr.log`**
 
 
