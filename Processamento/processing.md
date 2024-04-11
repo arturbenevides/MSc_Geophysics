@@ -78,7 +78,7 @@ Na pasta DATA/RR localmente executar o comando:
 * Esse comando vai gerar novos arquivos clk (clock) referentes aos arquivos antigos que tem superposição.
 * O comando abaixo permite visualizar a superposição temporal das estações
 
-**`./plot-log-rr files_128rr.log`**
+**`./plot-clock files_128rr.log`**
 
 * O comando a seguir refaz o clock para as outras estações permitindo o uso na referencia remota.
 
@@ -197,5 +197,11 @@ a ordem xy.rsp e yx.rsp deve ser mantida.
 *`j2edi.py stn01.dat > stn01.edi`*
 
 nohup processamentoZbin teste.txt > output.txt
+
+
+
+# tips
+Segmentation fault 
+Problema pode estar relacionado a picos nos canais e devem ser removidos para uma estimativa adequada.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
