@@ -78,7 +78,7 @@ Na pasta DATA/RR localmente executar o comando:
 * Esse comando vai gerar novos arquivos clk (clock) referentes aos arquivos antigos que tem superposição.
 * O comando abaixo permite visualizar a superposição temporal das estações
 
-**`./plot-log-rr files_128rr.log`**
+**`./plot-clock files_128rr.log`**
 
 * O comando a seguir refaz o clock para as outras estações permitindo o uso na referencia remota.
 
