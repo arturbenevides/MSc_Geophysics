@@ -106,11 +106,13 @@ Caso o processamento não tenha dado um bom resultado e o problema da estimativa
 
 **`echo '2022-07-08T22:00 2022-07-09T22:00'   > file.sel`** 
 * *Nesse caso, estamos selecionando 30 minutos de medida, entre 9:00 e 9:30 de um determinado dia e encaminando isso para um arquivo qualquer, varios trechos podem ser selcionados e armazenados sempre em duas colunas*
+  
 * *Se quiser eliminar toda série a partir de um ponto:*
 
 **`echo '2004-04-10T09:00:00 end' > file.sel`**
 
 * *Ou se precisar desconsiderar a parte inicial até determinado ponto:*
+  
 **`echo 'begin 2004-04-10T09:00' > file.sel`**
 
 * *formato da data e hora: yyyy-mm-dd-Thh:mm:ss*
@@ -120,8 +122,8 @@ Caso o processamento não tenha dado um bom resultado e o problema da estimativa
 
 **`sec2bad file.sec file.sel > 04ig001.bad`**
 
-* *Uma pasta chamada /BAD deve ser criada dentro da pasta /DATA pra guardar o file.bad*
-* *Na hora do processamento deve ser alterar os termos de entrada na seguinte forma:* 
+* *Uma pasta chamada /BAD deve ser criada dentro da pasta central (Modelo) pra guardar o file.bad*
+* *Na hora do processamento deve se alterar os termos de entrada na seguinte forma:* 
 
 **`echo 'file.asc;bad 128 ss' > tmp.tmp`**
 
@@ -142,8 +144,8 @@ Caso o processamento não tenha dado um bom resultado e o problema da estimativa
 
 * Havendo ou não comentários no relatório de campo, proceda a mudança de polaridade nos **eletrodos**, modificando os sinais nos fatores de ganho do Ex e Ey nos arquivos .sp referente a banda e estação. 
 
-* Após avaliação das polaridades via modificação do sinal do eletrodo, é necessário verificar se o tipper tem o mesmo comportamento em estações vizinhas. A mudança de polaridade pode estar associada a problemas na bobina também.
-<img src='https://github.com/arturbenevides/MSc_Geophysics/blob/master/Processamento/curvas%20by%20EMTF/ig001zss.png' width = 500 >
+* Após avaliação das polaridades via modificação do sinal dos canais, é necessário verificar se o Tipper tem o mesmo comportamento em estações vizinhas. A mudança de polaridade pode estar associada a problemas na bobina também.
+
 
 ### TOJONES
 
