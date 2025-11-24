@@ -104,13 +104,17 @@ Caso o processamento não tenha dado um bom resultado e o problema da estimativa
 * *opçoes  de plots seguem usando apenas `plot-ts`.
 * *Para eliminar trechos ruidosos deve se selecionar o trecho da seguinte forma:*
 
-**`echo '2022-07-08T22:00:00 2022-07-09T22:00:00'   > file.sel`** 
+**`echo '2022-07-08T22:00 2022-07-09T22:00'   > file.sel`** 
 * *Nesse caso, estamos selecionando 30 minutos de medida, entre 9:00 e 9:30 de um determinado dia e encaminando isso para um arquivo qualquer, varios trechos podem ser selcionados e armazenados sempre em duas colunas*
 * *Se quiser eliminar toda série a partir de um ponto:*
 
 **`echo '2004-04-10T09:00:00 end' > file.sel`**
 
-* *formato das horas: yyyy-mm-dd-Thh:mm:ss*
+* *Ou se precisar desconsiderar a parte inicial até determinado ponto:*
+**`echo 'begin 2004-04-10T09:00' > file.sel`**
+
+* *formato da data e hora: yyyy-mm-dd-Thh:mm:ss*
+* obs: se não funcionar a remoção pode ter relação com a presença dos segundos, remover e deixar só minutos. 
 
 * *Para o processamento, esse trecho selecionado deve ser armazenado em um arquivo .bad a partir do arquivo .sec, o mesmo .bad deve ter o mesmo nome do seu .asc ou .bin que será processado. O comando sec2bad faz a extração na série temporal do trecho selecionado** 
 
