@@ -74,26 +74,46 @@ Os comandos **`processamentoZ`** e **`processamentoZbin`** englobam e automatiza
 
 Na pasta DATA/RR localmente executar o comando:
 
-**`./make-clk-log /*128H.clk > files_128rr.log`**
-* Esse comando vai gerar novos arquivos clk (clock) referentes aos arquivos antigos que tem superposição.
+**`./make-clk-log ../*128H.clk > files_128rr.log`**
+* Esse comando vai gerar um log com os tempos de aquisição de cada estação.
 * O comando abaixo permite visualizar a superposição temporal das estações
 
 **`./plot-clock files_128rr.log`**
 
 * O comando a seguir refaz o clock para as outras estações permitindo o uso na referencia remota.
-
+* novos arquivos clk (clock) referentes aos arquivos antigos que tem superposição.
+* 
 **`./make-clk-rr files_128rr.log`**
 
-
+#### novamente na pasta principal, o esquema de processamento com referência remota pode ser aplicado.
 
 **`echo "04I001.asc janela rr;04I00Ref.asc" > tmp.tmp`**
 
 * Concluído o processamento, são gerados arquivos mas pastas FC** e MT** (** diz respeito as janelas utilizadas no proessamento). Próximo passo é gerar as curvas para avaliação da qualidade do dado e possivel emprego de filtros pré-processamento.
 * >  plot-cmp-tf stn01.zss ps=stn01.ps
 
-## Miscelânia
 
-### Séries temporais
+### Conversão para edi:
+Necessário criar um arquivo de seleção dos períodos existentes em cada janela processada. No caso de um único arquivo como no processamento de LP, todos os pontos podem ser considerados.
+
+Exemplo selecao.txt arquivo com apenas uma janela de processaento:
+     Zfile1 [1 - 24] #line 1
+
+Exemplo de seleção de arquivo com mais de uma janela de processamento
+      Zfile  [1-10] # line 1
+      ZxFile [1-6] ZyFile [11-16] TipperFile [1-6] # line 2
+  - line 1 seleciona os primeiros 10 períodos of de todo tensor e tipper do arquivo Zfile
+  - line 2 seleciona os primeiros 6 períodos do aqrquio Z1File e TipperFile e 11 até o 16
+  do arquivo ZyFile
+
+**`echo "file1 [1 - 24]" > stn.sel`**
+
+**`toedi \local\stn.sel`**
+Um arquivo edi será gerado automaticamente com o nome do arquivo de seleção "stn" com a extensão edi.
+
+## Miscelânia
+# Controle de qualidade das séries temporais
+### Visualizar séries temporais
 Caso o processamento não tenha dado um bom resultado e o problema da estimativa esteja ligada a trechos ruins nas séries temporais, pode-se osbservar e remover trechos ruins da série.
 
 **`egb2tss 04ig001.asc`**
